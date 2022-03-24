@@ -1,0 +1,10 @@
+(set-info :smt-lib-version 2.6)
+(set-logic QF_LRA)
+(declare-fun x () Real)
+(declare-fun y () Real)
+(assert (and (>= y x) (<= (- 2 x) y)))
+(assert (or (<= y -1) (<= y 2)))
+(check-sat)
+(get-model)
+(exit)
+

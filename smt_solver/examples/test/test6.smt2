@@ -1,0 +1,12 @@
+(set-info :smt-lib-version 2.6)
+(set-logic QF_LRA)
+(declare-fun x1 () Real)
+(declare-fun x2 () Real)
+(assert (= (+ x1 x2) 5) )
+(assert (= (+ (- x1) x2) 0) )
+(assert (= (+ (* 6 x1) (* 2 x2)) 21))
+(assert (>= x1 0))
+(assert (>= x2 0))
+(check-sat)
+(exit)
+
