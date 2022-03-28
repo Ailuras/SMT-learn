@@ -7,6 +7,7 @@ BUMP_FACTOR = 1 / .95
 incremental_nVars = 50
 
 class cdcl_solver_s(object):
+    # file表示文件输入，Clauses表示直接输入，nVars表示
     def __init__(self, file = None, nVars = incremental_nVars, nClauses = 0, Clauses = None):
         # init with a large variable number, when used out, extend it
         # we can use a variable map, maps the name of variable to index(from 1 to inf)
@@ -20,11 +21,13 @@ class cdcl_solver_s(object):
         if(Clauses is not None and file is not None):
             # from clauses and file at same time, it is an error!
             raise NotImplementedError()
+        # 直接输入
         if(Clauses is not None):
             # init with the clauses and nVars, which call self._parse_formula()
             self.solver_init(nVars, len(Clauses))
             self._parse_formula(Clauses) # restart
             self.used_nVars = nVars
+        # 文件输入
         elif(file is not None):
             # it will init in self.parse() or 
             self.parse(file) # restart
@@ -32,6 +35,7 @@ class cdcl_solver_s(object):
             # a deault settting(add clause by self.add_clause())
             self.solver_init(nVars, nClauses)
 
+    # 初始化求解器
     def solver_init(self, nVars, nClauses):
         self.nVars = nVars
         self.nClauses = nClauses
@@ -41,6 +45,7 @@ class cdcl_solver_s(object):
         self.clauses = []
         self.var_order = []
 
+    # 扩展变量个数
     def extend(self, nVars = incremental_nVars):
         # once append 100 variable
         if(nVars < incremental_nVars): nVars = incremental_nVars
@@ -53,12 +58,15 @@ class cdcl_solver_s(object):
     def delete(self):
         del self
 
+    # 扩展约束
     def extend_formula(self, formula):
         for cl in formula:
             self.add_clause(cl)
     
+    # 传播
     def propagate(self):
         # if(len(self.clauses)==0): return []
+        # 开始需要重启
         if(self.propagate_calls == 0): self.restart()
         self.propagate_calls += 1
         conflict = self._propagate()
@@ -76,32 +84,39 @@ class cdcl_solver_s(object):
             # not conflict, propagate success => return a partial assignment
             return self.get_propagate_model()
 
+    # 传播函数
     def _propagate(self):
         unit_literals = set()
         # level == 0: unit clause appears only in self.clauses
         if(self.level == 0):
             for clause in self.clauses:
+                # 若存在单位子句，则以该约束包含的文字作为决策文字
                 if(clause.is_unit()):
                     lit = clause[0].to_int()
                     unit_literals.add(lit)
+                    # 决策，在level0处添加当前lit
                     self.decisions[self.level].add(lit)
+                    # 隐含图，当前lit指向level0以及其原因（导致它的clause中的其他元素的取值）
                     self.i_graph[lit] = (self.level, [])
         else:
+            # 选择当前level的第一个文字作为单位文字
             lit = next(iter(self.decisions[self.level]))
             unit_literals.add(lit)
         
-        while(len(unit_literals)>0):
+        while(len(unit_literals) > 0):
             l = unit_literals.pop()
             if(self.literals[l].is_false()): return l
             self.literals[l].set_true()
             self.literals[-l].set_false()
 
+            # 可知cur_watchers表示哪些clause包含文字l
             indexes = self.cur_watchers[l].copy()
             for i in indexes:
                 clause = self.clauses[i]
                 if(clause.is_satisfied()):
                     continue
                 elif(clause.is_unit()):
+                    # 获取单位子句中的文字
                     unit_lit = clause.get_unset().to_int()
                     if unit_lit in self.i_graph:
                         continue
@@ -130,14 +145,15 @@ class cdcl_solver_s(object):
                         lit = lit.to_int()
                         if(i in self.cur_watchers[-lit]):
                             continue
-
+                        # ？？？
                         self.cur_watchers[l].remove(i)
                         self.cur_watchers[-lit].append(i)
                         break
-
         return False
     
+    # 重启
     def restart(self):
+        # 重置文字赋值
         for lit in self.literals.values():
             lit.unset()
         self.cur_var_order = deepcopy(self.var_order) # initial when used, not here
@@ -145,31 +161,37 @@ class cdcl_solver_s(object):
         self.cur_watchers = deepcopy(self.watchers)
         self.decisions = {0: set()}
         self.i_graph = {}
+        # 重置决策序列
         self.level = 0
+        # 重置传播次数
         self.propagate_calls = 0 
     
+    # 判断是否满足
     def satisfied(self):
         return all(clause.is_satisfied() for clause in self.clauses)
 
+    # 决策方法
     def decide(self):
         heapify(self.cur_var_order)
         # self.cur_var_order is []
         next_lit = 0
+        # 找到第一个未赋值的文字
         for _ in range(len(self.cur_var_order)):
             lit = heappop(self.cur_var_order)[1]
             if(self.literals[lit].is_unset()):
                 next_lit = lit
                 break
-
+        # lit->i，通过lit索引i，哈希
         self.var_order_finder = {lit: i for i, (p, lit) in enumerate(self.cur_var_order)}
 
         if(not next_lit):
             raise Exception(f'unable to choose literal')
-
+        # 做出决策，决策序列加一
         self.level += 1
         self.decisions[self.level] = {next_lit}
         self.i_graph[next_lit] = (self.level, [])
 
+    # 分析方法，找到1-UIP
     def analyze(self, l):
         # find first unique implication point (1-UIP)
         uips = set()
@@ -182,11 +204,10 @@ class cdcl_solver_s(object):
                         if self.i_graph[next_lit][0]==self.level]
             for next_lit in next_lits:
                 explore(next_lit, weight / len(next_lits))
-        
         explore(l, Fraction(1.))
 
         for lit in weights.keys():
-            if(weights[lit]==Fraction(1.)):
+            if(weights[lit] == Fraction(1.)):
                 uips.add(lit)
             uips.discard(l)
 
@@ -218,8 +239,10 @@ class cdcl_solver_s(object):
 
         self._addClause(new_clause)
 
+    # 添加约束
     def add_clause(self, clause):
-        self.add_times+=1
+        self.add_times += 1
+        # 判断是否扩展
         has_extend = False
         for i in clause:
             if(abs(i) > self.used_nVars):
@@ -255,6 +278,7 @@ class cdcl_solver_s(object):
                 self.var_order_finder[i] = len(self.var_order)  
                 self.var_order.append([heap_dict[i], i])
 
+    # 添加约束
     def _addClause(self, clause):
         self.clauses.append(Clause([self.literals[lit] for lit in clause]))
         clause_idx = len(self.clauses)-1
@@ -278,6 +302,7 @@ class cdcl_solver_s(object):
                 for item in self.cur_var_order:
                     item[0] *= 1e-100
 
+    # 求解方法，很简洁
     def solve(self) -> bool:
         # self.restart() # restart before, after parse_file or parse_formula
         while(True):
@@ -294,6 +319,7 @@ class cdcl_solver_s(object):
                 else:
                     self.decide()
 
+    # 得到传播后的变量赋值
     def get_propagate_model(self):
         model = []
         for i in range(2, self.used_nVars+1):
@@ -304,6 +330,7 @@ class cdcl_solver_s(object):
                     model.append(i)
         return model
 
+    # 得到变量赋值
     def get_model(self):
         model = [l for l in self.i_graph]
         self.model = []
@@ -311,6 +338,7 @@ class cdcl_solver_s(object):
                         for l in range(1, self.used_nVars)])
         return self.model
 
+    # 
     def _parse_formula(self, clauses):
         for clause in clauses:
             self.clauses.append(Clause(list({self.literals[int(x)]
@@ -328,7 +356,6 @@ class cdcl_solver_s(object):
                 self.watchers[-lit.to_int()].append(i)
         # var order maps bump factor to the literal
         self.var_order = [[p, lit] for lit, p in heap_dict.items()]
-
         self.restart()
 
     def parse(self, file):
@@ -370,6 +397,8 @@ class cdcl_solver_s(object):
         
         self.restart()
 
+
+# 约束的数据结构，其中lits表示约束包含的文字的列表
 class Clause:
     def __init__(self, lits):
         self.lits = lits
@@ -379,19 +408,19 @@ class Clause:
 
     def __len__(self):
         return len(self.lits)
-
+    # 是否为单位子句
     def is_unit(self):
         return sum(lit.is_unset() for lit in self.lits) == 1
 
     def __iter__(self):
         yield from self.lits
-
+    # 判断约束是否满足
     def is_satisfied(self):
         return any(lit.is_true() for lit in self.lits)
-
+    # 判断约束是否为空子句（即不可满足）
     def is_empty(self):
         return all(lit.is_false() for lit in self.lits)
-
+    # 获取约束中未赋值的文字
     def get_unset(self):
         for lit in self.lits:
             if lit.is_unset():
@@ -405,6 +434,7 @@ class Clause:
         return ans[:-1]
 
 
+# 文字的数据结构，其中value表示文字的取值，lit表示文字的标签
 class Lit:
     def __init__(self, lit):
         self.lit = lit
@@ -427,7 +457,7 @@ class Lit:
 
     def is_unset(self):
         return self.value == 0
-
+    # 返回文字的标签
     def to_int(self):
         return self.lit
 

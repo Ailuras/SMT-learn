@@ -48,7 +48,8 @@ class dpllt_solver_s(object):
 
         # record solving time
         self.time = 0
-    
+
+    # 复位dpllt求解器
     def reset_dpllt(self):
         self.state = -1
 
@@ -95,20 +96,27 @@ class dpllt_solver_s(object):
         # record +/- constraint appended to theory_solver
         self.theory_history = []
 
+    # 复位断言
     def reset_assertions(self):
         self.assertions_stack = []
         self.current_assertions_level = 0
 
+    # 声明变量 
     def declare_variable(self, var):
         if not var.is_symbol():
             print("Trying to declare as a variable something "+"that is not a symbol: %s" % var)
+        # 如果未声明过
         if var not in self.symbol_to_decl:
+            # 添加变量
             self.add_variable(var.symbol_name(), var.get_type())
     
+    # 添加断言
     def add_assertion(self, clause, named=None):
+        # 添加约束
         self.assertions_stack.append(clause)
         self.state = -1
 
+    # 求解
     def solve(self, assumptions=None):
         self.time = time.clock()
         if(self.state==0): return False
@@ -132,6 +140,7 @@ class dpllt_solver_s(object):
                 self.time = time.clock()-self.time
                 return True # if full assignment => True
             
+    # 判断赋值是否可满足
     def _check_assignment(self):
         # check whether the assignment is sat under theory solver
         # from self._check_units -> self._check_assignment => self.theory_solver must have returned True
@@ -143,6 +152,7 @@ class dpllt_solver_s(object):
             self.sat_solver.decide()
             return False
 
+    # 赋值
     def _check_units(self):
         # check an SMT assignment is true or false, which deduced by sat solver
         units = []
@@ -179,14 +189,16 @@ class dpllt_solver_s(object):
             self.theory_solver.reset()
             # sat solver must restart, for a new clause is appended
             self.sat_solver.restart()
-     
+    
+    # 检查断言
     def check_assertions(self):
         for i in self.assertions_stack:
             for j in i:
                 if(self.cnf_mgr.is_false(j)):
                     return False
         return True
-      
+    
+    # 
     def setTheoryConstraints(self, model):
         # record appending history, only theory literals but not auxiliary variable
         for i in model:
@@ -206,7 +218,8 @@ class dpllt_solver_s(object):
 
     def get_value(self, item):
         pass
-
+    
+    # 输出变量赋值
     def get_answer(self):
         if(self.state==1):
             base_model = self.theory_solver.get_model()
@@ -215,8 +228,8 @@ class dpllt_solver_s(object):
                 if(i in self.sat_variable):
                     # it is a sat variable
                     var = self.sat_variable[i]
-                    ans+=("(declare-const %s %s %s)"%(i, str(self.symbol_to_decl[i]["sort"]), str(self.sat_solver.literals[var].is_true())))
-                    ans+="\n"
+                    ans += ("(declare-const %s %s %s)"%(i, str(self.symbol_to_decl[i]["sort"]), str(self.sat_solver.literals[var].is_true())))
+                    ans += "\n"
                 else:
                     # it is a theory variable
                     ans += ("(declare-fun %s %s %s)"%(i, str(self.symbol_to_decl[i]["sort"]), str(base_model[i])))
@@ -224,22 +237,26 @@ class dpllt_solver_s(object):
             return ans[:-1]
         return ""
 
+    # 
     def push(self, levels=1):
         for _ in range(levels):
             self.backtrack.append(len(self.assertions_stack))
 
+    # 
     def pop(self, levels=1):
         self.state = -1
         for _ in range(levels):
             l = self.backtrack.pop()
             self.assertions_stack = self.assertions_stack[:l]
 
+    # 获取断言栈的长度
     def get_asserts_length(self):
         return len(self.assertions_stack)
 
     def _exit(self):
         print("exit")
 
+    # 选择合适的求解器
     def setLogic(self, symbol):
         # if(symbol == "QF_LIA"):
         #     print("Not support!")
@@ -254,6 +271,7 @@ class dpllt_solver_s(object):
         # update formula stack in converter.convert -> maps formula to literal index
         # self.theory_converter.setFormulas(self.formulaStack)
 
+    # 添加约束
     # called by deduce() to add a clause as a consequence of assignment
     def add_clause(self, clause):
         # only append a single clause
@@ -264,9 +282,11 @@ class dpllt_solver_s(object):
         # convert constraints to literals
         pass
 
+    # 添加变量，sym:符号名字; sar:符号类型
     # from now on, auxiliary functions
     def add_variable(self, sym, sor):
         try:
+            # 若sor属于支持的类型
             if(sor in self.sorts):
                 # must a declared type
                 if(sym in self.symbol_to_decl):
@@ -277,7 +297,7 @@ class dpllt_solver_s(object):
                 else:
                     # type bool
                     var = self.cnf_mgr.make_literal()
-                    self.sat_variable[sym]=var
+                    self.sat_variable[sym] = var
                 index = len(self.var_table)
                 self.var_table[index] = sym
                 self.symbol_to_decl[sym] = {
@@ -291,6 +311,7 @@ class dpllt_solver_s(object):
         except DuplicateDefinition:
             print("Duplicate Definition about variable %s" % sym)
 
+    # 
     def all_cnf(self, level=0):
         ans = []
         for idx in range(level, len(self.assertions_stack)):
