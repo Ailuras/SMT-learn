@@ -1,3 +1,4 @@
+#encoding:utf-8
 from copy import deepcopy
 from fractions import Fraction
 from heapq import heapify, heappop
@@ -185,7 +186,7 @@ class cdcl_solver_s(object):
         self.var_order_finder = {lit: i for i, (p, lit) in enumerate(self.cur_var_order)}
 
         if(not next_lit):
-            raise Exception(f'unable to choose literal')
+            raise Exception('unable to choose literal')
         # 做出决策，决策序列加一
         self.level += 1
         self.decisions[self.level] = {next_lit}
@@ -304,6 +305,7 @@ class cdcl_solver_s(object):
 
     # 求解方法，很简洁
     def solve(self) -> bool:
+    def solve(self) ->
         # self.restart() # restart before, after parse_file or parse_formula
         while(True):
             conflict = self._propagate()
