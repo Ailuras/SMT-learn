@@ -40,6 +40,7 @@ class cdcl_solver_s(object):
     def solver_init(self, nVars, nClauses):
         self.nVars = nVars
         self.nClauses = nClauses
+        # 可以看到这边初始化了2*nVar个literals，分别表示正负文字
         self.literals = {i: Lit(i) for i in range(-nVars, nVars+1) if i != 0}
         self.var_inc = -1
         self.watchers = {i: [] for i in self.literals}
@@ -157,14 +158,17 @@ class cdcl_solver_s(object):
         # 重置文字赋值
         for lit in self.literals.values():
             lit.unset()
+        # 通过cur_var_order记录var_order
         self.cur_var_order = deepcopy(self.var_order) # initial when used, not here
+        # var_order_finder是cur_var_order的哈希表，方便查询
         self.var_order_finder = {lit: i for i, [p, lit] in enumerate(self.cur_var_order)}
+        # 通过cur_watchers记录watchers
         self.cur_watchers = deepcopy(self.watchers)
+        # 重置决策及隐含图
         self.decisions = {0: set()}
         self.i_graph = {}
-        # 重置决策序列
+        # 重置决策序列及传播次数
         self.level = 0
-        # 重置传播次数
         self.propagate_calls = 0 
     
     # 判断是否满足
@@ -305,7 +309,6 @@ class cdcl_solver_s(object):
 
     # 求解方法，很简洁
     def solve(self) -> bool:
-    def solve(self) ->
         # self.restart() # restart before, after parse_file or parse_formula
         while(True):
             conflict = self._propagate()
@@ -360,6 +363,7 @@ class cdcl_solver_s(object):
         self.var_order = [[p, lit] for lit, p in heap_dict.items()]
         self.restart()
 
+    # 导入文件
     def parse(self, file):
         f = open(file, 'r')
         lines = f.readlines()
@@ -367,11 +371,15 @@ class cdcl_solver_s(object):
         # escape the comment line
         lines = [line for line in lines if line[0]!='c' or line[0]!='\n']
         index = 0
+        # 第一行为参数
         params = lines[0].split()
         if(len(params)!=0 and params[0]=='p' and params[1]=='cnf'):
-            self.solver_init(int(params[2]),int(params[3]))
+            # 输入分别为变量个数nVar、约束个数nClause
+            self.solver_init(int(params[2]), int(params[3]))
+            # 已用变量个数也初始化为变脸个数nVar
             self.used_nVars = int(params[2])
             index += 1
+        # 处理输入约束
         nZeros = int(self.nClauses)
         while(nZeros>0):
             # if commend line or blank line, may raise error
@@ -379,22 +387,24 @@ class cdcl_solver_s(object):
             # delete the final zero, e.g. 1 -2 3 0
             clause = clause[:-1]
             # append to self.clauses
-            self.clauses.append(Clause(list({self.literals[int(x)]
-                                        for x in clause})))
+            self.clauses.append(Clause(list({self.literals[int(x)] for x in clause})))
             nZeros -= 1
             index += 1
         
         # temp dict for maps the bump factor to the literal
+        # 记录约束中各文字的次数
         heap_dict = {i: 1. for i in self.literals}
         for i, clause in enumerate(self.clauses):
             for lit in clause:
                 heap_dict[lit.to_int()] += self.var_inc
             
             # watchers is watching first two literals of all clauses
+            # watchers会记录约束中前两个文字对应的约束索引，但是是反着记录的
             for j in range(min(2, len(clause))):
                 lit = clause[j]
                 self.watchers[-lit.to_int()].append(i)
         # var order maps bump factor to the literal
+        # 利用heap_dict生成变量序，启发式
         self.var_order = [[p, lit] for lit, p in heap_dict.items()]
         
         self.restart()
@@ -438,6 +448,7 @@ class Clause:
 
 # 文字的数据结构，其中value表示文字的取值，lit表示文字的标签
 class Lit:
+    # 初始化时文字不赋值
     def __init__(self, lit):
         self.lit = lit
         self.value = 0

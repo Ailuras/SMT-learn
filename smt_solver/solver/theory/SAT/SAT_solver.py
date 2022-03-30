@@ -1,15 +1,16 @@
 import os
 import sys
 
+# 返回当前工作目录
 path = os.getcwd()
-pl = path.split("\\",-1)
+pl = path.split("\\", -1)
 
 if(pl[-1]=="SAT"):
     # in folder of QF_LRA
     from cdcl import cdcl_solver_s
 else:
     # in folder of SMT_Solver
-    from solver.theory.SAT.cdcl import cdcl_solver_s
+    from cdcl import cdcl_solver_s
 
 class solver(cdcl_solver_s):
     pass
