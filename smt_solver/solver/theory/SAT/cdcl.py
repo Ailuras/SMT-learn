@@ -88,6 +88,7 @@ class cdcl_solver_s(object):
 
     # 传播函数
     def _propagate(self):
+        print('-------------------单位传播-------------------')
         # 存储可能的单位文字
         unit_literals = set()
         # level == 0: unit clause appears only in self.clauses
@@ -107,29 +108,40 @@ class cdcl_solver_s(object):
             # 选择当前level的第一个文字作为单位文字
             lit = next(iter(self.decisions[self.level]))
             unit_literals.add(lit)
-        
+        print('当前单位文字：')
+        if len(unit_literals) > 0:
+            for i in unit_literals:
+                print(i)
+        else:
+            print('don\'t have!')
         # 若存在单位文字
         while(len(unit_literals) > 0):
             # 取一个单位文字
             l = unit_literals.pop()
             if(self.literals[l].is_false()): return l
             # 将文字l赋值为真，他的反文字则为假
+            print('文字', l, '被赋为真')
             self.literals[l].set_true()
             self.literals[-l].set_false()
 
             indexes = self.cur_watchers[l].copy()
+            print('包含文字l的约束如下：')
             # 对于包含文字l的约束
             for i in indexes:
                 clause = self.clauses[i]
+                print(clause)
                 # 首先判断约束是否已满足
                 if(clause.is_satisfied()):
+                    print('该约束已满足')
                     continue
                 # 然后判断传播后的约束是否可以继续单位传播
                 elif(clause.is_unit()):
                     # 获取单位子句中的文字
                     unit_lit = clause.get_unset().to_int()
+                    print('发现新的单位子句', unit_lit)
                     # 如果已经被选过则跳过
                     if unit_lit in self.i_graph:
+                        print('但已被选择!')
                         continue
                     unit_literals.add(unit_lit)
                     self.decisions[self.level].add(unit_lit)
@@ -142,6 +154,7 @@ class cdcl_solver_s(object):
                 elif(clause.is_empty()):
                     # conflict
                     # 向decisions中添加l的反文字
+                    print('发现冲突')
                     self.decisions[self.level].add(-l)
                     reason = [-lit.to_int()
                             for lit in clause
@@ -168,6 +181,8 @@ class cdcl_solver_s(object):
                         # 这边没搞懂，比如cluseA包含1、2、3，l=1，2、3未赋值，则-2和-3的cur_watchers添加A
                         self.cur_watchers[-lit].append(i)
                         break
+        # self.print_info()
+        # self.print_i_graph()
         return False
     
     # 重启
@@ -194,10 +209,11 @@ class cdcl_solver_s(object):
 
     # 决策方法
     def decide(self):
+        # 将cur_var_order转换为小根堆
         heapify(self.cur_var_order)
         # self.cur_var_order is []
         next_lit = 0
-        # 根据cur_var_order找到第一个未赋值的文字
+        # 根据cur_var_order找到第一个未赋值的文字，从小到大排列
         for _ in range(len(self.cur_var_order)):
             lit = heappop(self.cur_var_order)[1]
             if(self.literals[lit].is_unset()):
@@ -326,6 +342,7 @@ class cdcl_solver_s(object):
 
     # 求解方法，很简洁
     def solve(self) -> bool:
+        print('-------------------开始求解-------------------')
         # self.restart() # restart before, after parse_file or parse_formula
         while(True):
             # 单位传播
@@ -389,6 +406,7 @@ class cdcl_solver_s(object):
 
     # 导入文件
     def parse(self, file):
+        print('-------------------处理文件', file, '-------------------')
         f = open(file, 'r')
         lines = f.readlines()
         f.close()
@@ -420,6 +438,7 @@ class cdcl_solver_s(object):
         heap_dict = {i: 1. for i in self.literals}
         for i, clause in enumerate(self.clauses):
             for lit in clause:
+                # var_inc是负数，所以变量顺序还是按照有多到少排列的
                 heap_dict[lit.to_int()] += self.var_inc
             
             # watchers is watching first two literals of all clauses
@@ -430,9 +449,23 @@ class cdcl_solver_s(object):
         # var order maps bump factor to the literal
         # 利用heap_dict生成变量序，启发式
         self.var_order = [[p, lit] for lit, p in heap_dict.items()]
-        
+        # self.print_info()
         self.restart()
 
+    def print_info(self):
+        print('-------------------var_order-------------------')
+        print(self.var_order)
+        print('-------------------clauses-------------------')
+        for clause in self.clauses:
+            print(clause)
+        print('-------------------literals-------------------')
+        for literal in self.literals:
+            print(literal)
+
+    def print_i_graph(self):
+        print('-------------------i_graph-------------------')
+        for i,v in self.i_graph.items():
+            print(i, ':', v[0], v[1])
 
 # 约束的数据结构，其中lits表示约束包含的文字的列表
 class Clause:
@@ -441,6 +474,7 @@ class Clause:
 
     def __getitem__(self, key):
         return self.lits[key]
+    
 
     def __len__(self):
         return len(self.lits)

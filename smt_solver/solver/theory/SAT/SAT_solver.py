@@ -1,3 +1,4 @@
+#encoding:utf-8
 import os
 import sys
 
@@ -17,6 +18,6 @@ class solver(cdcl_solver_s):
 
 if(__name__=="__main__"):
     s = solver()
-    s.parse("./test3.cnf")
+    s.parse("smt_solver/solver/theory/SAT/test1.cnf")
     print(s.solve())
     print(s.get_model())
