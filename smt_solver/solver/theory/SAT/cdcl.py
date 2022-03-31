@@ -88,31 +88,37 @@ class cdcl_solver_s(object):
 
     # 传播函数
     def _propagate(self):
+        # 存储可能的单位文字
         unit_literals = set()
         # level == 0: unit clause appears only in self.clauses
+        # 初始化时，先寻找单位子句
         if(self.level == 0):
             for clause in self.clauses:
                 # 若存在单位子句，则以该约束包含的文字作为决策文字
                 if(clause.is_unit()):
                     lit = clause[0].to_int()
+                    # 记录该文字
                     unit_literals.add(lit)
                     # 决策，在level0处添加当前lit
                     self.decisions[self.level].add(lit)
-                    # 隐含图，当前lit指向level0以及其原因（导致它的clause中的其他元素的取值）
+                    # 隐含图，当前lit指向level0以及其前继（导致它的clause中的其他元素的取值）
                     self.i_graph[lit] = (self.level, [])
         else:
             # 选择当前level的第一个文字作为单位文字
             lit = next(iter(self.decisions[self.level]))
             unit_literals.add(lit)
         
+        # 若存在单位文字
         while(len(unit_literals) > 0):
+            # 取一个单位文字
             l = unit_literals.pop()
             if(self.literals[l].is_false()): return l
+            # 将文字l赋值为真，他的反文字则为假
             self.literals[l].set_true()
             self.literals[-l].set_false()
 
-            # 可知cur_watchers表示哪些clause包含文字l
             indexes = self.cur_watchers[l].copy()
+            # 对于包含文字l的约束
             for i in indexes:
                 clause = self.clauses[i]
                 if(clause.is_satisfied()):
