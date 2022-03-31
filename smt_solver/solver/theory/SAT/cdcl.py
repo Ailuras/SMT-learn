@@ -121,40 +121,51 @@ class cdcl_solver_s(object):
             # 对于包含文字l的约束
             for i in indexes:
                 clause = self.clauses[i]
+                # 首先判断约束是否已满足
                 if(clause.is_satisfied()):
                     continue
+                # 然后判断传播后的约束是否可以继续单位传播
                 elif(clause.is_unit()):
                     # 获取单位子句中的文字
                     unit_lit = clause.get_unset().to_int()
+                    # 如果已经被选过则跳过
                     if unit_lit in self.i_graph:
                         continue
                     unit_literals.add(unit_lit)
-
                     self.decisions[self.level].add(unit_lit)
+                    # reason表示导致unit_lit的文字赋值，比如1、2、3，若1为单位文字，则明显-2和-3赋值为真
                     reason = [-lit.to_int()
                             for lit in clause
                             if lit.to_int() != unit_lit]
                     self.i_graph[unit_lit] = (self.level, reason)
+                # 若出现空子句，则发生冲突
                 elif(clause.is_empty()):
                     # conflict
+                    # 向decisions中添加l的反文字
                     self.decisions[self.level].add(-l)
                     reason = [-lit.to_int()
                             for lit in clause
                             if lit.to_int() != -l]
                     self.i_graph[-l] = (self.level, reason)
+                    # 直接返回了文字l，表示发生了冲突
                     return l
+                # 不是上述情况
                 else:
                     # clause not sat, modify watchers
+                    # 修改watchers，
                     thing = iter(clause)
                     while(True):
                         lit = next(thing)
+                        # 如果lit被赋值，则跳过该文字
                         if(not lit.is_unset()):
                             continue
                         lit = lit.to_int()
+                        # 如果当前约束中存在-lits，则跳过
                         if(i in self.cur_watchers[-lit]):
                             continue
-                        # ？？？
+                        # 文字l的cur_watchers去掉当前约束i，因为l在该约束中已赋值了
                         self.cur_watchers[l].remove(i)
+                        # 这边没搞懂，比如cluseA包含1、2、3，l=1，2、3未赋值，则-2和-3的cur_watchers添加A
                         self.cur_watchers[-lit].append(i)
                         break
         return False
@@ -186,7 +197,7 @@ class cdcl_solver_s(object):
         heapify(self.cur_var_order)
         # self.cur_var_order is []
         next_lit = 0
-        # 找到第一个未赋值的文字
+        # 根据cur_var_order找到第一个未赋值的文字
         for _ in range(len(self.cur_var_order)):
             lit = heappop(self.cur_var_order)[1]
             if(self.literals[lit].is_unset()):
@@ -317,17 +328,24 @@ class cdcl_solver_s(object):
     def solve(self) -> bool:
         # self.restart() # restart before, after parse_file or parse_formula
         while(True):
+            # 单位传播
             conflict = self._propagate()
+            # 发生冲突
             if(conflict):
+                # 若在开始时就发生冲突，则肯定不满足
                 if(self.level==0):
                     return False
                 else:
+                    # 分析冲突，添加冲突子句
                     self.analyze(conflict)
+                    # 重启
                     self.restart()
+            # 未发生冲突
             else:
                 if(self.satisfied()):
                     return True
                 else:
+                    # 开始进行决策
                     self.decide()
 
     # 得到传播后的变量赋值
@@ -426,7 +444,7 @@ class Clause:
 
     def __len__(self):
         return len(self.lits)
-    # 是否为单位子句
+    # 是否为单位子句，只统计未赋值的文字，所以需要先判断是否已满足
     def is_unit(self):
         return sum(lit.is_unset() for lit in self.lits) == 1
 
