@@ -57,6 +57,7 @@ class cdcl_solver_s(object):
                 self.literals[i] = Lit(i)
                 self.watchers[i] = []
     
+    # 删除
     def delete(self):
         del self
 
@@ -125,7 +126,7 @@ class cdcl_solver_s(object):
             self.literals[-l].set_false()
 
             indexes = self.cur_watchers[l].copy()
-            print('包含文字l的约束如下：')
+            print('文字l赋值为false的约束如下：')
             # 对于包含文字l的约束
             for i in indexes:
                 clause = self.clauses[i]
@@ -138,7 +139,7 @@ class cdcl_solver_s(object):
                 elif(clause.is_unit()):
                     # 获取单位子句中的文字
                     unit_lit = clause.get_unset().to_int()
-                    print('发现新的单位子句', unit_lit)
+                    print('发现新的单位文字', unit_lit)
                     # 如果已经被选过则跳过
                     if unit_lit in self.i_graph:
                         print('但已被选择!')
@@ -229,7 +230,7 @@ class cdcl_solver_s(object):
         self.decisions[self.level] = {next_lit}
         self.i_graph[next_lit] = (self.level, [])
 
-    # 分析方法，找到1-UIP
+    # 分析方法，找到1-UIP，并添加新clause
     def analyze(self, l):
         # find first unique implication point (1-UIP)
         uips = set()
@@ -237,19 +238,23 @@ class cdcl_solver_s(object):
 
         def explore(lit, weight):
             weights[lit] += weight
+            # 寻找导致当前lit的当前level的决策变量
             next_lits = [next_lit
                         for next_lit in self.i_graph[lit][1]
                         if self.i_graph[next_lit][0]==self.level]
+            # 递归寻找（以增加权重的形式）
             for next_lit in next_lits:
                 explore(next_lit, weight / len(next_lits))
+        # 通过explore函数可以给当前level的各个文字赋予权重
         explore(l, Fraction(1.))
-
+        # 权重为1的即UIP
         for lit in weights.keys():
             if(weights[lit] == Fraction(1.)):
                 uips.add(lit)
             uips.discard(l)
 
         lit = l
+        # 寻找first-UIP，和explore函数类似的思路，寻找到的第一个uip即first-uip
         while(True):
             for next_lit in self.i_graph[lit][1]:
                 if(self.i_graph[next_lit][0] == self.level):
@@ -263,15 +268,18 @@ class cdcl_solver_s(object):
         new_clause = {-fuip}
 
         def find_cut(lit):
+            # 若lit不属于当前level，则向new_clause中添加该lit，表示两者不能共存
             if(self.i_graph[lit][0]!=self.level):
                 new_clause.add(-lit)
                 return
+            # 若到达fuip，返回
             if(lit == fuip):
                 return
             
             for next_lit in self.i_graph[lit][1]:
                 find_cut(next_lit)
         
+        # 对l的正负文字都采用find_cut方法
         find_cut(l)
         find_cut(-l)
 
@@ -318,14 +326,16 @@ class cdcl_solver_s(object):
 
     # 添加约束
     def _addClause(self, clause):
+        # 添加约束
         self.clauses.append(Clause([self.literals[lit] for lit in clause]))
         clause_idx = len(self.clauses)-1
         clause_iter = iter(clause)
-
-        for i in range(min(2, len(clause))):
+        # 更新watchers
+        for _ in range(min(2, len(clause))):
             lit = next(clause_iter)
             self.watchers[-lit].append(clause_idx)
         self.var_inc*=BUMP_FACTOR
+        # 更新变量序，若clause过多，需要进行缩小处理
         for lit in clause:
             if(lit not in self.var_order_finder):
                 continue
@@ -381,10 +391,10 @@ class cdcl_solver_s(object):
         model = [l for l in self.i_graph]
         self.model = []
         self.model.extend([-l if -l in model else l
-                        for l in range(1, self.used_nVars)])
+                        for l in range(1, self.used_nVars+1)])
         return self.model
 
-    # 
+    # 以clauses作为输入时调用
     def _parse_formula(self, clauses):
         for clause in clauses:
             self.clauses.append(Clause(list({self.literals[int(x)]
@@ -447,8 +457,16 @@ class cdcl_solver_s(object):
                 lit = clause[j]
                 self.watchers[-lit.to_int()].append(i)
         # var order maps bump factor to the literal
+        
+        # test_order
+        heap_dict[8] += -100
+        heap_dict[2] += -90
+        heap_dict[9] += -80
+        heap_dict[1] += -70
+        
         # 利用heap_dict生成变量序，启发式
         self.var_order = [[p, lit] for lit, p in heap_dict.items()]
+        
         # self.print_info()
         self.restart()
 
@@ -502,7 +520,6 @@ class Clause:
             ans += str(i) + " "
         
         return ans[:-1]
-
 
 # 文字的数据结构，其中value表示文字的取值，lit表示文字的标签
 class Lit:

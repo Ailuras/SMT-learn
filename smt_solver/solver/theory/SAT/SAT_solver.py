@@ -18,6 +18,6 @@ class solver(cdcl_solver_s):
 
 if(__name__=="__main__"):
     s = solver()
-    s.parse("smt_solver/solver/theory/SAT/test1.cnf")
+    s.parse("smt_solver/solver/theory/SAT/test.cnf")
     print(s.solve())
     print(s.get_model())
