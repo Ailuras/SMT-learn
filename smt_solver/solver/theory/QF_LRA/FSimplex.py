@@ -212,6 +212,7 @@ class solver(object):
             self.matrix.append(copy.deepcopy(self.origin[i]))
             self.recover_value(i)
 
+    # 添加约束
     def add_constraint(self, cons, lit):
         invert=(lit<0)
         # input: cons, type of constraint
@@ -393,7 +394,8 @@ class solver(object):
             if (str(x) != '__placeholder'): res[str(x)]=round(float(v(x)), prec)
         
         return res
-                
+    
+    # 处理文件输入    
     def parse(self, file):
         import re
         with open(file) as f:
@@ -405,6 +407,7 @@ class solver(object):
             if(line[0]=="#"):
                 # comment line
                 continue
+            # 处理变量
             elif(line.find("Real")>=0):
                 # declare variable
                 varlist = line[4:]
@@ -420,14 +423,18 @@ class solver(object):
                     self.add_variable(var)
                     varlist = varlist[idx+1:]
                     if(idx==-1): break
+            # 求解语句
             elif(line.find("check-sat")!=-1):
+                # 开始求解
                 tmp, ans = self.solve()
                 if(ans):
                     print("SAT")
+                    # 输出变量赋值
                     print(self.get_model())
                 else:
                     print("UNSAT")
                     print("None")
+            # 处理约束
             elif(line!="\n"):
                 # a formula
                 cons = constraint(formula=line.replace(" ",""))

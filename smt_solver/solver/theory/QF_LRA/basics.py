@@ -411,7 +411,7 @@ class calculation(object):
 
     def __str__(self):
         return str(self.data)
-
+# 约束的数据结构
 class constraint(object):
     def __init__(self, formula = None, l = None, r = None, opr = None):
         self.formula = calculation() # type of calculation
