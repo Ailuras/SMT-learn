@@ -45,8 +45,6 @@ class Cache(object):
             self.unbind(k)
 
 # EOC SmtLibExecutionCache
-
-
 class tokenizer(object):
     def __init__(self, handle, interactive = False):
         if interactive:
@@ -241,6 +239,7 @@ class SmtlibParser(object):
 
         return res
 
+    # 重置
     def _reset(self):
         pass
 
@@ -342,7 +341,6 @@ class SmtlibParser(object):
             raise SyntaxError()
         return var
     
-
     def parse_type(self, tokens, command):
         """Parses a single type name from the tokens"""
         return tokens.consume()
@@ -385,13 +383,10 @@ class SmtlibParser(object):
 
             return self.LatestScript
         
-
     def get_command_generator(self, script):
         tokens = tokenizer(script, interactive=self.interactive)
-
         for cmd in self.get_command(tokens):
             yield cmd
-
         return
 
     def get_command(self, tokens):
@@ -432,7 +427,6 @@ class SmtlibParser(object):
         stack[-1].append(self._exit_let)
         stack[-1].append(newvals.keys())
         pass
-
 
     def _exit_let(self, varlist, bdy):
         """ Cleans the execution environment when we exit the scope of a 'let' """
@@ -595,8 +589,6 @@ class SmtlibParser(object):
 
 class SmtlibSyntaxError(SyntaxError):
     pass
-
-
 
 
 # based on SMTLIB instructions, such as v2.0, v2.5, v2.6

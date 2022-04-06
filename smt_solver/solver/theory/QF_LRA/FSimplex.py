@@ -21,6 +21,7 @@ prec = 8
 
 # feasible simplex linear solver
 class solver(object):
+    
     def __init__(self):
         self.origin = {}
         self.matrix = []
@@ -84,10 +85,14 @@ class solver(object):
         self.varMaps[name]=idx
         return idx
 
+    # 
     def get_variable(self, idx):
-        if(idx<0): return self.auxi_variables[abs(idx)]
-        else: return self.prob_variables[idx]
+        if(idx<0): 
+            return self.auxi_variables[abs(idx)]
+        else: 
+            return self.prob_variables[idx]
 
+    # 求解
     def solve(self):
         # now only return the element take part in simplex
         cons_conf = []
