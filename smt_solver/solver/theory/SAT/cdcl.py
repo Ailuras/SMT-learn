@@ -69,7 +69,7 @@ class cdcl_solver_s(object):
     # 传播
     def propagate(self):
         # if(len(self.clauses)==0): return []
-        # 开始需要重启
+        # 最开始需要重启
         if(self.propagate_calls == 0): self.restart()
         self.propagate_calls += 1
         conflict = self._propagate()
@@ -80,6 +80,7 @@ class cdcl_solver_s(object):
                 return None
             else:
                 # restart if it is not an error, but a current false assignment
+                # 生成新的约束，并重启
                 self.analyze(conflict)
                 self.restart()
                 return []
@@ -375,7 +376,7 @@ class cdcl_solver_s(object):
                     # 开始进行决策
                     self.decide()
 
-    # 得到传播后的变量赋值
+    # 得到传播后的已赋值变量
     def get_propagate_model(self):
         model = []
         for i in range(2, self.used_nVars+1):

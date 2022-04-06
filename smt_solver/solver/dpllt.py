@@ -116,7 +116,7 @@ class dpllt_solver_s(object):
         self.assertions_stack.append(clause)
         self.state = -1
 
-    # 求解
+    # 求解函数
     def solve(self, assumptions=None):
         self.time = time.clock()
         if(self.state==0): return False
@@ -140,7 +140,7 @@ class dpllt_solver_s(object):
                 self.time = time.clock()-self.time
                 return True # if full assignment => True
             
-    # 判断赋值是否可满足
+    # 判断赋值是否可满足，以及进行新一轮变量赋值
     def _check_assignment(self):
         # check whether the assignment is sat under theory solver
         # from self._check_units -> self._check_assignment => self.theory_solver must have returned True
@@ -152,19 +152,24 @@ class dpllt_solver_s(object):
             self.sat_solver.decide()
             return False
 
-    # 赋值
+    # 传播过程，并进行求解
     def _check_units(self):
         # check an SMT assignment is true or false, which deduced by sat solver
         units = []
         while(True):
             # find unit clauses(assignment) for theory solver
+            # 好像会死循环，不太清楚
             while(True):
                 units = self.sat_solver.propagate()
+                # 出现空约束，原公式不可满足
                 if(units is None): 
                     # cannot find a partial assignment, conflicts in clauses
                     self.state = 0
                     return False
-                elif(len(units)==0): continue # sat solver restart for a new propagate answer
+                # 遇到冲突后重启，或是没有找到单位文字
+                elif(len(units)==0): 
+                    continue # sat solver restart for a new propagate answer
+                # 找到了部分
                 else: break # sat solver find a new solution
             # test the partial assignment in theory solver
             # if this partial assignment is wrong currently
@@ -190,7 +195,7 @@ class dpllt_solver_s(object):
             # sat solver must restart, for a new clause is appended
             self.sat_solver.restart()
     
-    # 检查断言
+    # 检查断言，若存在文字被赋值为false，则返回false，否则返回true
     def check_assertions(self):
         for i in self.assertions_stack:
             for j in i:
@@ -198,7 +203,6 @@ class dpllt_solver_s(object):
                     return False
         return True
     
-    # 
     def setTheoryConstraints(self, model):
         # record appending history, only theory literals but not auxiliary variable
         for i in model:

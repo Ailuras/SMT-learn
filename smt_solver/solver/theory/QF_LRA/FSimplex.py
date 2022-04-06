@@ -6,10 +6,12 @@ pl = path.split("\\",-1)
 
 if(pl[-1]=="QF_LRA"):
     # in folder of QF_LRA
+    # from solver.theory.QF_LRA.basics import RealVariable, calculation, constraint, l, u, v, constant_name, is_zero
     from basics import RealVariable, calculation, constraint, l, u, v, constant_name, is_zero
 else:
     # in folder of SMT_Solver
-    from solver.theory.QF_LRA.basics import RealVariable, calculation, constraint, l, u, v, constant_name, is_zero
+    # from solver.theory.QF_LRA.basics import RealVariable, calculation, constraint, l, u, v, constant_name, is_zero
+    from basics import RealVariable, calculation, constraint, l, u, v, constant_name, is_zero
 
 from decimal import Decimal, getcontext
 
@@ -431,8 +433,8 @@ class solver(object):
                 cons = constraint(formula=line.replace(" ",""))
                 self.add_constraint(cons, 0)
 
-
 if(__name__=='__main__'):
 
     s = solver()
-    s.parse("./test3.la")
+    # s.parse("./test3.la")
+    s.parse("smt_solver/solver/theory/QF_LRA/test1.la")
