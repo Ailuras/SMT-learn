@@ -1,0 +1,135 @@
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_2_1.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_2_2.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_2_3.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_2_4.smt2 : 15268 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_2_5.smt2 : 15899 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_2_6.smt2 : 1200030 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_2_7.smt2 : 1200022 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_10.smt2 : 25086 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_3_11.smt2 : 1200029 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_3_12.smt2 : 1200064 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_3_13.smt2 : 1200035 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_1.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_2.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_3.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_4.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_5.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_6.smt2 : 15781 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_7.smt2 : 16474 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_8.smt2 : 17674 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_3_9.smt2 : 19333 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_10.smt2 : 25216 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_11.smt2 : 27546 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_12.smt2 : 40063 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_13.smt2 : 46129 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_14.smt2 : 78102 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_15.smt2 : 79340 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_16.smt2 : 129714 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_17.smt2 : 237677 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_18.smt2 : 743882 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_4_19.smt2 : 1200614 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_1.smt2 : 25 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_4_20.smt2 : 1200054 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_4_21.smt2 : 1200065 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_4_22.smt2 : 1200059 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_4_23.smt2 : 1200065 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_4_24.smt2 : 1200059 ms.
+--------------------------------------------------
+timeout
+QF_NRA_split/kissing/kissing_4_25.smt2 : 1200067 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_2.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_3.smt2 : 15305 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_4.smt2 : 15464 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_5.smt2 : 15946 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_6.smt2 : 16184 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_7.smt2 : 18600 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_8.smt2 : 19804 ms.
+--------------------------------------------------
+sat
+QF_NRA_split/kissing/kissing_4_9.smt2 : 23470 ms.

@@ -1,9 +1,6 @@
 #！/bin/bash
 time_t=$2
 
-# function split() {
-#     for 
-# }
 index=1
 function parallel() {
     for folder in $@/*;do 
