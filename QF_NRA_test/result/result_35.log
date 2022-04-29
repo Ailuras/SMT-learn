@@ -1,459 +1,459 @@
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 645 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 645 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200027 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200027 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 408 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 408 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200028 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200028 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 7337 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 7337 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200033 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200033 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1200028 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1200028 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200031 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200031 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200035 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200035 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1200021 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1200021 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200034 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200034 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200039 ms.
+QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200039 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 168 ms.
+QF_NRA/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 168 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 11304 ms.
+QF_NRA/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 11304 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 467637 ms.
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 467637 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200033 ms.
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200033 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 926586 ms.
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 926586 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 976365 ms.
+QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 976365 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/ATVA2013-zeno-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200076 ms.
+QF_NRA/LassoRanker/Ultimate/ATVA2013-zeno-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200076 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1200062 ms.
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1200062 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200078 ms.
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200078 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200333 ms.
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200333 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1200062 ms.
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1200062 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200084 ms.
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200084 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200113 ms.
+QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200113 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200034 ms.
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200034 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200040 ms.
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200040 ms.
 --------------------------------------------------
 sat
-QF_NRA_split/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 156 ms.
+QF_NRA/LassoRanker/Ultimate/Benghazi.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 156 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Boulder.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200029 ms.
+QF_NRA/LassoRanker/Ultimate/Boulder.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200029 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Boulder.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200039 ms.
+QF_NRA/LassoRanker/Ultimate/Boulder.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200039 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200143 ms.
+QF_NRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200143 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200183 ms.
+QF_NRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200183 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200297 ms.
+QF_NRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200297 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200289 ms.
+QF_NRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200289 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200747 ms.
+QF_NRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200747 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 2091 ms.
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 2091 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 10265 ms.
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 10265 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200086 ms.
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200086 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200073 ms.
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200073 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 95842 ms.
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 95842 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 321553 ms.
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 321553 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 510843 ms.
+QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 510843 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200028 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200028 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1200032 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 1200032 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200036 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200036 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1200381 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1200381 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1200139 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1200139 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1200179 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1200179 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200210 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200210 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 1203632 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 1203632 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200046 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200046 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 1200050 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 1200050 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1200149 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1200149 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1200219 ms.
+QF_NRA/LassoRanker/Ultimate/Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1200219 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 511 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 511 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1636 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1636 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 4206 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 4206 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 10471 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 10471 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1200130 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1200130 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 515 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 515 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1687 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1687 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 4685 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 4685 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 10567 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 10567 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1200132 ms.
+QF_NRA/LassoRanker/Ultimate/Canberra.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1200132 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/ChenFlurMukhopadhyay-2012SAS-Fig1.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200026 ms.
+QF_NRA/LassoRanker/Ultimate/ChenFlurMukhopadhyay-2012SAS-Fig1.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200026 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/ChenFlurMukhopadhyay-2012SAS-Fig1.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200035 ms.
+QF_NRA/LassoRanker/Ultimate/ChenFlurMukhopadhyay-2012SAS-Fig1.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200035 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-lexTemplate.smt2 : 4008 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-lexTemplate.smt2 : 4008 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-nestedTemplate.smt2 : 3205 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-nestedTemplate.smt2 : 3205 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-phaseTemplate.smt2 : 3698 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-phaseTemplate.smt2 : 3698 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 17692 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 17692 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-lexTemplate.smt2 : 14231 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-lexTemplate.smt2 : 14231 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-nestedTemplate.smt2 : 4931 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-nestedTemplate.smt2 : 4931 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-phaseTemplate.smt2 : 4754 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-phaseTemplate.smt2 : 4754 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1201349 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1201349 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 16404 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 16404 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-nestedTemplate.smt2 : 5778 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-nestedTemplate.smt2 : 5778 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 11755 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_4-phaseTemplate.smt2 : 11755 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 : 13516 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_5-nestedTemplate.smt2 : 13516 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 15210 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 15210 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 : 15067 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-nestedTemplate.smt2 : 15067 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 13978 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 13978 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 : 14158 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 : 14158 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1200902 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 1200902 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_affineTemplate.smt2 : 1873 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_affineTemplate.smt2 : 1873 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-lexTemplate.smt2 : 5462 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-lexTemplate.smt2 : 5462 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-nestedTemplate.smt2 : 3533 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-nestedTemplate.smt2 : 3533 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-phaseTemplate.smt2 : 3845 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-phaseTemplate.smt2 : 3845 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 16830 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 16830 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-lexTemplate.smt2 : 12341 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-lexTemplate.smt2 : 12341 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-nestedTemplate.smt2 : 3789 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-nestedTemplate.smt2 : 3789 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-phaseTemplate.smt2 : 4399 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-phaseTemplate.smt2 : 4399 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1201342 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1201342 ms.
 --------------------------------------------------
 unknown
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-lexTemplate.smt2 : 8183 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-lexTemplate.smt2 : 8183 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-nestedTemplate.smt2 : 6594 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-nestedTemplate.smt2 : 6594 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 10787 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-phaseTemplate.smt2 : 10787 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1202230 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1202230 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-nestedTemplate.smt2 : 6762 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-nestedTemplate.smt2 : 6762 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 12882 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 12882 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-nestedTemplate.smt2 : 17187 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-nestedTemplate.smt2 : 17187 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1200785 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1200785 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-nestedTemplate.smt2 : 15706 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-nestedTemplate.smt2 : 15706 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1200832 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1200832 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_affineTemplate.smt2 : 1881 ms.
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_affineTemplate.smt2 : 1881 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200039 ms.
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200039 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200051 ms.
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200051 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1200048 ms.
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1200048 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200090 ms.
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200090 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200065 ms.
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200065 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 4992 ms.
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 4992 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200078 ms.
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200078 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200094 ms.
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200094 ms.
 --------------------------------------------------
 sat
-QF_NRA_split/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 147252 ms.
+QF_NRA/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 147252 ms.
 --------------------------------------------------
 sat
-QF_NRA_split/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 400031 ms.
+QF_NRA/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 400031 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200276 ms.
+QF_NRA/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200276 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200039 ms.
+QF_NRA/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200039 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200041 ms.
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200041 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200040 ms.
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200040 ms.
 --------------------------------------------------
 sat
-QF_NRA_split/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 484 ms.
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 484 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 248382 ms.
+QF_NRA/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 248382 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 350390 ms.
+QF_NRA/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 350390 ms.
 --------------------------------------------------
 sat
-QF_NRA_split/LassoRanker/Ultimate/Gcd.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 11110 ms.
+QF_NRA/LassoRanker/Ultimate/Gcd.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 11110 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200078 ms.
+QF_NRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200078 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200110 ms.
+QF_NRA/LassoRanker/Ultimate/Gcd_havoc.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200110 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200202 ms.
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200202 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200486 ms.
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200486 ms.
 --------------------------------------------------
 sat
-QF_NRA_split/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 11367 ms.
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 11367 ms.
 --------------------------------------------------
 sat
-QF_NRA_split/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 14359 ms.
+QF_NRA/LassoRanker/Ultimate/GcdNew.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 14359 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Gothenburg.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 3543 ms.
+QF_NRA/LassoRanker/Ultimate/Gothenburg.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 3543 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200195 ms.
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200195 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200247 ms.
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200247 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1337 ms.
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 1337 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1910 ms.
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 1910 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 2385 ms.
+QF_NRA/LassoRanker/Ultimate/Gulwani.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 2385 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/IncreasingSI.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200950 ms.
+QF_NRA/LassoRanker/Ultimate/IncreasingSI.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200950 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Khartoum.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200036 ms.
+QF_NRA/LassoRanker/Ultimate/Khartoum.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1200036 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Khartoum.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200048 ms.
+QF_NRA/LassoRanker/Ultimate/Khartoum.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200048 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200401 ms.
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200401 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200078 ms.
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200078 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 2295 ms.
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 2295 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200080 ms.
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200080 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1200118 ms.
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1200118 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200034 ms.
+QF_NRA/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200034 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200036 ms.
+QF_NRA/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200036 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1200032 ms.
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 1200032 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200035 ms.
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200035 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200043 ms.
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200043 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200034 ms.
+QF_NRA/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200034 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200044 ms.
+QF_NRA/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200044 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 13702 ms.
+QF_NRA/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 13702 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200481 ms.
+QF_NRA/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200481 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/Mysore.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200033 ms.
+QF_NRA/LassoRanker/Ultimate/Mysore.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 1200033 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200600 ms.
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200600 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 257842 ms.
+QF_NRA/LassoRanker/Ultimate/NonTerminationDifficult.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 257842 ms.

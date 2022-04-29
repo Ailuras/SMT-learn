@@ -1,459 +1,459 @@
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_global_7.smt2 : 72 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_global_7.smt2 : 72 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_global_8.smt2 : 2575 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_global_8.smt2 : 2575 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_global_9.smt2 : 82 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_global_9.smt2 : 82 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_0.smt2 : 28 ms.
---------------------------------------------------
-timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_10.smt2 : 1200022 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_11.smt2 : 92 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_0.smt2 : 28 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_12.smt2 : 1200018 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_10.smt2 : 1200022 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_13.smt2 : 92 ms.
---------------------------------------------------
-timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_14.smt2 : 1200019 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_15.smt2 : 116 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_1.smt2 : 23 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_2.smt2 : 30 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_3.smt2 : 35 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_4.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_5.smt2 : 45 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_6.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_7.smt2 : 54 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_11.smt2 : 92 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_8.smt2 : 1200024 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_12.smt2 : 1200018 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_9.smt2 : 69 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_0.smt2 : 21 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_13.smt2 : 92 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_10.smt2 : 1200020 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_14.smt2 : 1200019 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_11.smt2 : 61 ms.
---------------------------------------------------
-timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_12.smt2 : 1200027 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_15.smt2 : 116 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_13.smt2 : 72 ms.
---------------------------------------------------
-timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_14.smt2 : 1200023 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_1.smt2 : 23 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_15.smt2 : 81 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_2.smt2 : 30 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_1.smt2 : 22 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_3.smt2 : 35 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_2.smt2 : 27 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_4.smt2 : 39 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_3.smt2 : 30 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_5.smt2 : 45 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_4.smt2 : 32 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_6.smt2 : 52 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_5.smt2 : 37 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_6.smt2 : 41 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_7.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_8.smt2 : 1955 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_9.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_0.smt2 : 21 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_7.smt2 : 54 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_10.smt2 : 1200021 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_8.smt2 : 1200024 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_11.smt2 : 85 ms.
---------------------------------------------------
-timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_12.smt2 : 1200017 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_lemmas_global_9.smt2 : 69 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_13.smt2 : 108 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_0.smt2 : 21 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1200030 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_10.smt2 : 1200020 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_15.smt2 : 133 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_1.smt2 : 22 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_2.smt2 : 29 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_3.smt2 : 34 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_4.smt2 : 37 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_5.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_6.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_7.smt2 : 60 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_11.smt2 : 61 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_8.smt2 : 1200094 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_12.smt2 : 1200027 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_9.smt2 : 74 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_0.smt2 : 23 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_13.smt2 : 72 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_10.smt2 : 1200041 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_14.smt2 : 1200023 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_11.smt2 : 25491 ms.
---------------------------------------------------
-timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_12.smt2 : 1200145 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_15.smt2 : 81 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_13.smt2 : 19870 ms.
---------------------------------------------------
-timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_14.smt2 : 1200029 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_1.smt2 : 22 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_15.smt2 : 15891 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_2.smt2 : 27 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_1.smt2 : 28 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_3.smt2 : 30 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_2.smt2 : 36 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_4.smt2 : 32 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_3.smt2 : 52 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_5.smt2 : 37 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_4.smt2 : 64 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_6.smt2 : 41 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_5.smt2 : 97 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_7.smt2 : 43 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_6.smt2 : 141 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_8.smt2 : 1955 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_7.smt2 : 445 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_global_9.smt2 : 54 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_0.smt2 : 21 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_8.smt2 : 1200024 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_10.smt2 : 1200021 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.redlog_global_9.smt2 : 2949 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_0.smt2 : 24 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_11.smt2 : 85 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_10.smt2 : 1200052 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_12.smt2 : 1200017 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_11.smt2 : 69 ms.
---------------------------------------------------
-timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_12.smt2 : 1200052 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_13.smt2 : 73 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_13.smt2 : 108 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_14.smt2 : 1200023 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1200030 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_15.smt2 : 78 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_15.smt2 : 133 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_1.smt2 : 22 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_1.smt2 : 22 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_2.smt2 : 27 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_2.smt2 : 29 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_3.smt2 : 30 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_3.smt2 : 34 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_4.smt2 : 34 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_4.smt2 : 37 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_5.smt2 : 36 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_5.smt2 : 42 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_6.smt2 : 42 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_6.smt2 : 50 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_7.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_8.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_global_9.smt2 : 51 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_0.smt2 : 20 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_7.smt2 : 60 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_10.smt2 : 1200025 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_8.smt2 : 1200094 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_11.smt2 : 91 ms.
+QF_NRA/hycomp/ball_count_2d_hill.03.seq_lazy_linear_enc_lemmas_global_9.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_0.smt2 : 23 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_12.smt2 : 1200027 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_10.smt2 : 1200041 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_13.smt2 : 107 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_11.smt2 : 25491 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_14.smt2 : 1200214 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_12.smt2 : 1200145 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_15.smt2 : 130 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_1.smt2 : 21 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_2.smt2 : 29 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_3.smt2 : 33 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_4.smt2 : 37 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_5.smt2 : 44 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_6.smt2 : 47 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_7.smt2 : 52 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_8.smt2 : 61 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_9.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_0.smt2 : 19 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_13.smt2 : 19870 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_10.smt2 : 1200042 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_14.smt2 : 1200029 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_11.smt2 : 61 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_15.smt2 : 15891 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_1.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_2.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_3.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_4.smt2 : 64 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_5.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_6.smt2 : 141 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_7.smt2 : 445 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_12.smt2 : 1200044 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_8.smt2 : 1200024 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_13.smt2 : 73 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.redlog_global_9.smt2 : 2949 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_0.smt2 : 24 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_14.smt2 : 1200036 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_10.smt2 : 1200052 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_15.smt2 : 79 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_1.smt2 : 22 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_2.smt2 : 27 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_3.smt2 : 29 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_4.smt2 : 33 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_5.smt2 : 35 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_6.smt2 : 40 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_7.smt2 : 43 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_8.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_9.smt2 : 50 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_0.smt2 : 20 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_11.smt2 : 69 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_10.smt2 : 1200027 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_12.smt2 : 1200052 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_11.smt2 : 83 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_13.smt2 : 73 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_12.smt2 : 1200488 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_14.smt2 : 1200023 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_13.smt2 : 87 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_15.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_1.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_2.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_3.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_4.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_5.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_6.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_7.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_8.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_global_9.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_0.smt2 : 20 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1200057 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_10.smt2 : 1200025 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_15.smt2 : 123 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_1.smt2 : 22 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_2.smt2 : 29 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_3.smt2 : 33 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_4.smt2 : 37 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_5.smt2 : 42 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_6.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_7.smt2 : 54 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_8.smt2 : 65 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_9.smt2 : 66 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_0.smt2 : 22 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_11.smt2 : 91 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_10.smt2 : 1200055 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_12.smt2 : 1200027 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_11.smt2 : 10387 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_13.smt2 : 107 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_12.smt2 : 1200060 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_14.smt2 : 1200214 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_13.smt2 : 186907 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_15.smt2 : 130 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_1.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_2.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_3.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_4.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_5.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_6.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_7.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_8.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_lemmas_global_9.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_0.smt2 : 19 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_14.smt2 : 1200022 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_10.smt2 : 1200042 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_15.smt2 : 15173 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_1.smt2 : 24 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_2.smt2 : 36 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_3.smt2 : 60 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_4.smt2 : 63 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_5.smt2 : 89 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_6.smt2 : 150 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_7.smt2 : 391 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_8.smt2 : 885 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.redlog_global_9.smt2 : 6796 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.seq_lazy_global_0.smt2 : 24 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.seq_lazy_global_10.smt2 : 57 ms.
---------------------------------------------------
-unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.seq_lazy_global_11.smt2 : 62 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_11.smt2 : 61 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.05.seq_lazy_global_12.smt2 : 1200023 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_12.smt2 : 1200044 ms.
 --------------------------------------------------
 unsat
-QF_NRA_split/hycomp/ball_count_2d_hill.05.seq_lazy_global_13.smt2 : 75 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_13.smt2 : 73 ms.
 --------------------------------------------------
 timeout
-QF_NRA_split/hycomp/ball_count_2d_hill.05.seq_lazy_global_14.smt2 : 1200024 ms.
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_14.smt2 : 1200036 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_15.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_1.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_2.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_3.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_4.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_5.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_6.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_7.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_8.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_global_9.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_0.smt2 : 20 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_10.smt2 : 1200027 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_11.smt2 : 83 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_12.smt2 : 1200488 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_13.smt2 : 87 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1200057 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_15.smt2 : 123 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_1.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_2.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_3.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_4.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_5.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_6.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_7.smt2 : 54 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_8.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.04.seq_lazy_linear_enc_lemmas_global_9.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_0.smt2 : 22 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_10.smt2 : 1200055 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_11.smt2 : 10387 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_12.smt2 : 1200060 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_13.smt2 : 186907 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_14.smt2 : 1200022 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_15.smt2 : 15173 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_1.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_2.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_3.smt2 : 60 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_4.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_5.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_6.smt2 : 150 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_7.smt2 : 391 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_8.smt2 : 885 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.redlog_global_9.smt2 : 6796 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_0.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_10.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_11.smt2 : 62 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_12.smt2 : 1200023 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_13.smt2 : 75 ms.
+--------------------------------------------------
+timeout
+QF_NRA/hycomp/ball_count_2d_hill.05.seq_lazy_global_14.smt2 : 1200024 ms.
