@@ -1,0 +1,32 @@
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Lobnya-Boolean-Reordered.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1675 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 8163 ms.
+--------------------------------------------------
+unknown
+unsat
+QF_NRA/LassoRanker/Ultimate/Madrid.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 601705 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 7657 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 72339 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/LassoRanker/Ultimate/MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200008 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 9798 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/MultiPhase1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 66006 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 1570 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Mysore2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 32203 ms.

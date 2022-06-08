@@ -1,0 +1,30 @@
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 28836 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 : 95026 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_4-lexTemplate.smt2 : 19897 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/sumit.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 255263 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration10_Loop_3-pieceTemplate.smt2 : 689 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration10_Loop_4-pieceTemplate.smt2 : 2420 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 3243 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 : 1944 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.fixed.t2.c_Iteration7_Loop_4-pieceTemplate.smt2 : 3546 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/toeplz.c.i.toeplz.pl.t2.nor.t2.rlgfixed.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 : 2523 ms.

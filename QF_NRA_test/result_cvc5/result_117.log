@@ -1,0 +1,20 @@
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 65378 ms.
+--------------------------------------------------
+unknown
+unsat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 681537 ms.
+--------------------------------------------------
+unknown
+unsat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 819473 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/yPositive-SIscaled75.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 13753 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/ZenoWithoutDivision.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 3568 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/ZenoWithoutDivision.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 3483 ms.

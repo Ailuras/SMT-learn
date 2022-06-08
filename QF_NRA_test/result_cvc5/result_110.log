@@ -1,0 +1,30 @@
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_5-phaseTemplate.smt2 : 1012 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_6-phaseTemplate.smt2 : 1268 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/OpposedDisjuncts.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 1438 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/piecewise.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 6611 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Rotation02.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 280 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Rotation02.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 664 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/SanDiego.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 469 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 93 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 246 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/SantaBarbara01.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 735 ms.

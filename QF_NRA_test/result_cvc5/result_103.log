@@ -1,0 +1,30 @@
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-nestedTemplate.smt2 : 30594 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 32072 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_affineTemplate.smt2 : 6951 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 4663 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 9510 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1082 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 5971 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 18236 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 2921 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 58084 ms.

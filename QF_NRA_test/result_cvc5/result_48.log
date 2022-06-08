@@ -1,0 +1,30 @@
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/CooperatingT2/fun4.t2.c_Iteration1_Loop_3-pieceTemplate.smt2 : 3274 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/CooperatingT2/fun4.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 : 17895 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/fun8.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 : 919 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/fun8.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 2395 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/fun9.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1953 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/fun9.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 828 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/fun9.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 : 795 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/fun9.t2.c_Iteration4_Loop_3-pieceTemplate.smt2 : 1740 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/fun9.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 : 4545 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/CooperatingT2/graycode.t2.c_Iteration15_Loop_3-pieceTemplate.smt2 : 2288 ms.

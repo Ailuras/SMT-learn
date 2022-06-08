@@ -1,0 +1,31 @@
+--------------------------------------------------
+unknown
+unsat
+QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 644121 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 177 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/CopenhagenWithTmp.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 342 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 4294 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/DecreasingInvariant.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 221057 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 7658 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 94532 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/Ultimate/FourPhase.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 304 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 232 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/Ultimate/Garmisch.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 9912 ms.

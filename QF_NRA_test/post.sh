@@ -5,6 +5,7 @@ function post_process() {
         sed -i -r 's/_[0-9]+\//\//g' $file
         sed -i -r 's/temp\///g' $file
         sed -i -r 's/_split//g' $file
+        sed -i -r 's/_hard//g' $file
     done
 }
 
