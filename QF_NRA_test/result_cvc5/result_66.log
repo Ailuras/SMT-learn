@@ -1,30 +1,150 @@
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/queue_1.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 : 489 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0017.smt2 : 35 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/rlft3.c.i.rlft3.pl.t2.fixed.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 4758 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0021.smt2 : 44 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/rlft3.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 4777 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0022.smt2 : 90 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 7553 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0024.smt2 : 47 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 17246 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0025.smt2 : 46 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 4158 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0028.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0031.smt2 : 32 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration2_Lasso_3-pieceTemplate.smt2 : 5618 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0032.smt2 : 71 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0033.smt2 : 40 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration2_Lasso_4-pieceTemplate.smt2 : 12616 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0034.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0036.smt2 : 41 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_2-pieceTemplate.smt2 : 3430 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0038.smt2 : 44 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/sas2.t2.c_Iteration6_Lasso_3-pieceTemplate.smt2 : 6783 ms.
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0039.smt2 : 66 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0040.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0041.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0042.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0043.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0044.smt2 : 60 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0046.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0047.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0048.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0049.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0050.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0051.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0052.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0053.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0054.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0056.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0057.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0058.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0060.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0061.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0062.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0063.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0066.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0067.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0070.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0072.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0073.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0074.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0075.smt2 : 67 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0076.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0077.smt2 : 79 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0078.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0079.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0080.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0082.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0083.smt2 : 72 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0084.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/Chua/1/VC1/U/Chua-1-VC1-U-chunk-0085.smt2 : 788 ms.

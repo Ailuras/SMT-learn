@@ -1,30 +1,24 @@
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-nestedTemplate.smt2 : 30594 ms.
+sat
+QF_NRA/meti-tarski/RL-high-pass-circuit/RL-high-pass-circuit-gain-chunk-0005.smt2 : 65 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/RL-high-pass-circuit/RL-high-pass-circuit-gain-chunk-0007.smt2 : 69 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_7-phaseTemplate.smt2 : 32072 ms.
+QF_NRA/meti-tarski/RL-high-pass-circuit/RL-high-pass-circuit-gain-chunk-0008.smt2 : 36 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_affineTemplate.smt2 : 6951 ms.
+QF_NRA/meti-tarski/RL-high-pass-circuit/RL-high-pass-circuit-gain-chunk-0009.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/RL-high-pass-circuit/RL-high-pass-circuit-gain-chunk-0010.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/RL-high-pass-circuit/RL-high-pass-circuit-gain-chunk-0011.smt2 : 34 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 4663 ms.
+QF_NRA/meti-tarski/RL-high-pass-circuit/RL-high-pass-circuit-gain-chunk-0012.smt2 : 98 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig3.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 9510 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 1082 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 5971 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7a.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 18236 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 2921 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/CookSeeZuleger-2013TACAS-Fig7b.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 58084 ms.
+QF_NRA/meti-tarski/RL-high-pass-circuit/RL-high-pass-circuit-gain-chunk-0013.smt2 : 44 ms.

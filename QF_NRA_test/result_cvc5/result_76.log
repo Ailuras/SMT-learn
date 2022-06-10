@@ -1,32 +1,306 @@
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/disj_nightmare.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 : 59571 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/CooperatingT2/dropbuf.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 : 2328 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/CooperatingT2/dropbuf.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 4702 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/CooperatingT2/dropbuf.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 : 56643 ms.
---------------------------------------------------
-unknown
-unsat
-QF_NRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 617337 ms.
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0213.smt2 : 40 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_4-lexTemplate.smt2 : 1166 ms.
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0215.smt2 : 74 ms.
 --------------------------------------------------
-unknown
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0217.smt2 : 74 ms.
+--------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/efegp.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 652905 ms.
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0218.smt2 : 34 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 5409 ms.
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0219.smt2 : 67 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0220.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0223.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0225.smt2 : 49 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/elmhes.c.i.elmhes.pl.t2.fixed.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 : 2698 ms.
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0227.smt2 : 39 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/elmhes.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 5412 ms.
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0228.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0231.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0232.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0233.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0234.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0235.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0237.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0238.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0239.smt2 : 71 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0241.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0243.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0246.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0247.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0248.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0249.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0250.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0251.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0252.smt2 : 77 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0255.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0258.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0259.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0260.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0261.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0262.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0265.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0268.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0269.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0270.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0271.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0272.smt2 : 90 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0274.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0275.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0276.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0277.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0278.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0279.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0280.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0281.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0283.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0284.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0285.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0286.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0287.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0289.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0290.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0291.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0292.smt2 : 122 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0293.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0294.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0295.smt2 : 144 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0296.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0298.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0299.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0301.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0302.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0304.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0305.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0306.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0307.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0308.smt2 : 126 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0309.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0310.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0311.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0312.smt2 : 96 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0313.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0314.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0315.smt2 : 116 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0316.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0317.smt2 : 120 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0318.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0319.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0320.smt2 : 192 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0321.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0322.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0323.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0324.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0326.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0327.smt2 : 106 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0328.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0329.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0330.smt2 : 137 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0332.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0333.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0334.smt2 : 136 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0335.smt2 : 243 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0336.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0337.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0338.smt2 : 318 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0339.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0340.smt2 : 319 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0341.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0342.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/CMOS/CMOS-opamp-chunk-0343.smt2 : 34 ms.

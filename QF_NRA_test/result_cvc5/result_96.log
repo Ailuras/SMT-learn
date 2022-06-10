@@ -1,31 +1,459 @@
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200007 ms.
---------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 : 2109 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_6-nestedTemplate.smt2 : 2005 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 : 2799 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 3518 ms.
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0288.smt2 : 59 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/SV-COMP/BrockschmidtCookFuhs-2013CAV-Fig1_true-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 : 297 ms.
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0289.smt2 : 80 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0290.smt2 : 52 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/BrockschmidtCookFuhs-2013CAV-Introduction_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 5891 ms.
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0291.smt2 : 71 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0293.smt2 : 46 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/BrockschmidtCookFuhs-2013CAV-Introduction_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 14815 ms.
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0294.smt2 : 67 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0295.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0296.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0297.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0298.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0299.smt2 : 64 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0300.smt2 : 47 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/ChenFlurMukhopadhyay-2012SAS-Fig1_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 4177 ms.
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0301.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0302.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0303.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0304.smt2 : 55 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/ChenFlurMukhopadhyay-2012SAS-Fig1_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 42142 ms.
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0305.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0307.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0308.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0309.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0310.smt2 : 64 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0311.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0312.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0313.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0314.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0315.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0316.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0317.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0318.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0319.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0320.smt2 : 61 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0321.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0322.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0323.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0324.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0325.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0326.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0327.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0328.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0329.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0330.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0331.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0332.smt2 : 63 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0334.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0335.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0336.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0337.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0338.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0339.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0341.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0342.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0343.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0344.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0345.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0346.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0347.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0348.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0349.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0350.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0351.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0352.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0353.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0357.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0358.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0361.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0363.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0364.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0365.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0366.smt2 : 19 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0367.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0369.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0370.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0371.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0372.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0373.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0374.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0375.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0376.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0377.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0378.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0379.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0380.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0381.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0382.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0383.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0384.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0385.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0387.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0388.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0389.smt2 : 18 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0390.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0391.smt2 : 19 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0392.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0396.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0397.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0400.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0401.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0402.smt2 : 17 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0403.smt2 : 17 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0404.smt2 : 18 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0405.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0406.smt2 : 19 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0407.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0408.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0409.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0410.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0411.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0412.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0413.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0414.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0415.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0416.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0417.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0418.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0419.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0420.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0421.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0422.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0423.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0424.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0425.smt2 : 18 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0426.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0427.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0428.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0429.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0430.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0431.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0432.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0433.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0434.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0435.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0437.smt2 : 18 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0438.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0439.smt2 : 642 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0440.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0441.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0442.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0443.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0444.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0445.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0446.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0447.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0448.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0449.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0450.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0451.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0452.smt2 : 101 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0453.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0454.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0455.smt2 : 595 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0456.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0457.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/bench-sqrt-3d/polypaver-bench-sqrt-3d-chunk-0458.smt2 : 115 ms.

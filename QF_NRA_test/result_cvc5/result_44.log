@@ -1,32 +1,78 @@
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1200010 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_4-lexTemplate.smt2 : 17650 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_4-phaseTemplate.smt2 : 2702 ms.
---------------------------------------------------
-unknown
-unknown
-QF_NRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200010 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_5-phaseTemplate.smt2 : 3262 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_6-phaseTemplate.smt2 : 4462 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/CooperatingT2/ex11.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 4664 ms.
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0010.smt2 : 31 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/ex12.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 : 346 ms.
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0012.smt2 : 33 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/ex14.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 : 334 ms.
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0013.smt2 : 48 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/ex18.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 1665 ms.
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0015.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0016.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0017.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0018.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0020.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0022.smt2 : 69 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0025.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0026.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0028.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0029.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0030.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0031.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0032.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0033.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0035.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0036.smt2 : 61 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0039.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0040.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0043.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0044.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0045.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0046.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/atan/problem/1/weak/atan-problem-1-weak-chunk-0047.smt2 : 46 ms.

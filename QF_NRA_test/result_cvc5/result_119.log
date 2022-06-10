@@ -1,30 +1,459 @@
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/Ultimate/bound-scaled200.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 9565 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0197.smt2 : 84 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 9515 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0198.smt2 : 44 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/Ultimate/bound-scaled400.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 20840 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0199.smt2 : 63 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 14633 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0200.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0201.smt2 : 83 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/Ultimate/bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 32949 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0202.smt2 : 97 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 1740 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0203.smt2 : 73 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0204.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0205.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0206.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0207.smt2 : 30 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 8670 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0208.smt2 : 66 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0209.smt2 : 102 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 37382 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0210.smt2 : 79 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0211.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0212.smt2 : 53 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 173010 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0213.smt2 : 72 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0214.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0215.smt2 : 41 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/BradleyMannaSipma-2005ICALP-Fig1-deterministic.bpl_Iteration1_Lasso_5-phaseTemplate.smt2 : 459 ms.
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0218.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0219.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0222.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0223.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0224.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0225.smt2 : 70 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0226.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0227.smt2 : 57 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0228.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0229.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0230.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0231.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0232.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0233.smt2 : 67 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0234.smt2 : 77 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0235.smt2 : 74 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0236.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0237.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0238.smt2 : 64 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0239.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0240.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0241.smt2 : 68 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0242.smt2 : 87 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0243.smt2 : 79 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0244.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0246.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0247.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0248.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0249.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0250.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0251.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0252.smt2 : 80 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0253.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0254.smt2 : 79 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0255.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0256.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0257.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0258.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0259.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0260.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0262.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0263.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0264.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0265.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0266.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0267.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0269.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0270.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0271.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0272.smt2 : 19 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0273.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0274.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0275.smt2 : 63 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0276.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0277.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0278.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0279.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0280.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0281.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0282.smt2 : 64 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0283.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0284.smt2 : 71 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0285.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0286.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0287.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0288.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0289.smt2 : 72 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0290.smt2 : 88 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0291.smt2 : 78 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0292.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0293.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0294.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0295.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0296.smt2 : 93 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0297.smt2 : 119 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0298.smt2 : 110 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0299.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0300.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0301.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0302.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0303.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0305.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0306.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0307.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0308.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0309.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0310.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0311.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0313.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0314.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0315.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0316.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0317.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0318.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0319.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0320.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0321.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0322.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0323.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0324.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0325.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0326.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0327.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0328.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0329.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0330.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0331.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0332.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0333.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0334.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0335.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0336.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0338.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0339.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0340.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0341.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0342.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0343.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0344.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0345.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0346.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0347.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0348.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0349.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0350.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0351.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0352.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0353.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0354.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0355.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0356.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0357.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0358.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/1mcosq/8/sqrt-1mcosq-8-chunk-0359.smt2 : 30 ms.

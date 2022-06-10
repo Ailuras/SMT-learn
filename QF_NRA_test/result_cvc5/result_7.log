@@ -1,32 +1,13 @@
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E19E25.smt2 : 9991 ms.
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_1000000.smt2 : 1200006 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E19E26.smt2 : 8525 ms.
+sat
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_100000.smt2 : 33701 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E19E27.smt2 : 1017 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E19E28.smt2 : 9197 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E19.smt2 : 102 ms.
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_10000.smt2 : 1200005 ms.
 --------------------------------------------------
 unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E1E10.smt2 : 1200011 ms.
+sat
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_1000.smt2 : 626427 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E11.smt2 : 3260 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E12.smt2 : 14823 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E13.smt2 : 17122 ms.
---------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E1E14.smt2 : 1200010 ms.
+QF_NRA/2019-ezsmt/bouncingBall/inst_1_100.smt2 : 1200005 ms.

@@ -1,31 +1,12 @@
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 3906 ms.
+sat
+QF_NRA/meti-tarski/polypaver/sqrt-circles/1a/polypaver-sqrt-circles-1a-chunk-0009.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/sqrt-circles/1a/polypaver-sqrt-circles-1a-chunk-0010.smt2 : 75 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/polypaver/sqrt-circles/1a/polypaver-sqrt-circles-1a-chunk-0011.smt2 : 33 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 157641 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 4227 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.20.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 155410 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 4372 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex3.6.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 24931 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 167 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_3-pieceTemplate.smt2 : 9735 ms.
---------------------------------------------------
-unknown
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 636038 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 165 ms.
+QF_NRA/meti-tarski/polypaver/sqrt-circles/1a/polypaver-sqrt-circles-1a-chunk-0012.smt2 : 76 ms.

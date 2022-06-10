@@ -1,34 +1,24 @@
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E15.smt2 : 17748 ms.
+sat
+QF_NRA/2019-ezsmt/generator/inst-ijcai-lin1.ez.smt2 : 47 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E1E16.smt2 : 1200012 ms.
+sat
+QF_NRA/2019-ezsmt/generator/inst-ijcai-lin2.ez.smt2 : 70 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E1E17.smt2 : 1200013 ms.
+sat
+QF_NRA/2019-ezsmt/generator/inst-ijcai-lin3.ez.smt2 : 130 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E1E18.smt2 : 1200014 ms.
+sat
+QF_NRA/2019-ezsmt/generator/inst-ijcai-lin4.ez.smt2 : 109 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E19.smt2 : 13869 ms.
+sat
+QF_NRA/2019-ezsmt/generator/inst-ijcai-lin5.ez.smt2 : 128 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E20.smt2 : 8806 ms.
+sat
+QF_NRA/2019-ezsmt/generator/inst-ijcai-lin6.ez.smt2 : 138 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E1E21.smt2 : 1200010 ms.
+sat
+QF_NRA/2019-ezsmt/generator/inst-ijcai-lin7.ez.smt2 : 146 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E22.smt2 : 9009 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E23.smt2 : 7793 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E24.smt2 : 10955 ms.
+sat
+QF_NRA/2019-ezsmt/generator/inst-ijcai-lin8.ez.smt2 : 183 ms.

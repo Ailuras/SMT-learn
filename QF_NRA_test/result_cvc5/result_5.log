@@ -1,30 +1,248 @@
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E17E26.smt2 : 195 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E17E27.smt2 : 83 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E17E28.smt2 : 185 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E17.smt2 : 39 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E18E19.smt2 : 14482 ms.
---------------------------------------------------
-QF_NRA/20161105-Sturm-MBO/mbo_E18E20.smt2 : 1200014 ms.
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/afnp2014.c.i_3_5_3.bpl_5.smt2 : 1200007 ms.
 --------------------------------------------------
 unknown
 unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E18E21.smt2 : 1200016 ms.
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array1.i_3_2_2.bpl_9.smt2 : 1200008 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_monotonic.i_3_2_2.bpl_9.smt2 : 1200006 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_ptr_single_elem_init.i_4_2_2.bpl_5.smt2 : 1200007 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_single_elem_init.i_4_2_2.bpl_5.smt2 : 1200007 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/avg60.i_5_5_4.bpl_3.smt2 : 1200005 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/cggmp2005_variant.c.i_3_3_2.bpl_5.smt2 : 1200005 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/check_removal_from_set_after_insertion.i_8_6_6.bpl_3.smt2 : 1200004 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/const1.i_3_6_2.bpl_5.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_by_2.i_3_2_2.bpl_11.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_by_k.i_3_3_2.bpl_5.smt2 : 1200006 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_up_down.i_3_11_2.bpl_9.smt2 : 1200012 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/ddlm2013.i_3_4_2.bpl_3.smt2 : 1200008 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/ddlm2013.i_3_6_2.bpl_3.smt2 : 1200016 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/down.i_4_5_5.bpl_3.smt2 : 1200022 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/fragtest_simple.i_4_5_4.bpl_3.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/functions1.i_3_5_2.bpl_9.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/gj2007.c.i_4_3_3.bpl_5.smt2 : 1200016 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/gr2006.c.i_4_4_3.bpl_5.smt2 : 1200017 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/half_2.i_3_6_2.bpl_3.smt2 : 1200016 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/hhk2008.c.i_3_3_2.bpl_5.smt2 : 1200028 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E18E22.smt2 : 675 ms.
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/jain_4.i_2_3_3.bpl_3.smt2 : 106765 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/jain_5.i_2_4_3.bpl_3.smt2 : 1200010 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_6_21_3.bpl_3.smt2 : 1200010 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_6_24_3.bpl_3.smt2 : 1200013 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_7_19_3.bpl_3.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_7_23_3.bpl_3.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/MADWiFi-encode_ie_ok.i_3_4_3.bpl_3.smt2 : 1200010 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested9.i_5_6_6.bpl_3.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested.c_4_2_2.bpl_3.smt2 : 1200008 ms.
+--------------------------------------------------
+unknown
+unknown
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested.i_4_5_3.bpl_3.smt2 : 902647 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/overflow1.i_3_8_2.bpl_9.smt2 : 1200016 ms.
+--------------------------------------------------
+unknown
+unsat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/relax.i_11_7_4.bpl_3.smt2 : 732545 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sanfoundry_10_ground.i_6_3_3.bpl_5.smt2 : 1200018 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/seq.i_4_5_4.bpl_3.smt2 : 1200025 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/seq.i_5_5_5.bpl_3.smt2 : 1200026 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/simple1.i_3_6_2.bpl_9.smt2 : 1200016 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/simple4.i_3_4_2.bpl_9.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sorting_bubblesort_ground.i_4_3_3.bpl_5.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_allDiff2_ground.i_4_4_3.bpl_3.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_compareModified_ground.i_4_2_2.bpl_5.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy1_ground.i_3_2_2.bpl_9.smt2 : 1200009 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy3_ground.i_3_2_2.bpl_5.smt2 : 1200010 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy4_ground.i_3_2_2.bpl_3.smt2 : 1200011 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy4_ground.i_3_2_2.bpl_5.smt2 : 1200008 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy5_ground.i_3_2_2.bpl_3.smt2 : 1200009 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy7_ground.i_3_2_2.bpl_3.smt2 : 1200010 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInit_ground.i_3_2_2.bpl_9.smt2 : 1200012 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum2_ground.i_3_2_2.bpl_5.smt2 : 1200010 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum3_ground.i_3_2_2.bpl_3.smt2 : 1200010 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum3_ground.i_3_2_2.bpl_5.smt2 : 1200017 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init1_ground.i_3_2_2.bpl_9.smt2 : 1200016 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init5_ground.i_3_2_2.bpl_3.smt2 : 1200019 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init6_ground.i_3_2_2.bpl_3.smt2 : 1200020 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init7_ground.i_3_2_2.bpl_3.smt2 : 1200016 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E18E23.smt2 : 471 ms.
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init9_ground.i_3_2_2.bpl_1.smt2 : 4938 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E18E24.smt2 : 10292 ms.
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init9_ground.i_3_2_2.bpl_3.smt2 : 1200073 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_maxInArray_ground.i_3_2_2.bpl_5.smt2 : 1200103 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_partial_init_ground.i_3_2_2.bpl_5.smt2 : 1200049 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_password_ground.i_4_2_2.bpl_5.smt2 : 1200056 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_running.i_4_2_2.bpl_5.smt2 : 1200036 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_strcmp_ground.i_4_2_2.bpl_5.smt2 : 1200011 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_strcpy_original.i_3_3_2.bpl_9.smt2 : 1200026 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_01.i_3_2_2.bpl_5.smt2 : 1200027 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_04.i_3_2_2.bpl_5.smt2 : 1200020 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_05.i_3_2_2.bpl_5.smt2 : 1200022 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_06.i_3_2_2.bpl_5.smt2 : 1200008 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sum60.i_5_6_5.bpl_3.smt2 : 1200008 ms.
+--------------------------------------------------
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/up.i_4_4_5.bpl_3.smt2 : 1200008 ms.

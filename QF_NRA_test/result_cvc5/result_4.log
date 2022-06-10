@@ -1,35 +1,36 @@
 --------------------------------------------------
+unknown
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E16E28.smt2 : 208 ms.
+QF_NRA/20161105-Sturm-MGC/mgc_02.smt2 : 604377 ms.
 --------------------------------------------------
+unknown
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E16.smt2 : 49 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E17E18.smt2 : 850 ms.
+QF_NRA/20161105-Sturm-MGC/mgc_03.smt2 : 605834 ms.
 --------------------------------------------------
 unknown
 unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E17E19.smt2 : 1200007 ms.
+QF_NRA/20161105-Sturm-MGC/mgc_04.smt2 : 1200004 ms.
 --------------------------------------------------
 unknown
 unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E17E20.smt2 : 1200012 ms.
+QF_NRA/20161105-Sturm-MGC/mgc_05.smt2 : 1200004 ms.
 --------------------------------------------------
 unknown
 unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E17E21.smt2 : 1200009 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E17E22.smt2 : 542 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E17E23.smt2 : 56 ms.
+QF_NRA/20161105-Sturm-MGC/mgc_06.smt2 : 1200005 ms.
 --------------------------------------------------
 unknown
 unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E17E24.smt2 : 1200012 ms.
+QF_NRA/20161105-Sturm-MGC/mgc_07.smt2 : 1200005 ms.
 --------------------------------------------------
 unknown
 unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E17E25.smt2 : 1200009 ms.
+QF_NRA/20161105-Sturm-MGC/mgc_08.smt2 : 1200005 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20161105-Sturm-MGC/mgc_09.smt2 : 1200005 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/20161105-Sturm-MGC/mgc_10.smt2 : 1200009 ms.

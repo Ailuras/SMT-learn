@@ -1,30 +1,12 @@
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_2-lexTemplate.smt2 : 54404 ms.
+QF_NRA/meti-tarski/cos/problem/12/cos-problem-12-chunk-0004.smt2 : 36 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_2-nestedTemplate.smt2 : 36981 ms.
+QF_NRA/meti-tarski/cos/problem/12/cos-problem-12-chunk-0005.smt2 : 67 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_2-phaseTemplate.smt2 : 34406 ms.
+QF_NRA/meti-tarski/cos/problem/12/cos-problem-12-chunk-0006.smt2 : 77 ms.
 --------------------------------------------------
-sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 : 172041 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-lexTemplate.smt2 : 123389 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 : 54354 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-phaseTemplate.smt2 : 55940 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 519611 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 : 201255 ms.
---------------------------------------------------
-sat
-QF_NRA/LassoRanker/SV-COMP/aviad_true-termination.c_Iteration1_Loop_4-nestedTemplate.smt2 : 74277 ms.
+unsat
+QF_NRA/meti-tarski/cos/problem/12/cos-problem-12-chunk-0007.smt2 : 51 ms.

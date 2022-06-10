@@ -1,31 +1,60 @@
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1E8.smt2 : 19834 ms.
---------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E1E9.smt2 : 1200010 ms.
+QF_NRA/hong/hong_10.smt2 : 73 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E1.smt2 : 337 ms.
+QF_NRA/hong/hong_11.smt2 : 98 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E20E21.smt2 : 54 ms.
+QF_NRA/hong/hong_12.smt2 : 158 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E20E22.smt2 : 185 ms.
+QF_NRA/hong/hong_13.smt2 : 150 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E20E23.smt2 : 157 ms.
+QF_NRA/hong/hong_14.smt2 : 147 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E20E24.smt2 : 195 ms.
+QF_NRA/hong/hong_15.smt2 : 159 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E20E25.smt2 : 193 ms.
+QF_NRA/hong/hong_16.smt2 : 192 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E20E26.smt2 : 167 ms.
+QF_NRA/hong/hong_17.smt2 : 189 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E20E27.smt2 : 78 ms.
+QF_NRA/hong/hong_18.smt2 : 218 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_19.smt2 : 218 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_1.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_20.smt2 : 228 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_2.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_3.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_4.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_5.smt2 : 54 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_6.smt2 : 60 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_7.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_8.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hong/hong_9.smt2 : 84 ms.

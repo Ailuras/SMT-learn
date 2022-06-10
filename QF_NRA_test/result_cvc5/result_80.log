@@ -1,32 +1,63 @@
 --------------------------------------------------
-unknown
-unsat
-QF_NRA/LassoRanker/SV-COMP/HarrisLalNoriRajamani-2010SAS-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 604176 ms.
+sat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0018.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0020.smt2 : 81 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_3-pieceTemplate.smt2 : 5640 ms.
---------------------------------------------------
-unknown
-unsat
-QF_NRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 : 621039 ms.
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0021.smt2 : 66 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_5-phaseTemplate.smt2 : 976 ms.
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0022.smt2 : 34 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_6-phaseTemplate.smt2 : 1382 ms.
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0023.smt2 : 72 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0024.smt2 : 39 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/joey_false-termination.c_Iteration2_Loop_7-phaseTemplate.smt2 : 2157 ms.
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0025.smt2 : 62 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_2-lexTemplate.smt2 : 23261 ms.
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0027.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0029.smt2 : 56 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_2-nestedTemplate.smt2 : 6919 ms.
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0033.smt2 : 42 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_2-phaseTemplate.smt2 : 6951 ms.
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0034.smt2 : 43 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 69371 ms.
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0035.smt2 : 64 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0037.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0038.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0039.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0040.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0042.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0044.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0046.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0048.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cos/problem/5/cos-problem-5-chunk-0049.smt2 : 37 ms.

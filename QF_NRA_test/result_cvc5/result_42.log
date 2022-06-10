@@ -1,29 +1,117 @@
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/a.10.c.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 840 ms.
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0010.smt2 : 33 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/a.10.c.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 : 827 ms.
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0011.smt2 : 33 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/a.10.c.t2.c_Iteration6_Loop_4-pieceTemplate.smt2 : 877 ms.
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0012.smt2 : 47 ms.
 --------------------------------------------------
 sat
-QF_NRA/LassoRanker/CooperatingT2/a.10.c.t2.c_Iteration9_Loop_4-pieceTemplate.smt2 : 830 ms.
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0013.smt2 : 86 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0014.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0015.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0016.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0017.smt2 : 49 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 409557 ms.
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0018.smt2 : 53 ms.
 --------------------------------------------------
-QF_NRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200012 ms.
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0019.smt2 : 47 ms.
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_5-phaseTemplate.smt2 : 1528 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_6-phaseTemplate.smt2 : 2828 ms.
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0020.smt2 : 46 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/afagp-fail.t2.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 3380 ms.
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0021.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0024.smt2 : 60 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/agafp.t2.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 18364 ms.
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0028.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0029.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0030.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0031.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0032.smt2 : 58 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0033.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0034.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0035.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0038.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0039.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0040.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0041.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0042.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0043.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0044.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0045.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0046.smt2 : 3443 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0048.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0049.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0050.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0051.smt2 : 141 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0052.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0053.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0054.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0055.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/vars4/asin-8-vars4-chunk-0056.smt2 : 32 ms.

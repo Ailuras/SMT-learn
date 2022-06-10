@@ -1,30 +1,105 @@
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration1_Loop_3-pieceTemplate.smt2 : 4938 ms.
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0015.smt2 : 23 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration1_Loop_4-pieceTemplate.smt2 : 19346 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0016.smt2 : 36 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration2_Loop_3-pieceTemplate.smt2 : 4508 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0017.smt2 : 81 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration2_Loop_4-pieceTemplate.smt2 : 13477 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0018.smt2 : 65 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0019.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0026.smt2 : 73 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0027.smt2 : 35 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration3_Loop_3-pieceTemplate.smt2 : 5161 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0028.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0030.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0032.smt2 : 49 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration3_Loop_4-pieceTemplate.smt2 : 31433 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0033.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0049.smt2 : 43 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration4_Loop_3-pieceTemplate.smt2 : 5751 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0050.smt2 : 57 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration4_Loop_4-pieceTemplate.smt2 : 13980 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0051.smt2 : 51 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration5_Loop_3-pieceTemplate.smt2 : 3977 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0052.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0053.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0054.smt2 : 29 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/CooperatingT2/polyrank4.t2.c_Iteration5_Loop_4-pieceTemplate.smt2 : 5189 ms.
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0055.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0056.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0061.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0062.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0063.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0064.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0065.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0066.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0067.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0068.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0070.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0075.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0076.smt2 : 75 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0077.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0078.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0079.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0080.smt2 : 65 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/cbrt/3/cbrt-problem-3-chunk-0081.smt2 : 45 ms.

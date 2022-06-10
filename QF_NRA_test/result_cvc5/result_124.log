@@ -1,30 +1,57 @@
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_6-phaseTemplate.smt2 : 27174 ms.
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0005.smt2 : 80 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0007.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0008.smt2 : 65 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0009.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0010.smt2 : 49 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-nestedTemplate.smt2 : 31051 ms.
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0011.smt2 : 61 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0013.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0014.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0015.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0016.smt2 : 69 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0017.smt2 : 46 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_7-phaseTemplate.smt2 : 31505 ms.
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0018.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0019.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0020.smt2 : 28 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Lasso_affineTemplate.smt2 : 6997 ms.
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0021.smt2 : 74 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0022.smt2 : 51 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-lexTemplate.smt2 : 38373 ms.
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0023.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0024.smt2 : 36 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-nestedTemplate.smt2 : 10889 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-phaseTemplate.smt2 : 11957 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_2-pieceTemplate.smt2 : 107800 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-lexTemplate.smt2 : 93934 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/Collatz.bpl_Iteration1_Loop_3-nestedTemplate.smt2 : 13849 ms.
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0025.smt2 : 31 ms.

@@ -1,31 +1,15 @@
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-phaseTemplate.smt2 : 41701 ms.
+sat
+QF_NRA/meti-tarski/polypaver/sqrt43-int/polypaver-sqrt43-int-chunk-0047.smt2 : 60 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1200013 ms.
+sat
+QF_NRA/meti-tarski/polypaver/sqrt43-int/polypaver-sqrt43-int-chunk-0049.smt2 : 84 ms.
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-nestedTemplate.smt2 : 48398 ms.
+sat
+QF_NRA/meti-tarski/polypaver/sqrt43-int/polypaver-sqrt43-int-chunk-0050.smt2 : 40 ms.
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 : 54079 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-nestedTemplate.smt2 : 73905 ms.
+sat
+QF_NRA/meti-tarski/polypaver/sqrt43-int/polypaver-sqrt43-int-chunk-0052.smt2 : 72 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 : 75323 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-nestedTemplate.smt2 : 80085 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 93652 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_affineTemplate.smt2 : 9563 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/HarrisLalNoriRajamani-2010SAS-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 63724 ms.
+QF_NRA/meti-tarski/polypaver/sqrt43-int/polypaver-sqrt43-int-chunk-0053.smt2 : 42 ms.

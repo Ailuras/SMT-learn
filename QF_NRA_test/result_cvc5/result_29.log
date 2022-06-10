@@ -1,32 +1,162 @@
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E6E9.smt2 : 222 ms.
+sat
+QF_NRA/kissing/kissing_2_1.smt2 : 27 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E6.smt2 : 52 ms.
+sat
+QF_NRA/kissing/kissing_2_2.smt2 : 45 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E7E10.smt2 : 1200005 ms.
+sat
+QF_NRA/kissing/kissing_2_3.smt2 : 59 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E7E11.smt2 : 46 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E7E12.smt2 : 4873 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E7E13.smt2 : 5567 ms.
+sat
+QF_NRA/kissing/kissing_2_4.smt2 : 498 ms.
 --------------------------------------------------
 unknown
 unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E7E14.smt2 : 1200015 ms.
+QF_NRA/kissing/kissing_2_5.smt2 : 1200005 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E7E15.smt2 : 4827 ms.
+unknown
+unknown
+QF_NRA/kissing/kissing_2_6.smt2 : 1200004 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E7E16.smt2 : 184 ms.
+unknown
+unknown
+QF_NRA/kissing/kissing_2_7.smt2 : 1200005 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E7E17.smt2 : 154 ms.
+unknown
+unknown
+QF_NRA/kissing/kissing_3_10.smt2 : 1200004 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_3_11.smt2 : 1200004 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_3_12.smt2 : 1200004 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_3_13.smt2 : 1200005 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_3_1.smt2 : 19 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_3_2.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_3_3.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_3_4.smt2 : 74 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_3_5.smt2 : 1200005 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_3_6.smt2 : 1200005 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_3_7.smt2 : 1200013 ms.
+--------------------------------------------------
+QF_NRA/kissing/kissing_3_8.smt2 : 1200013 ms.
+--------------------------------------------------
+unknown
+QF_NRA/kissing/kissing_3_9.smt2 : 1200008 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_10.smt2 : 1200007 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_11.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+QF_NRA/kissing/kissing_4_12.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_13.smt2 : 1200008 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_14.smt2 : 1200013 ms.
+--------------------------------------------------
+QF_NRA/kissing/kissing_4_15.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_16.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_17.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_18.smt2 : 1200014 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_19.smt2 : 1200011 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_4_1.smt2 : 26 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_20.smt2 : 1200018 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_21.smt2 : 1200011 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_22.smt2 : 1200011 ms.
+--------------------------------------------------
+unknown
+QF_NRA/kissing/kissing_4_23.smt2 : 1200025 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_24.smt2 : 1200023 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_25.smt2 : 1200014 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_4_2.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_4_3.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_4_4.smt2 : 90 ms.
+--------------------------------------------------
+unknown
+unknown
+sat
+QF_NRA/kissing/kissing_4_5.smt2 : 900770 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_6.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_7.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_8.smt2 : 1200007 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/kissing/kissing_4_9.smt2 : 1200008 ms.

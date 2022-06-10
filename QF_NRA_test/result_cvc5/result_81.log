@@ -1,30 +1,9 @@
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-lexTemplate.smt2 : 53750 ms.
+sat
+QF_NRA/meti-tarski/exp/361/6/exp-361-6-e-chunk-0134.smt2 : 66 ms.
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-nestedTemplate.smt2 : 12309 ms.
+sat
+QF_NRA/meti-tarski/exp/361/6/exp-361-6-e-chunk-0135.smt2 : 146 ms.
 --------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-phaseTemplate.smt2 : 10210 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 230933 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 : 88827 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-nestedTemplate.smt2 : 12899 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-phaseTemplate.smt2 : 12423 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 582132 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_5-nestedTemplate.smt2 : 15127 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 : 18576 ms.
+sat
+QF_NRA/meti-tarski/exp/361/6/exp-361-6-weak-chunk-0804.smt2 : 74 ms.

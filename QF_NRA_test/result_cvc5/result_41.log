@@ -1,34 +1,81 @@
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E14E25.smt2 : 1200007 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0018.smt2 : 33 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E14E26.smt2 : 1200009 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0019.smt2 : 33 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E14E27.smt2 : 1200007 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0020.smt2 : 43 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E14E28.smt2 : 1200016 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0021.smt2 : 91 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E14.smt2 : 1200020 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0022.smt2 : 48 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E15E16.smt2 : 781 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0023.smt2 : 45 ms.
 --------------------------------------------------
-QF_NRA/20161105-Sturm-MBO/mbo_E15E17.smt2 : 1200010 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0024.smt2 : 67 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E15E18.smt2 : 9440 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0025.smt2 : 36 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E15E19.smt2 : 10875 ms.
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0026.smt2 : 67 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E15E20.smt2 : 599 ms.
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0027.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0028.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0029.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0031.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0033.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0036.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0038.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0039.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0040.smt2 : 65 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0041.smt2 : 59 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0042.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0043.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0044.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0045.smt2 : 58 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0047.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0048.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0050.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/asin/8/asin-8-chunk-0053.smt2 : 40 ms.

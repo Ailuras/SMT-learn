@@ -1,32 +1,21 @@
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E12E16.smt2 : 1200007 ms.
+sat
+QF_NRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0017.smt2 : 27 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E12E17.smt2 : 1200009 ms.
+sat
+QF_NRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0018.smt2 : 28 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E12E18.smt2 : 13287 ms.
+sat
+QF_NRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0019.smt2 : 39 ms.
 --------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E12E19.smt2 : 12367 ms.
+sat
+QF_NRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0020.smt2 : 84 ms.
 --------------------------------------------------
-QF_NRA/20161105-Sturm-MBO/mbo_E12E20.smt2 : 1200012 ms.
+sat
+QF_NRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0021.smt2 : 59 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/20161105-Sturm-MBO/mbo_E12E21.smt2 : 1200014 ms.
+sat
+QF_NRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0022.smt2 : 35 ms.
 --------------------------------------------------
 unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E12E22.smt2 : 643 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E12E23.smt2 : 469 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E12E24.smt2 : 9066 ms.
---------------------------------------------------
-unsat
-QF_NRA/20161105-Sturm-MBO/mbo_E12E25.smt2 : 8817 ms.
+QF_NRA/meti-tarski/Arthan/1A/Arthan1A-chunk-0023.smt2 : 34022 ms.

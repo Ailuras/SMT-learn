@@ -1,31 +1,261 @@
 --------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0252.smt2 : 97 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0253.smt2 : 66 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0254.smt2 : 95 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0255.smt2 : 58 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0256.smt2 : 71 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0257.smt2 : 68 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0258.smt2 : 58 ms.
+--------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 10181 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0261.smt2 : 204 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0264.smt2 : 161 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0267.smt2 : 72 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0268.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0269.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0270.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0271.smt2 : 89 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0272.smt2 : 145 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0273.smt2 : 60 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0274.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0275.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0276.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0277.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0278.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0279.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0280.smt2 : 62 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0281.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0282.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0283.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0284.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0285.smt2 : 63 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0286.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0287.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0288.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0289.smt2 : 61 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0290.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0291.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0294.smt2 : 83 ms.
 --------------------------------------------------
 unknown
 unsat
-QF_NRA/LassoRanker/Ultimate/2013POPL-BenAmGen-Ex4.2.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 635902 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0297.smt2 : 616428 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0300.smt2 : 109 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0303.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0304.smt2 : 240 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-lexTemplate.smt2 : 318 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0305.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0306.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0307.smt2 : 46 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0308.smt2 : 1200005 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/ATVA2013-diff42-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 5242 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0309.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0310.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0311.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0312.smt2 : 65 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 4575 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0313.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0314.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0315.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0316.smt2 : 35 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-int.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 25506 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0317.smt2 : 19 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0318.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0319.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0321.smt2 : 45 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_3-pieceTemplate.smt2 : 4197 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0322.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0324.smt2 : 43 ms.
+--------------------------------------------------
+unknown
+unknown
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0325.smt2 : 1200004 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0327.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0328.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0330.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0331.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0332.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0333.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0334.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0335.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0336.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0337.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0338.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0339.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0341.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0343.smt2 : 28 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/ATVA2013-yPositive-real.bpl_Iteration1_Loop_4-pieceTemplate.smt2 : 23078 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0344.smt2 : 16 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0346.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0347.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0348.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0349.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0350.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0351.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0352.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0353.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0354.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0356.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0358.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0360.smt2 : 39 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/Ultimate/ATVA2013-zeno-int.bpl_Iteration1_Lasso_4-pieceTemplate.smt2 : 4875 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/Ultimate/BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_2-pieceTemplate.smt2 : 5541 ms.
+QF_NRA/meti-tarski/sin/problem/7/sin-problem-7-chunk-0361.smt2 : 16 ms.

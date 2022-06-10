@@ -1,32 +1,180 @@
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex4_true-termination.c_Iteration6_Loop_4-pieceTemplate.smt2 : 26320 ms.
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0325.smt2 : 25001 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_2-pieceTemplate.smt2 : 445000 ms.
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0326.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0327.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0328.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0329.smt2 : 36 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-lexTemplate.smt2 : 6884 ms.
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0330.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0331.smt2 : 32 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-phaseTemplate.smt2 : 5088 ms.
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0332.smt2 : 24 ms.
 --------------------------------------------------
-unknown
-unknown
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate.smt2 : 1200007 ms.
---------------------------------------------------
-unsat
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-lexTemplate.smt2 : 11614 ms.
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0333.smt2 : 33 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-nestedTemplate.smt2 : 3692 ms.
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0334.smt2 : 43 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-phaseTemplate.smt2 : 9673 ms.
---------------------------------------------------
-unknown
-unknown
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate.smt2 : 1200018 ms.
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0335.smt2 : 47 ms.
 --------------------------------------------------
 unsat
-QF_NRA/LassoRanker/SV-COMP/LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_5-nestedTemplate.smt2 : 5599 ms.
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0336.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0337.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0339.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0340.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0341.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0342.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0343.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0344.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0345.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0346.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0347.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0348.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0349.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0350.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0352.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0353.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0354.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0355.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0357.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0358.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0360.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0362.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0363.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0365.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0370.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0371.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0372.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0373.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0374.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0375.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0376.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0377.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0378.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0379.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0380.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0381.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0382.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0383.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0384.smt2 : 20 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0385.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0386.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0387.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0388.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0389.smt2 : 22 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0390.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0391.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0392.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0393.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/exp/problem/10/2/exp-problem-10-2-chunk-0394.smt2 : 26 ms.
