@@ -35,11 +35,11 @@ function splitAll() {
             fi
         done
         if [ $state -eq 0 ];then
-            # echo $folder
-            # echo `ls -lR $folder | grep "^-"| wc -l`
-            if [[ `ls -lR $folder | grep "^-"| wc -l` -gt $number ]];then
-                split $folder
-            fi
+            echo $folder
+            echo `ls -lR $folder | grep "^-"| wc -l`
+            # if [[ `ls -lR $folder | grep "^-"| wc -l` -gt $number ]];then
+            #     split $folder
+            # fi
         fi
         if [ $state -eq 1 ];then
             splitAll $folder

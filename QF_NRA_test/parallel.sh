@@ -1,5 +1,6 @@
 #！/bin/bash
 time_t=$2
+solver=$3
 
 index=1
 function parallel() {
@@ -17,7 +18,7 @@ function parallel() {
             fi
         done
         if [ $state -eq 0 ];then
-            nohup bash run.sh $folder $time_t > result/result_$index.log 2>&1 &
+            nohup bash run.sh $folder $time_t $solver > result_$solver/result_$index.log 2>&1 &
             index=$[ $index + 1 ]
         fi
         if [ $state -eq 1 ];then

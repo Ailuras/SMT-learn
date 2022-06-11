@@ -1,6 +1,6 @@
 #！/bin/bash
 
-function pre_process() {
+function pre() {
     if test -d $@;then
         local state=-1
         for file in $@/*;do
@@ -13,7 +13,7 @@ function pre_process() {
                 fi
             fi
             if test -d $file;then
-                pre_process $file
+                pre $file
                 if [ $state -eq -1 ];then
                     state=1
                 fi
@@ -37,4 +37,4 @@ function pre_process() {
     fi
 }
 
-pre_process $1
+pre $1
