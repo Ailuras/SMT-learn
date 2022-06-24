@@ -131,7 +131,6 @@ class QF_NRA:
         return index
     
 a = QF_NRA(init=True)
-a.records
 a.save_to('base1.xlsx')
 
 # a = QF_NRA(execl='base.xlsx')
