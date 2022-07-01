@@ -1,0 +1,4 @@
+--------------------------------------------------
+unsat
+(error "line 6592 column 10: check annotation that says sat")
+mbo_z3/5/mbo_E2E10.smt2 : 17816 ms.
