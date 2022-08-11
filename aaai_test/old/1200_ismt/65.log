@@ -1,0 +1,307 @@
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22607_safety_0.smt2 : 199 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22608_safety_0.smt2 : 672 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22611_safety_0.smt2 : 78391 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22625_safety_0.smt2 : 1306 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22632_safety_0.smt2 : 365 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22633_safety_0.smt2 : 2939 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 125081 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22649_safety_0.smt2 : 5883110 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 157321 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22658_safety_0.smt2 : 10234446 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 171757 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22659_safety_0.smt2 : 8520028 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22696_safety_0.smt2 : 1228 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22714_safety_0.smt2 : 364 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22715_safety_0.smt2 : 48934 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22718_safety_0.smt2 : 113 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22719_safety_0.smt2 : 242 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 176805 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22776_safety_0.smt2 : 11852586 ms.
+--------------------------------------------------
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+unknown
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22777_safety_0.smt2 : 10191641 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22816_safety_0.smt2 : 82 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22817_safety_0.smt2 : 174 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22825_safety_0.smt2 : 6345 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22827_safety_0.smt2 : 181 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22846_safety_0.smt2 : 57 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22847_safety_0.smt2 : 521 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22848_safety_0.smt2 : 198 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22849_safety_0.smt2 : 581230 ms.
+--------------------------------------------------
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+unknown
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22876_safety_0.smt2 : 8698217 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22940_safety_0.smt2 : 210 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22941_safety_0.smt2 : 154552 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22960_safety_0.smt2 : 142 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22961_safety_0.smt2 : 841 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p22963_safety_0.smt2 : 718 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23058_safety_0.smt2 : 1676 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23070_safety_0.smt2 : 1027 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23071_safety_0.smt2 : 349561 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23075_safety_0.smt2 : 333 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23079_safety_0.smt2 : 309 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23123_safety_0.smt2 : 284 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23159_safety_0.smt2 : 383 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23162_safety_0.smt2 : 224 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23163_safety_0.smt2 : 147401 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23171_safety_0.smt2 : 85 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23187_safety_0.smt2 : 300 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23206_safety_0.smt2 : 176 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23207_safety_0.smt2 : 97320 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23213_safety_0.smt2 : 4858 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23228_safety_0.smt2 : 166 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23230_safety_0.smt2 : 98 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23231_safety_0.smt2 : 672 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23235_safety_0.smt2 : 806 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23238_safety_0.smt2 : 76 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23239_safety_0.smt2 : 713 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23260_safety_0.smt2 : 118 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23261_safety_0.smt2 : 254 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23292_safety_0.smt2 : 894 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23293_safety_0.smt2 : 386487 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23294_safety_0.smt2 : 222 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23295_safety_0.smt2 : 230291 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23300_safety_0.smt2 : 246 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23301_safety_0.smt2 : 708 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23302_safety_0.smt2 : 89 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23303_safety_0.smt2 : 682 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23304_safety_0.smt2 : 58 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23305_safety_0.smt2 : 279 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23313_safety_0.smt2 : 98 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23329_safety_0.smt2 : 202 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23396_safety_0.smt2 : 106 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23397_safety_0.smt2 : 965 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 186316 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23460_safety_0.smt2 : 6310954 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23482_safety_0.smt2 : 7749 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 223890 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23504_safety_0.smt2 : 6761061 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 236416 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23505_safety_0.smt2 : 7995936 ms.
+--------------------------------------------------
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+unknown
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23521_safety_0.smt2 : 3613968 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 246174 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23522_safety_0.smt2 : 9967191 ms.
+--------------------------------------------------
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+unknown
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23523_safety_0.smt2 : 5403950 ms.
+--------------------------------------------------
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+unknown
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23524_safety_0.smt2 : 18058461 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23530_safety_0.smt2 : 705 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 256223 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23560_safety_0.smt2 : 17220017 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 259149 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23563_safety_0.smt2 : 17353455 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 262033 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23564_safety_0.smt2 : 12596476 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 297285 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23573_safety_0.smt2 : 4348954 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 308323 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23574_safety_0.smt2 : 4733575 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 315383 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23575_safety_0.smt2 : 9243605 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 323502 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23576_safety_0.smt2 : 11439518 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23578_safety_0.smt2 : 455356 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23587_safety_0.smt2 : 12296 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23591_safety_0.smt2 : 13050 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23592_safety_0.smt2 : 65622 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 347080 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23608_safety_0.smt2 : 7535084 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 373721 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23611_safety_0.smt2 : 6933582 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 383704 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23612_safety_0.smt2 : 9077037 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 390007 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23627_safety_0.smt2 : 9524369 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 394019 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23628_safety_0.smt2 : 13926504 ms.
+--------------------------------------------------
+./starexec_run_default: line 2: 397917 Killed                  ./ismt $1 -t:1200
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23634_safety_0.smt2 : 10594681 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23641_safety_0.smt2 : 207 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23642_safety_0.smt2 : 859 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23647_safety_0.smt2 : 115 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23648_safety_0.smt2 : 581 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23670_safety_0.smt2 : 419785 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23678_safety_0.smt2 : 12544 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/65/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ex36.t2_fixed__p23679_safety_0.smt2 : 251571 ms.

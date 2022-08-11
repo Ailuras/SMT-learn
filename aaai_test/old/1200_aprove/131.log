@@ -1,0 +1,76 @@
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Finalizer.<clinit>(Finalizer.java:233)
+
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1161980166555856613.smt2 : 155 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid62816.log
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1163698168838677581.smt2 : 616 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid79246.log
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1166643921416851794.smt2 : 3458 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid80229.log
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1166681508436419880.smt2 : 451 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid82122.log
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1167329477969666320.smt2 : 370 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid83458.log
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1169386365884262180.smt2 : 346 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1179149253451050796.smt2 : 163 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1180108736816807287.smt2 : 138 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT118168160951800861.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1187219829289257398.smt2 : 4 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid93125.log
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1206601228391921498.smt2 : 361 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/131/QF_NIA_SAT/AProVE/aproveSMT1207857789260966146.smt2 : 5 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: Resource temporarily unavailable

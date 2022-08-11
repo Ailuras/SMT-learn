@@ -1,0 +1,30 @@
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m2.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m3.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_Bessack_5_m4.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_FibonacciPoly_a.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_FibonacciPoly_b.smt2 : 809 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_KnoppSchur_a.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_KnoppSchur_b.smt2 : 136 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinLHS.smt2 : 94 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSa.smt2 : 58 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Basic_Denominator_Simplifications/BDC_ProveIneq_ISSAC05_LevinRHSb.smt2 : 116 ms.

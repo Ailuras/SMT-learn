@@ -1,0 +1,30 @@
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_1.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_2.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_3.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_4.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Bessack_5_5.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Mitrinovic_5_15.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Sec4a.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Sec4b.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_1m_m.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_SignPattern_1p_2m_m.smt2 : 163 ms.

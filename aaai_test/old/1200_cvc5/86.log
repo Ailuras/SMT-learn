@@ -1,0 +1,285 @@
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__queens.t2__p8372_terminationG_0.smt2 : 4404 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__queens.t2__p8374_terminationG_0.smt2 : 630140 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__queens.t2__p8375_terminationG_0.smt2 : 654010 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__queens.t2__term_unfeasibility_1_0.smt2 : 7148 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__queens.t2__term_unfeasibility_2_0.smt2 : 7646 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8411_terminationG_0.smt2 : 571811 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8412_terminationG_0.smt2 : 605330 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8415_terminationG_0.smt2 : 7165 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8416_terminationG_0.smt2 : 619087 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8417_terminationG_0.smt2 : 627378 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8448_edge_closing_0.smt2 : 17031 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8449_edge_closing_0.smt2 : 613648 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8450_edge_closing_0.smt2 : 626024 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8452_edge_closing_0.smt2 : 554288 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8453_edge_closing_0.smt2 : 1200010 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8454_edge_closing_0.smt2 : 1200008 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8456_edge_closing_0.smt2 : 611224 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8457_edge_closing_0.smt2 : 457583 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8459_edge_closing_0.smt2 : 516734 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8460_edge_closing_0.smt2 : 1200006 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__randomwalk.t2__p8463_edge_closing_0.smt2 : 546012 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__refine_disj_problem.t2_fixed__p8519_edge_closing_0.smt2 : 423178 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__refine_disj_problem.t2__p8545_terminationG_0.smt2 : 555565 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__refine_disj_problem.t2__p8554_edge_closing_0.smt2 : 589084 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_div4.t2_fixed__p8573_terminationG_0.smt2 : 424656 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_div4.t2_fixed__p8582_safety_0.smt2 : 10706 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_div4.t2_fixed__p8583_safety_0.smt2 : 610398 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_div4.t2_fixed__p8587_edge_closing_0.smt2 : 611519 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_div4.t2_fixed__p8588_edge_closing_0.smt2 : 618222 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_div4.t2__p8604_safety_0.smt2 : 178100 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_div4.t2__p8605_safety_0.smt2 : 557416 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_seg_cyclic.t2_fixed__term_unfeasibility_1_0.smt2 : 1037 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse_seg_cyclic.t2_fixed__term_unfeasibility_2_0.smt2 : 1635 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__reverse.t2_fixed__term_unfeasibility_2_0.smt2 : 1403 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rev_nt2.t2_fixed__p8633_safety_0.smt2 : 553117 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rev_nt2.t2_fixed__p8634_safety_0.smt2 : 612670 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rev_nt3.t2__p8692_safety_0.smt2 : 558102 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rev_nt3.t2__p8693_safety_0.smt2 : 610281 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rlft3.c.i.rlft3.pl.t2.fixed.t2__p8723_terminationG_0.smt2 : 802 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rlft3.c.i.rlft3.pl.t2.fixed.t2__p8724_terminationG_0.smt2 : 3826 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rlft3.c.i.rlft3.pl.t2.fixed.t2__p8725_terminationG_0.smt2 : 628022 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rlft3.c.i.rlft3.pl.t2.fixed.t2__p8946_edge_closing_0.smt2 : 617268 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__rlft3.c.i.rlft3.pl.t2.fixed.t2__p8947_edge_closing_0.smt2 : 634050 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9188_terminationG_0.smt2 : 506 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9189_terminationG_0.smt2 : 5200 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9190_terminationG_0.smt2 : 632228 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9194_terminationG_0.smt2 : 217563 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9195_terminationG_0.smt2 : 618198 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9249_edge_closing_0.smt2 : 615013 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9250_edge_closing_0.smt2 : 679631 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9252_edge_closing_0.smt2 : 458450 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9253_edge_closing_0.smt2 : 1200007 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9254_edge_closing_0.smt2 : 1200010 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9260_edge_closing_0.smt2 : 435189 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9261_edge_closing_0.smt2 : 1200008 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9262_edge_closing_0.smt2 : 1200012 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9263_edge_closing_0.smt2 : 1200010 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9264_edge_closing_0.smt2 : 1200010 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9265_edge_closing_0.smt2 : 1200006 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9266_edge_closing_0.smt2 : 99050 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9267_edge_closing_0.smt2 : 1200007 ms.
+--------------------------------------------------
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__ruslan-benchmarks_misc_n-38.t2__p9268_edge_closing_0.smt2 : 1200014 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10014_safety_0.smt2 : 50903 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10035_safety_0.smt2 : 614357 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10041_safety_0.smt2 : 583136 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10043_safety_0.smt2 : 2585 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10044_safety_0.smt2 : 102465 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10046_safety_0.smt2 : 536944 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10056_safety_0.smt2 : 434480 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10066_safety_0.smt2 : 2628 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10067_safety_0.smt2 : 398408 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10068_safety_0.smt2 : 236709 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10076_safety_0.smt2 : 554615 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10085_safety_0.smt2 : 3429 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10086_safety_0.smt2 : 428633 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10087_safety_0.smt2 : 2364 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10088_safety_0.smt2 : 430148 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10131_safety_0.smt2 : 2416 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10132_safety_0.smt2 : 345178 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10147_safety_0.smt2 : 2181 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10148_safety_0.smt2 : 545643 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10154_safety_0.smt2 : 3489 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10157_safety_0.smt2 : 2943 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10158_safety_0.smt2 : 609176 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10160_safety_0.smt2 : 2582 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10164_safety_0.smt2 : 429545 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10166_safety_0.smt2 : 2413 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10168_safety_0.smt2 : 448755 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10199_safety_0.smt2 : 3450 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10200_safety_0.smt2 : 402222 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10292_safety_0.smt2 : 3124 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10293_safety_0.smt2 : 13514 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10315_safety_0.smt2 : 417 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10316_safety_0.smt2 : 840 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10333_safety_0.smt2 : 5173 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10334_safety_0.smt2 : 444483 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10337_safety_0.smt2 : 1057 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10343_safety_0.smt2 : 2347 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/86/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p10354_safety_0.smt2 : 1077 ms.

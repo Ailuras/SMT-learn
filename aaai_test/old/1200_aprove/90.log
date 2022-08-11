@@ -1,0 +1,78 @@
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid277585.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13495_safety_0.smt2 : 247 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid277792.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13497_safety_0.smt2 : 173 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid277995.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13498_safety_0.smt2 : 166 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid278183.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13502_safety_0.smt2 : 164 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid278364.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13519_safety_0.smt2 : 146 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid278537.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13530_safety_0.smt2 : 151 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid283967.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13532_safety_0.smt2 : 3340 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid284594.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13540_safety_0.smt2 : 366 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid285100.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13547_safety_0.smt2 : 288 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid286032.log
+SAT_Split_100/90/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__s1-striped.t2__p13549_safety_0.smt2 : 264 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: Resource temporarily unavailable

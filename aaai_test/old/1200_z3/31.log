@@ -1,0 +1,297 @@
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateIteratorKeyLoop.jar-obl-12__p3821_safety_0.smt2 : 2133 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateIteratorValueLoop.jar-obl-12__p4107_safety_0.smt2 : 128975 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateIteratorValueLoop.jar-obl-12__p4315_safety_0.smt2 : 2172 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5405_terminationG_0.smt2 : 810 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5406_terminationG_0.smt2 : 38405 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5407_terminationG_0.smt2 : 138862 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5420_safety_0.smt2 : 2126 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5427_safety_0.smt2 : 879 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5428_safety_0.smt2 : 122316 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5433_safety_0.smt2 : 37880 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5439_safety_0.smt2 : 24413 ms.
+--------------------------------------------------
+timeout
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5440_safety_0.smt2 : 1200023 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5442_safety_0.smt2 : 2190 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5443_safety_0.smt2 : 32522 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5447_safety_0.smt2 : 19297 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5448_safety_0.smt2 : 408912 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5458_safety_0.smt2 : 1027 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5465_safety_0.smt2 : 2144 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5470_safety_0.smt2 : 117489 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5475_safety_0.smt2 : 30935 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5482_safety_0.smt2 : 34909 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5483_safety_0.smt2 : 146420 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5484_safety_0.smt2 : 2258 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5485_safety_0.smt2 : 110058 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5486_safety_0.smt2 : 217405 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5492_safety_0.smt2 : 455 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5493_safety_0.smt2 : 2166 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5497_safety_0.smt2 : 1064 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5498_safety_0.smt2 : 2187 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5505_safety_0.smt2 : 2153 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5512_safety_0.smt2 : 2167 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5515_safety_0.smt2 : 109828 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5516_safety_0.smt2 : 692247 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5521_safety_0.smt2 : 32106 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5522_safety_0.smt2 : 171563 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5528_safety_0.smt2 : 1392 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5529_safety_0.smt2 : 2167 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5530_safety_0.smt2 : 2269 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5531_safety_0.smt2 : 14441 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5532_safety_0.smt2 : 198783 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5536_safety_0.smt2 : 1021 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5537_safety_0.smt2 : 2289 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5548_safety_0.smt2 : 10253 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5549_safety_0.smt2 : 2242 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5551_safety_0.smt2 : 1056 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5552_safety_0.smt2 : 93310 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5559_safety_0.smt2 : 2138 ms.
+--------------------------------------------------
+timeout
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5560_safety_0.smt2 : 1200024 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5565_safety_0.smt2 : 62428 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5566_safety_0.smt2 : 76520 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5573_safety_0.smt2 : 2160 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5575_safety_0.smt2 : 2173 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5576_safety_0.smt2 : 122006 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5578_safety_0.smt2 : 2191 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5579_safety_0.smt2 : 190389 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5585_terminationG_0.smt2 : 889 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5586_terminationG_0.smt2 : 43456 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5587_terminationG_0.smt2 : 171977 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5603_safety_0.smt2 : 2182 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5607_safety_0.smt2 : 6267 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5608_safety_0.smt2 : 2221 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5612_safety_0.smt2 : 872 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5613_safety_0.smt2 : 2244 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5617_safety_0.smt2 : 1047 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5618_safety_0.smt2 : 2203 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5624_safety_0.smt2 : 762174 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5625_safety_0.smt2 : 2249 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5635_safety_0.smt2 : 25612 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5636_safety_0.smt2 : 66924 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5638_safety_0.smt2 : 6691 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5640_safety_0.smt2 : 40605 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5645_safety_0.smt2 : 2137 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5646_safety_0.smt2 : 2182 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5648_safety_0.smt2 : 2175 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5651_safety_0.smt2 : 48903 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5655_safety_0.smt2 : 2122 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5658_safety_0.smt2 : 1729 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5659_safety_0.smt2 : 107201 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5662_safety_0.smt2 : 424561 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5664_safety_0.smt2 : 14880 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5665_safety_0.smt2 : 53077 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5672_safety_0.smt2 : 2014 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5673_safety_0.smt2 : 6121 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5674_safety_0.smt2 : 225517 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5675_safety_0.smt2 : 2270 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5676_safety_0.smt2 : 35663 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5677_safety_0.smt2 : 232905 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5683_safety_0.smt2 : 2133 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5684_safety_0.smt2 : 2174 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5695_safety_0.smt2 : 2196 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5700_safety_0.smt2 : 6057 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5701_safety_0.smt2 : 59750 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5705_safety_0.smt2 : 14891 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5706_safety_0.smt2 : 2322 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5710_safety_0.smt2 : 9073 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5711_safety_0.smt2 : 1098552 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5722_safety_0.smt2 : 2270 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5724_safety_0.smt2 : 193426 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/31/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreatePut.jar-obl-10__p5725_safety_0.smt2 : 2257 ms.

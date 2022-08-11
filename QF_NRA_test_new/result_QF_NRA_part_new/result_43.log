@@ -1,0 +1,30 @@
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Weierstrass_1_RHS.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC05_Weierstrass_2_RHS.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex1a.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex1b.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex2a.smt2 : 18 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex2b.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_ISSAC10_ex4a.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_JSC_SUMCracker_16a.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_JSC_SUMCracker_16b.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Polynomial_Proof_Calls/ProveIneq_JSC_SUMCracker_18.smt2 : 33 ms.

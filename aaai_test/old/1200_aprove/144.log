@@ -1,0 +1,575 @@
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid66507.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7536662271889655378.smt2 : 486 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid69434.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7553684159876201271.smt2 : 344 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7559851663781642245.smt2 : 147 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid72176.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7562489914946415047.smt2 : 341 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid84810.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7567229793381788175.smt2 : 3433 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid87017.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7573373552672061169.smt2 : 257 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid88911.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7582056465401816311.smt2 : 296 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid90778.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7590399260681439742.smt2 : 347 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid92892.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7590474555266716483.smt2 : 358 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid93897.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT759255174263994380.smt2 : 294 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid95444.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7600065606153054469.smt2 : 320 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT760719086709901796.smt2 : 118 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7607464386017027349.smt2 : 3006 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid138919.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7608975121595496463.smt2 : 15150 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7610286808985132932.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7610852511450248253.smt2 : 6 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7611987119723843271.smt2 : 15018 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid169136.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7615731550573616946.smt2 : 142 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid170663.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT761672057715945401.smt2 : 1149 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid170851.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7624679523915717307.smt2 : 148 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid171038.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7624773262034496840.smt2 : 135 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid171218.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7626898572491278512.smt2 : 163 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid171400.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT763392734845190078.smt2 : 173 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid171590.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7634487200611051738.smt2 : 140 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid171772.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7640420571048521510.smt2 : 148 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid171954.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7648521531974238875.smt2 : 150 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid172136.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7651050887355754550.smt2 : 173 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid172326.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7653769241554805412.smt2 : 167 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid172523.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7656102638150258045.smt2 : 186 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid172713.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7661193483099559072.smt2 : 191 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid172905.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7662443883136090771.smt2 : 184 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid173099.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7665212046683892380.smt2 : 149 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid173284.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7666340789081402846.smt2 : 157 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid173479.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7669897523489279886.smt2 : 203 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid173675.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7675437925579875100.smt2 : 183 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid173855.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7680819870836548201.smt2 : 170 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7692659250533584009.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7698491910757949738.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7705053073037559139.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7707059208401772365.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7712368292232038782.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7721500732512293986.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT772800478607607001.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7738094659359094547.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7739562363697450597.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7741851526124534289.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7743284638049729612.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7755777999411953910.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7755926750546577548.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7771426560100989424.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7779103868321286583.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT778144120697107907.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7789566944834562492.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7793121429854842894.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7793199495189474023.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7823323782766463735.smt2 : 3 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid174294.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7838884156418628231.smt2 : 200 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid174505.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7844921076504539198.smt2 : 214 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid174695.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7846157933716462303.smt2 : 182 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid174881.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7863097830419831325.smt2 : 149 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid175073.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7864601247910460124.smt2 : 155 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid175268.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7875175109156463530.smt2 : 168 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid175504.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7887893780467629415.smt2 : 243 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid175772.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7890038271197508657.smt2 : 218 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid179941.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7894651576349615078.smt2 : 3162 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid180185.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7895251446205385259.smt2 : 206 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid180400.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7900408876608124008.smt2 : 189 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid180628.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7903591660074047.smt2 : 200 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid181041.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7909453486301533562.smt2 : 181 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid181250.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7913670470448229844.smt2 : 169 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid181464.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7924349461296395393.smt2 : 205 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid181677.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7925486591819126688.smt2 : 165 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid181903.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7934578101815516403.smt2 : 193 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid182125.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7951364565869636656.smt2 : 204 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid182340.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7955388010732821599.smt2 : 173 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid182551.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7973953501619194134.smt2 : 201 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid182771.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7984475695223661723.smt2 : 193 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid182987.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7993450145625297093.smt2 : 193 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid183208.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7994396797327004761.smt2 : 170 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid183429.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7996735264961734592.smt2 : 168 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid183634.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT7998671053005547216.smt2 : 166 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid183845.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8001059830697292498.smt2 : 154 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid184056.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8001867158925593142.smt2 : 156 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid184271.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8012602079643276968.smt2 : 148 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid184482.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8017367873711888833.smt2 : 164 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid184723.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8024852026751060909.smt2 : 202 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid184924.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8024907687440095843.smt2 : 91 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid185123.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8027564723893590521.smt2 : 101 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8033289265104172368.smt2 : 6 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid185514.log
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8038578912200818680.smt2 : 151 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8040126413842461502.smt2 : 103 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8048491273208585327.smt2 : 142 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8056030040600901039.smt2 : 127 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/144/QF_NIA_SAT/AProVE/aproveSMT8063658601531780609.smt2 : 132 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: retry: No child processes
+./aprove_nia//run.sh: fork: Resource temporarily unavailable

@@ -1,0 +1,578 @@
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/985.smt2 : 129 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/986.smt2 : 1100 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/987.smt2 : 133 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid68181.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/988.smt2 : 339 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid74415.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/989.smt2 : 1279 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid75379.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/990.smt2 : 232 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid76384.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/991.smt2 : 136 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/992.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/993.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/994.smt2 : 6 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid77428.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/995.smt2 : 253 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid78482.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/996.smt2 : 242 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid79300.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/997.smt2 : 442 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid80358.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/998.smt2 : 425 ms.
+--------------------------------------------------
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/999.smt2 : 220 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid83174.log
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/99.smt2 : 238 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid84433.log
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/array-2-O0.smt2 : 387 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid85952.log
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound1-O0.smt2 : 325 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid87530.log
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound2-O0.smt2 : 321 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound1-O0.smt2 : 143 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid90756.log
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound2-O0.smt2 : 324 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/id_trans-O0.smt2 : 6 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid92734.log
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/nec11-O0.smt2 : 366 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid93891.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_07.smt2 : 250 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_08.smt2 : 158 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid96223.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_09.smt2 : 263 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid97199.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_10.smt2 : 440 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid98346.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_11.smt2 : 491 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid100458.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_12.smt2 : 498 ms.
+--------------------------------------------------
+unknown
++NO solution
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_04.smt2 : 320 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_05.smt2 : 142 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid104501.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_06.smt2 : 334 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_07.smt2 : 4 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid107986.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_08.smt2 : 332 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid108621.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_09.smt2 : 315 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid109041.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_10.smt2 : 293 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid109796.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_11.smt2 : 291 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid110421.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_12.smt2 : 234 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid111139.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_091.smt2 : 210 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_092.smt2 : 103 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid114422.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_093.smt2 : 1257 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid114991.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_094.smt2 : 177 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid115407.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_095.smt2 : 155 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid115795.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_096.smt2 : 140 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid147751.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_097.smt2 : 15117 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_098.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_099.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_100.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_04.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_05.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_06.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_07.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_08.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_09.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_10.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_11.smt2 : 5 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_12.smt2 : 93 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SQ_04.smt2 : 105 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SQ_08.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SQ_09.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SQ_12.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0001.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0002.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0003.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0006.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0007.smt2 : 7 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid149273.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0008.smt2 : 171 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid149758.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0009.smt2 : 273 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid150204.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0010.smt2 : 322 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid150820.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0011.smt2 : 418 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid151680.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0012.smt2 : 345 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid155587.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0015.smt2 : 1262 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid155919.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0016.smt2 : 220 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid163509.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0017.smt2 : 3171 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid163718.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0018.smt2 : 166 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid163912.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0019.smt2 : 196 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid164136.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0020.smt2 : 214 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid164347.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0021.smt2 : 203 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid164567.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0024.smt2 : 271 ms.
+--------------------------------------------------
+./aprove_nia//run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid165842.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0025.smt2 : 213 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid165895.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0026.smt2 : 171 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid166189.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0027.smt2 : 200 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid166295.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0028.smt2 : 219 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid166521.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0029.smt2 : 248 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid166704.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0030.smt2 : 288 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid166925.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0033.smt2 : 180 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid167136.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0034.smt2 : 219 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid167360.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0035.smt2 : 273 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid167563.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0036.smt2 : 204 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid167774.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0037.smt2 : 195 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid167962.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0038.smt2 : 175 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid168148.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0039.smt2 : 199 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid168364.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0042.smt2 : 190 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid168558.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0043.smt2 : 269 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid168747.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0044.smt2 : 261 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid168960.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0045.smt2 : 233 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid169183.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0046.smt2 : 224 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid169393.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0047.smt2 : 108 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid169601.log
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0048.smt2 : 130 ms.

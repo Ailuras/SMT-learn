@@ -1,0 +1,30 @@
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC05_LevinRHSc.smt2 : 219 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC05_LevinRHSm.smt2 : 682 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC05_Mitrinovic_7_31.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC05_Mitrinovic_7_32.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC05_Weierstrass_1_LHS.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC05_Weierstrass_2_LHS.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC10_ex1c.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC10_ex1d.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC10_ex1e.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20220314-Uncu/Rational_Function_Proof_Calls_With_Disjunctive_Denominator_Simplifications/DDC_ProveIneq_ISSAC10_ex1f.smt2 : 94 ms.

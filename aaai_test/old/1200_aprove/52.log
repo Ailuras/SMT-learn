@@ -1,0 +1,745 @@
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainCopy.jar-obl-10__p10352_edge_closing_0.smt2 : 174 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid176204.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainCopy.jar-obl-10__p10356_edge_closing_0.smt2 : 356 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid178687.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainCopy.jar-obl-10__p10357_edge_closing_0.smt2 : 284 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainCopy.jar-obl-10__p10358_edge_closing_0.smt2 : 5 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainCopy.jar-obl-10__p10362_edge_closing_0.smt2 : 103 ms.
+--------------------------------------------------
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainCopy.jar-obl-10__p10363_edge_closing_0.smt2 : 208 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainCopy.jar-obl-10__p10364_edge_closing_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10424_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid182405.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10435_terminationG_0.smt2 : 176 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid183536.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10436_terminationG_0.smt2 : 183 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10447_terminationG_0.smt2 : 160 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid185293.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10448_terminationG_0.smt2 : 207 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid186226.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10459_terminationG_0.smt2 : 143 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ Nl11arg11 = 1
++ Nl11arg21 = 0
++ Nl11arg31 = 0
++ Nl11arg41 = -1
++ Nl11arg51 = 0
++ Nl11arg12 = -1
++ Nl11arg22 = -1
++ Nl11arg32 = 1
++ Nl11arg42 = -1
++ Nl11arg52 = -1
++ Nl11arg13 = -1
++ Nl11arg23 = -1
++ Nl11arg33 = -1
++ Nl11arg43 = -1
++ Nl11arg53 = 0
++ lam0n0 = 0
++ lam0n1 = 0
++ lam0n2 = 0
++ lam0n3 = 0
++ lam0n4 = 0
++ lam0n5 = 0
++ lam0n6 = 3
++ lam0n7 = 0
++ lam0n8 = 3
++ lam0n9 = 0
++ lam0n10 = 0
++ Nl11CT1 = -1
++ Nl11CT2 = 1
++ Nl11CT3 = -2
++ lam1n0 = -2
++ lam1n1 = 0
++ lam1n2 = -3
++ lam1n3 = -1
++ lam1n4 = 1
++ lam1n5 = -3
++ lam1n6 = -3
++ lam1n7 = -3
++ lam1n8 = -3
++ lam1n9 = -3
++ lam1n10 = -3
++ lam2n0 = -3
++ lam2n1 = -3
++ lam2n2 = -3
++ lam2n3 = -3
++ lam2n4 = -2
++ lam2n5 = -3
++ lam2n6 = 4
++ lam2n7 = -3
++ lam2n8 = -3
++ lam2n9 = 1
++ lam2n10 = -3
++ lam3n0 = -3
++ lam3n1 = -2
++ lam3n2 = 2
++ lam3n3 = -3
++ lam3n4 = -3
++ lam3n5 = -3
++ lam3n6 = -3
++ lam3n7 = -1
++ lam3n8 = 0
++ lam3n9 = 0
++ lam3n10 = -3
++ undef1 = 3
++ undef2 = 3
++ undef292 = 1
++ undef289 = 2
++ undef290 = 3
++ undef302 = 1
++ undef301 = 0
++ undef366 = 4
++ undef303 = 1
++ undef367 = 1
++ undef291 = -1
++ undef293 = -1
++ arg1 = -3
++ arg2 = -3
++ undef279 = -3
++ undef276 = -3
++ undef277 = -3
++ arg3 = -3
++ undef288 = 0
++ undef278 = -3
++ undef280 = -3
++ lam13n0 = -3
++ lam13n1 = -3
++ lam13n2 = -3
++ lam13n3 = -3
++ lam13n4 = 4
++ lam13n5 = 4
++ lam13n6 = -2
++ lam13n7 = -3
++ lam13n8 = -3
++ lam13n9 = 3
++ lam13n10 = -3
++ RFN1_arg1 = 0
++ RFN1_arg2 = -3
++ RFN1_arg3 = 1
++ RFN1_arg4 = -3
++ RFN1_arg5 = 1
++ lam11n0 = -3
++ lam11n1 = -3
++ lam11n2 = -2
++ lam11n3 = -3
++ lam11n4 = 1
++ lam11n5 = -2
++ lam11n6 = -3
++ lam11n7 = -3
++ lam11n8 = -2
++ lam11n9 = -3
++ lam11n10 = -2
++ RFN1_CT = -1
++ lam12n0 = -3
++ lam12n1 = -3
++ lam12n2 = -3
++ lam12n3 = -3
++ lam12n4 = -3
++ lam12n5 = -3
++ lam12n6 = -3
++ lam12n7 = -3
++ lam12n8 = -3
++ lam12n9 = -3
++ lam12n10 = -3
++ lam10n0 = 0
++ lam10n1 = 0
++ lam10n2 = 0
++ lam10n3 = 0
++ lam10n4 = 0
++ lam10n5 = 0
++ lam10n6 = 2
++ lam10n7 = 0
++ lam10n8 = 2
++ lam10n9 = 0
++ lam10n10 = 0
+-
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10460_terminationG_0.smt2 : 2538 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid194465.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10471_terminationG_0.smt2 : 1139 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10472_terminationG_0.smt2 : 110 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10484_terminationG_0.smt2 : 157 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid195313.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10485_terminationG_0.smt2 : 136 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10500_edge_closing_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10501_edge_closing_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10508_edge_closing_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10510_edge_closing_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10514_edge_closing_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10518_edge_closing_0.smt2 : 6 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid195547.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainDelete.jar-obl-10__p10519_edge_closing_0.smt2 : 149 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10564_terminationG_0.smt2 : 150 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid196450.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10571_terminationG_0.smt2 : 123 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid196932.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10572_terminationG_0.smt2 : 119 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid197441.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10579_terminationG_0.smt2 : 112 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10580_terminationG_0.smt2 : 143 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10587_terminationG_0.smt2 : 98 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10588_terminationG_0.smt2 : 104 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10595_terminationG_0.smt2 : 108 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10596_terminationG_0.smt2 : 105 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid198863.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10607_edge_closing_0.smt2 : 120 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10608_edge_closing_0.smt2 : 140 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10614_edge_closing_0.smt2 : 137 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid199643.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10615_edge_closing_0.smt2 : 156 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid199842.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10619_edge_closing_0.smt2 : 158 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid200029.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10620_edge_closing_0.smt2 : 176 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid200235.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10621_edge_closing_0.smt2 : 162 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid200429.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10625_edge_closing_0.smt2 : 148 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid200617.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10626_edge_closing_0.smt2 : 146 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid200804.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainFind.jar-obl-10__p10627_edge_closing_0.smt2 : 152 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid206482.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainGet.jar-obl-10__p10663_terminationG_0.smt2 : 3151 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid206668.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainGet.jar-obl-10__p10671_terminationG_0.smt2 : 158 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid206858.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainGet.jar-obl-10__p10682_edge_closing_0.smt2 : 124 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid207041.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainGet.jar-obl-10__p10683_edge_closing_0.smt2 : 159 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid207234.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainGet.jar-obl-10__p10689_edge_closing_0.smt2 : 141 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid207420.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainGet.jar-obl-10__p10690_edge_closing_0.smt2 : 143 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid207599.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainGet.jar-obl-10__p10694_edge_closing_0.smt2 : 140 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainGet.jar-obl-10__p10695_edge_closing_0.smt2 : 87 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid208141.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainMove.jar-obl-11__p10744_edge_closing_0.smt2 : 114 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid208188.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainMove.jar-obl-11__p10745_edge_closing_0.smt2 : 133 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid208354.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainMove.jar-obl-11__p10751_edge_closing_0.smt2 : 153 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid208545.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainMove.jar-obl-11__p10752_edge_closing_0.smt2 : 152 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid208733.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainMove.jar-obl-11__p10757_edge_closing_0.smt2 : 154 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid208921.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MainMove.jar-obl-11__p10758_edge_closing_0.smt2 : 143 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid209111.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10768_terminationG_0.smt2 : 161 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid209303.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10769_terminationG_0.smt2 : 155 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid209494.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10770_terminationG_0.smt2 : 152 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid209687.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10774_terminationG_0.smt2 : 154 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid209875.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10775_terminationG_0.smt2 : 148 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid210056.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10782_safety_0.smt2 : 166 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid210267.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10783_safety_0.smt2 : 145 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid210456.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10786_safety_0.smt2 : 179 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid210661.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10787_safety_0.smt2 : 155 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid210855.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10788_safety_0.smt2 : 152 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid211045.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10789_safety_0.smt2 : 149 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid211241.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10790_safety_0.smt2 : 162 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid211433.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10791_safety_0.smt2 : 185 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid211641.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10801_terminationG_0.smt2 : 169 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid211851.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10802_terminationG_0.smt2 : 234 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid212044.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10810_safety_0.smt2 : 196 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid212229.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10811_safety_0.smt2 : 219 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid212465.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10814_safety_0.smt2 : 214 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid212668.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10815_safety_0.smt2 : 239 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid212884.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10816_safety_0.smt2 : 228 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid213090.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10817_safety_0.smt2 : 258 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid214452.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10818_safety_0.smt2 : 1246 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid214701.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10819_safety_0.smt2 : 247 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid214893.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10829_terminationG_0.smt2 : 271 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid215135.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10834_terminationG_0.smt2 : 260 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid215356.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10839_terminationG_0.smt2 : 248 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid215565.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10843_edge_closing_0.smt2 : 250 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid215775.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10844_edge_closing_0.smt2 : 250 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid215963.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10847_edge_closing_0.smt2 : 259 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid216185.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10848_edge_closing_0.smt2 : 221 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid216401.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10849_edge_closing_0.smt2 : 224 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid216619.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10851_edge_closing_0.smt2 : 222 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid216821.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10853_edge_closing_0.smt2 : 223 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid217021.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Matrix.jar-obl-16__p10854_edge_closing_0.smt2 : 171 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid217223.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MirrorBinTreeRec.jar-obl-9__p10892_terminationG_0.smt2 : 210 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid217439.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MirrorBinTreeRec.jar-obl-9__p10893_terminationG_0.smt2 : 184 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid217635.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__MirrorBinTreeRec.jar-obl-9__p10894_terminationG_0.smt2 : 165 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid217834.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__mirrorInterv_rec.jar-obl-8__p10912_terminationG_0.smt2 : 154 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid218025.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__mirrorIntervSim_rec.jar-obl-8__p10965_terminationG_0.smt2 : 165 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid218244.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__mirrorIntervSim_rec.jar-obl-8__p10970_terminationG_0.smt2 : 169 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid218436.log
+SAT_Split_100/52/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__mirrorIntervSim_rec.jar-obl-8__p10987_edge_closing_0.smt2 : 141 ms.

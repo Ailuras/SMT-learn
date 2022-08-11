@@ -1,0 +1,665 @@
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid282559.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7047_safety_0.smt2 : 560 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7048_safety_0.smt2 : 99 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7049_safety_0.smt2 : 106 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Finalizer.<clinit>(Finalizer.java:233)
+
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7055_safety_0.smt2 : 99 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7056_safety_0.smt2 : 150 ms.
+--------------------------------------------------
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7058_safety_0.smt2 : 221 ms.
+--------------------------------------------------
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7059_safety_0.smt2 : 1538 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid298193.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7065_safety_0.smt2 : 183 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid298795.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7066_safety_0.smt2 : 150 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid299324.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7068_safety_0.smt2 : 207 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7069_safety_0.smt2 : 105 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid300169.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7078_safety_0.smt2 : 129 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid303318.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7079_safety_0.smt2 : 1190 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid303542.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7083_safety_0.smt2 : 113 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid303740.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7084_safety_0.smt2 : 169 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid303930.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7091_safety_0.smt2 : 135 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid304130.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7095_safety_0.smt2 : 147 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid304319.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7096_safety_0.smt2 : 159 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid304519.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7100_safety_0.smt2 : 187 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid304730.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7101_safety_0.smt2 : 144 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid304920.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7107_safety_0.smt2 : 180 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid305123.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7109_safety_0.smt2 : 143 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid305315.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7113_safety_0.smt2 : 174 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid305517.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7114_safety_0.smt2 : 170 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid305709.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7118_safety_0.smt2 : 155 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid305908.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7119_safety_0.smt2 : 148 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid306098.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7123_safety_0.smt2 : 156 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid306302.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7124_safety_0.smt2 : 159 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid306491.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7127_safety_0.smt2 : 132 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid306689.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7128_safety_0.smt2 : 146 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid306885.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7129_safety_0.smt2 : 139 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid307072.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7132_safety_0.smt2 : 156 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid307275.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7133_safety_0.smt2 : 135 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid307464.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7134_safety_0.smt2 : 165 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid307658.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7139_safety_0.smt2 : 147 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid307866.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7141_safety_0.smt2 : 182 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid308075.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7142_safety_0.smt2 : 142 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid308271.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7146_safety_0.smt2 : 160 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid308481.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7147_safety_0.smt2 : 156 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid308683.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7148_safety_0.smt2 : 157 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid308882.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7152_safety_0.smt2 : 146 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid309078.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7157_safety_0.smt2 : 113 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid309282.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7158_safety_0.smt2 : 158 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid309484.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7162_safety_0.smt2 : 173 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid309704.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7163_safety_0.smt2 : 156 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid309897.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7167_safety_0.smt2 : 148 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid310102.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7168_safety_0.smt2 : 153 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid310303.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7171_safety_0.smt2 : 110 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid310496.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7172_safety_0.smt2 : 159 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid310705.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7173_safety_0.smt2 : 166 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid310908.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7177_safety_0.smt2 : 146 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid311110.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7178_safety_0.smt2 : 148 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid311309.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7181_safety_0.smt2 : 186 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid311509.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7183_safety_0.smt2 : 162 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid311712.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7184_safety_0.smt2 : 197 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid311923.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7191_safety_0.smt2 : 178 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid312128.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7192_safety_0.smt2 : 143 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid312379.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7193_safety_0.smt2 : 162 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid312573.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7202_safety_0.smt2 : 179 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid312776.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7203_safety_0.smt2 : 154 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid312982.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7209_terminationG_0.smt2 : 172 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid313195.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7210_terminationG_0.smt2 : 201 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid313391.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7211_terminationG_0.smt2 : 161 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid313587.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7220_safety_0.smt2 : 205 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid313806.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7221_safety_0.smt2 : 195 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid314007.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7222_safety_0.smt2 : 144 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid314206.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7231_safety_0.smt2 : 190 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid314401.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7232_safety_0.smt2 : 147 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid314609.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7234_safety_0.smt2 : 145 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid314805.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7235_safety_0.smt2 : 144 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid314997.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7239_safety_0.smt2 : 142 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid315192.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7240_safety_0.smt2 : 126 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid315408.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7243_safety_0.smt2 : 174 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid315986.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7245_safety_0.smt2 : 156 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7254_safety_0.smt2 : 96 ms.
+--------------------------------------------------
+./starexec_run_2021: fork: retry: No child processes
+./starexec_run_2021: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7255_safety_0.smt2 : 3138 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid325964.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7260_safety_0.smt2 : 97 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid326147.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7264_safety_0.smt2 : 96 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid326441.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7265_safety_0.smt2 : 90 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid326570.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7269_safety_0.smt2 : 113 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid326704.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7270_safety_0.smt2 : 99 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid326892.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7274_safety_0.smt2 : 121 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid327074.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7275_safety_0.smt2 : 139 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid327260.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7281_safety_0.smt2 : 137 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid327445.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7282_safety_0.smt2 : 133 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid327633.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7283_safety_0.smt2 : 103 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid327820.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7287_safety_0.smt2 : 103 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid328007.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7288_safety_0.smt2 : 101 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid328195.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7290_safety_0.smt2 : 97 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid328525.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7291_safety_0.smt2 : 91 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid328731.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7293_safety_0.smt2 : 103 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid328755.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7294_safety_0.smt2 : 101 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid328941.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7298_safety_0.smt2 : 116 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid329129.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7299_safety_0.smt2 : 141 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/aaai_2023/aprove_nia/bin/hs_err_pid329315.log
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7300_safety_0.smt2 : 104 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7305_safety_0.smt2 : 81 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7307_safety_0.smt2 : 138 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7308_safety_0.smt2 : 126 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+SAT_Split_100/36/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateSize.jar-obl-10__p7311_safety_0.smt2 : 122 ms.
