@@ -6,7 +6,7 @@ def blank(s, max_width = 12):
     new_s = str(s)
     return ''.join([' ' for _ in range(max_width - len(new_s))])
 
-print(  "File"+ blank('12345678') + 
+print(  "File"+ blank('12345678', 50) + 
         " Total " + blank(' Total ', 8) +
         " sat " + blank('sat', 8) +
         " unsat " + blank('123456', 8) +
@@ -65,7 +65,7 @@ sorted_stats = sorted(stats, key=lambda x: (len(x[0]), x[0]))
 
 
 for s in sorted_stats:
-    print(  s[0] + blank(s[0]) + 
+    print(  s[0] + blank(s[0], 50) + 
             str(s[1]) + blank(s[1], 8) + 
             str(s[2]) + blank(s[2], 8) + 
             str(s[3]) + blank(s[3], 8) + 

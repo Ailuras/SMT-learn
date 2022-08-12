@@ -71,18 +71,26 @@ def get_real_data(dir, label):
 
 def get_data(dir1, dir2, label):
     times = [[], []]
+    times2 = [[], []]
 
     data1 = get_real_data(dir1, label)
     data2 = get_real_data(dir2, label)
     
+    diff = []
     for d in data1.keys():
         val1 = data1[d]
         if d not in data2:
             continue
         val2 = data2[d]
-        if(val1[0] == "sat" and val2[0] == "sat"):
-            times[0].append(int(val1[-1])/1000)
-            times[1].append(int(val2[-1])/1000)
-    return times
-        
-            
+        if val1[0] == "sat":
+            if val2[0] == "sat":
+                times[0].append(int(val1[-1])/1000)
+                times[1].append(int(val2[-1])/1000)
+            elif val2[0] == "None":
+                if val2[0] not in diff:
+                    diff.append(val2[0])
+                times2[0].append(int(val1[-1])/1000)
+                times2[1].append(int(val2[-1])/1000)
+                
+    print(diff)
+    return times, times2
