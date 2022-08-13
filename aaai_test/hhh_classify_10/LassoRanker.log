@@ -1,0 +1,54 @@
+--------------------------------------------------
+Number of variables: 7677
+Number of clauses: 39599
+sat
+check sat
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/Et4_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 140 ms.
+--------------------------------------------------
+Number of variables: 7677
+Number of clauses: 39599
+sat
+check sat
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/Et4_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 117 ms.
+--------------------------------------------------
+Number of variables: 5542
+Number of clauses: 28600
+sat
+check sat
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/Swingers_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 78 ms.
+--------------------------------------------------
+Number of variables: 16558
+Number of clauses: 78126
+sat
+check sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/BradleyMannaSipma-2005CAV-Fig1-modified-alloca_unknown-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 143 ms.
+--------------------------------------------------
+Number of variables: 14501
+Number of clauses: 68992
+sat
+check sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/BradleyMannaSipma-2005ICALP-Fig1-alloca_unknown-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 116 ms.
+--------------------------------------------------
+Number of variables: 12728
+Number of clauses: 59501
+sat
+check sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/HarrisLalNoriRajamani-2010SAS-Fig2-alloca_unknown-termination.c.i_Iteration2_Lasso+nonterminationTemplate.smt2 : 91 ms.
+--------------------------------------------------
+Number of variables: 1031
+Number of clauses: 4171
+sat
+check sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/PodelskiRybalchenko-2004VMCAI-Ex2-alloca_false-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 17 ms.
+--------------------------------------------------
+Number of variables: 459
+Number of clauses: 1370
+sat
+check sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/Urban-2013WST-Fig1-alloca_false-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 22 ms.
+--------------------------------------------------
+Number of variables: 582
+Number of clauses: 1716
+sat
+check sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/Velroyen-alloca_false-termination.c.i_Iteration2_Lasso+nonterminationTemplate.smt2 : 22 ms.

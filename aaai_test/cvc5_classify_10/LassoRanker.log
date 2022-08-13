@@ -1,0 +1,30 @@
+--------------------------------------------------
+sat
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/Et4_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 85 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/Et4_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 82 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 315 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/Swingers_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 65 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/BradleyMannaSipma-2005CAV-Fig1-modified-alloca_unknown-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 252 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/BradleyMannaSipma-2005ICALP-Fig1-alloca_unknown-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 275 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/HarrisLalNoriRajamani-2010SAS-Fig2-alloca_unknown-termination.c.i_Iteration2_Lasso+nonterminationTemplate.smt2 : 204 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/PodelskiRybalchenko-2004VMCAI-Ex2-alloca_false-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 98 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/Urban-2013WST-Fig1-alloca_false-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 74 ms.
+--------------------------------------------------
+sat
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/Velroyen-alloca_false-termination.c.i_Iteration2_Lasso+nonterminationTemplate.smt2 : 97 ms.

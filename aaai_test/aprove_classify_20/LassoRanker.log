@@ -1,0 +1,420 @@
+--------------------------------------------------
+sat
++SOLUTION:
++ gev_ULTIMATE.start_main_~c~20 = -1
++ gev_ULTIMATE.start_main_~c~21 = -1
++ gev_ULTIMATE.start_main_~r~20 = -3
++ lambda0 = 0
++ gev_ULTIMATE.start_main_~r~21 = 0
++ nu0 = 1
++ gev_ULTIMATE.start_main_~a~20 = -1
++ gev_ULTIMATE.start_main_~a~21 = -1
++ |gev_ULTIMATE.start_main_#t~nondet30| = 0
++ gev_ULTIMATE.start_main_~b~20 = 3
++ gev_ULTIMATE.start_main_~b~21 = 0
++ gev_ULTIMATE.start_main_~c~22 = 0
++ lambda1 = 1
++ gev_ULTIMATE.start_main_~r~22 = -3
++ nu1 = 0
++ gev_ULTIMATE.start_main_~a~22 = 0
++ |gev_ULTIMATE.start_main_#t~nondet31| = 0
++ gev_ULTIMATE.start_main_~b~22 = 3
++ lambda2 = 0
++ |gev_ULTIMATE.start_main_#t~nondet32| = 0
++ honda_ULTIMATE.start_main_~r~2 = 3
++ honda_ULTIMATE.start_main_~a~2 = -3
++ honda_ULTIMATE.start_main_~c~2 = -3
++ |honda_ULTIMATE.start_main_#t~nondet3| = -3
++ honda_ULTIMATE.start_main_~b~2 = 4
+-
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/Et4_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 707 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ gev_ULTIMATE.start_main_~c~20 = -1
++ gev_ULTIMATE.start_main_~c~21 = -1
++ gev_ULTIMATE.start_main_~r~20 = -3
++ lambda0 = 0
++ gev_ULTIMATE.start_main_~r~21 = 0
++ nu0 = 1
++ gev_ULTIMATE.start_main_~a~20 = -1
++ gev_ULTIMATE.start_main_~a~21 = -1
++ |gev_ULTIMATE.start_main_#t~nondet30| = 0
++ gev_ULTIMATE.start_main_~b~20 = 3
++ gev_ULTIMATE.start_main_~b~21 = 0
++ gev_ULTIMATE.start_main_~c~22 = 0
++ lambda1 = 1
++ gev_ULTIMATE.start_main_~r~22 = -3
++ nu1 = 0
++ gev_ULTIMATE.start_main_~a~22 = 0
++ |gev_ULTIMATE.start_main_#t~nondet31| = 0
++ gev_ULTIMATE.start_main_~b~22 = 3
++ lambda2 = 0
++ |gev_ULTIMATE.start_main_#t~nondet32| = 0
++ honda_ULTIMATE.start_main_~r~2 = 3
++ honda_ULTIMATE.start_main_~a~2 = -3
++ honda_ULTIMATE.start_main_~c~2 = -3
++ |honda_ULTIMATE.start_main_#t~nondet3| = -3
++ honda_ULTIMATE.start_main_~b~2 = 4
+-
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/Et4_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 761 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ lambda0 = 0
++ |gev_f_#in~i0| = 0
++ nu0 = 0
++ |gev_f_#in~i1| = -1
++ |gev_g_#in~a1| = -1
++ |gev_g_#in~a0| = -1
++ |gev_f_#in~x0| = 0
++ |gev_f_#in~x1| = 0
++ |gev_g_#in~b1| = 1
++ |gev_g_#in~c1| = -1
++ |gev_g_#in~b0| = 1
++ |gev_g_#in~c0| = 1
++ lambda1 = 1
++ nu1 = 1
++ |gev_f_#in~i2| = 0
++ |gev_g_#in~a2| = 0
++ |gev_f_#in~x2| = -1
++ |gev_g_#in~b2| = -1
++ |gev_g_#in~c2| = 0
++ lambda2 = 1
++ |honda_f_#in~i| = -1
++ |honda_g_#in~a| = 0
++ |honda_f_#in~x| = 0
++ |honda_g_#in~b| = -1
++ |honda_g_#in~c| = -1
+-
+SAT_Split_100/147/QF_NIA_SAT/LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 764 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ |init_(select (select #memory_int gcd_~y1.base) gcd_~y1.offset)| = 3
++ |honda_(select (select #memory_int gcd_~y1.base) gcd_~y1.offset)| = 3
++ |init_(ite (select #valid gcd_~y2.base) 1 0)| = 2
++ |honda_(ite (select #valid gcd_~y2.base) 1 0)| = 2
++ |init_gcd_#t~mem0| = -3
++ |honda_gcd_#t~mem0| = -3
++ |init_gcd_#t~mem5| = -3
++ |honda_gcd_#t~mem5| = -3
++ |init_gcd_#t~mem3| = -3
++ |honda_gcd_#t~mem3| = -3
++ |init_(select #length gcd_~y1.base)| = 4
++ |honda_(select #length gcd_~y1.base)| = 4
++ |init_gcd_#t~mem2| = -3
++ |honda_gcd_#t~mem2| = -3
++ |init_(ite (select #valid gcd_~y1.base) 1 0)| = 1
++ |honda_(ite (select #valid gcd_~y1.base) 1 0)| = 1
++ |init_(select #length gcd_~y2.base)| = 4
++ |honda_(select #length gcd_~y2.base)| = 4
++ |init_gcd_#t~mem1| = -3
++ |honda_gcd_#t~mem1| = -3
++ |init_gcd_#t~mem4| = -3
++ |honda_gcd_#t~mem4| = -3
++ |init_(select (select #memory_int gcd_~y2.base) gcd_~y2.offset)| = 0
++ |honda_(select (select #memory_int gcd_~y2.base) gcd_~y2.offset)| = 0
++ |honda_(ite (select #valid gcd_#in~y2.base) 1 0)| = 3
++ |honda_(select (select #memory_int gcd_#in~y1.base) 0)| = 0
++ aux_744 = 0
++ |honda_(select #length gcd_#in~y1.base)| = 4
++ |honda_gcd_#in~y1.base| = -3
++ honda_gcd_~y1.base = -3
++ |honda_(select #length gcd_#in~y2.base)| = 4
++ |honda_(select (select old(#memory_int) gcd_#in~y2.base) 0)| = 1
++ |honda_(select (select #memory_int gcd_#in~y2.base) 0)| = 1
++ |honda_(ite (select old(#valid) gcd_#in~y1.base) 1 0)| = -3
++ |honda_(select (select old(#memory_int) gcd_#in~y1.base) 0)| = 0
++ |honda_(ite (select #valid 0) 1 0)| = 0
++ |honda_(ite (select old(#valid) 0) 1 0)| = -3
++ |honda_(ite (select old(#valid) gcd_#in~y2.base) 1 0)| = -2
++ honda_gcd_~y1.offset = 0
++ |honda_gcd_#in~y1.offset| = 0
++ |honda_#NULL.offset| = 0
++ |honda_gcd_#in~y2.offset| = 0
++ honda_gcd_~y2.base = -2
++ |honda_gcd_#in~y2.base| = -2
++ honda_gcd_~y2.offset = 0
++ aux_746 = 1
++ |honda_#NULL.base| = 0
++ |honda_(ite (select #valid gcd_#in~y1.base) 1 0)| = 4
++ aux_748 = 4
++ aux_750 = -2
++ aux_752 = 1
++ aux_754 = -3
++ aux_756 = 3
++ aux_758 = 0
++ aux_760 = 2
++ aux_762 = -1
++ aux_764 = 1
++ aux_766 = -3
++ |ray_(select (select old(#memory_int) gcd_#in~y2.base) 0)| = 0
++ |ray_(ite (select old(#valid) gcd_#in~y1.base) 1 0)| = 0
++ ray_gcd_~y1.base = 0
++ |ray_(select old(#length) gcd_#in~y1.base)| = 0
++ ray_gcd_~y1.offset = 0
++ |ray_(select #length gcd_#in~y2.base)| = 0
++ |ray_(ite (select old(#valid) 0) 1 0)| = 0
++ |ray_(ite (select #valid gcd_#in~y1.base) 1 0)| = 0
++ |ray_(ite (select #valid 0) 1 0)| = 0
++ |ray_(select (select old(#memory_int) gcd_#in~y1.base) 0)| = 0
++ |ray_(select #length gcd_~y2.base)| = 0
++ |ray_gcd_#in~y1.base| = 0
++ |ray_gcd_#in~y2.base| = 0
++ |ray_(ite (select #valid gcd_~y2.base) 1 0)| = 0
++ |ray_(ite (select #valid gcd_#in~y2.base) 1 0)| = 0
++ |ray_(ite (select old(#valid) gcd_#in~y2.base) 1 0)| = 0
++ ray_gcd_~y2.offset = 0
++ ray_gcd_~y2.base = 0
++ |ray_(select #length gcd_#in~y1.base)| = 0
++ |ray_#NULL.offset| = 0
++ |ray_gcd_#in~y1.offset| = 0
++ |ray_gcd_#in~y2.offset| = 0
++ |ray_(select #length gcd_~y1.base)| = 0
++ |ray_(ite (select #valid gcd_~y1.base) 1 0)| = 0
++ |ray_(select (select #memory_int gcd_#in~y1.base) 0)| = 0
++ |ray_(select old(#length) gcd_#in~y2.base)| = 0
++ |ray_#NULL.base| = 0
++ |ray_(select (select #memory_int gcd_#in~y2.base) 0)| = 0
++ |ray_(select (select #memory_int gcd_~y2.base) gcd_~y2.offset)| = 0
++ |ray_(select (select #memory_int gcd_~y1.base) gcd_~y1.offset)| = 0
++ lambda = 0
+-
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/BradleyMannaSipma-2005CAV-Fig1-modified-alloca_unknown-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 902 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ |init_gcd_#t~mem9| = -3
++ |honda_gcd_#t~mem9| = -3
++ |init_gcd_#t~mem5| = -3
++ |honda_gcd_#t~mem5| = -3
++ |init_gcd_#t~mem8| = -3
++ |honda_gcd_#t~mem8| = -3
++ |init_gcd_#t~mem6| = -3
++ |honda_gcd_#t~mem6| = -3
++ |init_gcd_#t~mem7| = -3
++ |honda_gcd_#t~mem7| = -3
++ |init_gcd_#t~mem4| = -3
++ |honda_gcd_#t~mem4| = -3
++ honda_gcd_~y1_ref~2.offset = 0
++ honda_gcd_~y2_ref~2.offset = 0
++ |honda_gcd_#in~y2| = 0
++ |honda_(select #length gcd_~y2_ref~2.base)| = 4
++ honda_gcd_~y1 = 4
++ |honda_(select (select #memory_int gcd_~y1_ref~2.base) gcd_~y1_ref~2.offset)| = 4
++ honda_gcd_~y1_ref~2.base = 3
++ |honda_(ite (select #valid 0) 1 0)| = -1
++ |honda_(ite (select old(#valid) 0) 1 0)| = -2
++ |honda_(select #length gcd_~y1_ref~2.base)| = 4
++ |honda_(select (select #memory_int gcd_~y2_ref~2.base) gcd_~y2_ref~2.offset)| = 0
++ honda_gcd_~y2 = 0
++ |honda_#NULL.offset| = 0
++ |honda_gcd_#in~y1| = 4
++ |honda_(ite (select #valid gcd_~y1_ref~2.base) 1 0)| = 3
++ |honda_(ite (select old(#valid) gcd_~y2_ref~2.base) 1 0)| = -3
++ |honda_(ite (select old(#valid) gcd_~y1_ref~2.base) 1 0)| = 0
++ |honda_(ite (select #valid gcd_~y2_ref~2.base) 1 0)| = 1
++ honda_gcd_~y2_ref~2.base = 2
++ |honda_#NULL.base| = 0
++ |ray_gcd_#t~malloc1.base| = 0
++ ray_gcd_~y2_ref~2.base = 0
++ |ray_(ite (select #valid 0) 1 0)| = 0
++ |ray_(select #length gcd_~y1_ref~2.base)| = 0
++ |ray_(select (select old(#memory_int) gcd_~y1_ref~2.base) gcd_~y1_ref~2.offset)| = 0
++ ray_gcd_~y1 = 0
++ |ray_(ite (select old(#valid) 0) 1 0)| = 0
++ ray_gcd_~y2 = 0
++ |ray_gcd_#in~y2| = 0
++ |ray_(select (select old(#memory_int) gcd_~y2_ref~2.base) gcd_~y2_ref~2.offset)| = 0
++ |ray_(ite (select old(#valid) gcd_~y2_ref~2.base) 1 0)| = 0
++ |ray_(select #length gcd_~y2_ref~2.base)| = 0
++ |ray_(select old(#length) gcd_~y2_ref~2.base)| = 0
++ |ray_(ite (select old(#valid) gcd_~y1_ref~2.base) 1 0)| = 0
++ ray_gcd_~y2_ref~2.offset = 0
++ |ray_(select old(#length) gcd_~y1_ref~2.base)| = 0
++ |ray_gcd_#t~malloc0.base| = 0
++ |ray_gcd_#in~y1| = 0
++ |ray_#NULL.offset| = 0
++ |ray_gcd_#t~malloc1.offset| = 0
++ |ray_(ite (select #valid gcd_~y1_ref~2.base) 1 0)| = 0
++ |ray_gcd_#t~malloc0.offset| = 0
++ ray_gcd_~y1_ref~2.base = 0
++ |ray_(ite (select #valid gcd_~y2_ref~2.base) 1 0)| = 0
++ ray_gcd_~y1_ref~2.offset = 0
++ |ray_#NULL.base| = 0
++ |ray_(select (select #memory_int gcd_~y2_ref~2.base) gcd_~y2_ref~2.offset)| = 0
++ |ray_(select (select #memory_int gcd_~y1_ref~2.base) gcd_~y1_ref~2.offset)| = 0
++ lambda = 0
+-
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/BradleyMannaSipma-2005ICALP-Fig1-alloca_unknown-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 1037 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ |init_main_#t~mem34| = -3
++ |honda_main_#t~mem34| = -3
++ |init_(select (select #memory_int main_~x~17.base) main_~x~17.offset)| = 3
++ |honda_(select (select #memory_int main_~x~17.base) main_~x~17.offset)| = 3
++ |init_main_#t~mem36| = -3
++ |honda_main_#t~mem36| = -3
++ |init_main_#t~mem35| = -3
++ |honda_main_#t~mem35| = -3
++ |honda_(select #length main_~x~17.base)| = 4
++ |honda_#NULL.base| = 0
++ |honda_(ite (select #valid main_~d~17.base) 1 0)| = 3
++ |honda_(select (select #memory_int main_~d~17.base) main_~d~17.offset)| = 0
++ honda_main_~d~17.base = -2
++ honda_main_~x~17.base = -1
++ honda_main_~d~17.offset = 0
++ |honda_(ite (select #valid main_~x~17.base) 1 0)| = 1
++ |honda_#NULL.offset| = 0
++ honda_main_~x~17.offset = 0
++ |honda_(select #length main_~d~17.base)| = 4
++ |honda_(ite (select old(#valid) main_~d~17.base) 1 0)| = -2
++ |honda_(ite (select old(#valid) 0) 1 0)| = -3
++ |honda_(ite (select #valid 0) 1 0)| = 0
++ |honda_(ite (select old(#valid) main_~x~17.base) 1 0)| = -1
++ |ray_main_#t~nondet31| = 0
++ |ray_(select old(#length) main_~d~17.base)| = 0
++ |ray_main_#t~nondet29| = 0
++ |ray_(ite (select old(#valid) main_~d~17.base) 1 0)| = 0
++ ray_main_~d~17.base = 0
++ |ray_main_#t~malloc18.base| = 0
++ |ray_(select #length main_~x~17.base)| = 0
++ |ray_main_#t~nondet25| = 0
++ ray_main_~x~17.base = 0
++ |ray_(select old(#length) main_~x~17.base)| = 0
++ |ray_(ite (select old(#valid) 0) 1 0)| = 0
++ |ray_(ite (select #valid main_~d~17.base) 1 0)| = 0
++ ray_main_~d~17.offset = 0
++ |ray_main_#t~nondet20| = 0
++ ray_main_~x~17.offset = 0
++ |ray_(ite (select old(#valid) main_~x~17.base) 1 0)| = 0
++ |ray_main_#t~nondet23| = 0
++ |ray_main_#t~malloc17.offset| = 0
++ |ray_main_#t~malloc17.base| = 0
++ |ray_(select (select old(#memory_int) main_~d~17.base) main_~d~17.offset)| = 0
++ |ray_(select #length main_~d~17.base)| = 0
++ |ray_main_#t~mem32| = 0
++ |ray_#NULL.offset| = 0
++ |ray_(ite (select #valid main_~x~17.base) 1 0)| = 0
++ |ray_main_#t~malloc18.offset| = 0
++ |ray_(ite (select #valid 0) 1 0)| = 0
++ |ray_main_#t~nondet27| = 0
++ |ray_#NULL.base| = 0
++ |ray_(select (select #memory_int main_~d~17.base) main_~d~17.offset)| = 0
++ |ray_(select (select #memory_int main_~x~17.base) main_~x~17.offset)| = 0
++ lambda = 0
+-
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/HarrisLalNoriRajamani-2010SAS-Fig2-alloca_unknown-termination.c.i_Iteration2_Lasso+nonterminationTemplate.smt2 : 950 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ |init_main_#t~mem4| = -15
++ |honda_main_#t~mem4| = -15
++ |init_main_#t~mem3| = -15
++ |honda_main_#t~mem3| = -15
++ aux_1528 = 16
++ |honda_(select (select #memory_int main_~x~2.base) main_~x~2.offset)| = 0
++ honda_main_~x~2.offset = 0
++ |honda_(select #length main_~x~2.base)| = 4
++ |honda_#NULL.offset| = 0
++ honda_main_~x~2.base = 15
++ |honda_(ite (select #valid main_~x~2.base) 1 0)| = 1
++ |honda_(ite (select #valid 0) 1 0)| = 0
++ |honda_(ite (select old(#valid) 0) 1 0)| = -10
++ |honda_(ite (select old(#valid) main_~x~2.base) 1 0)| = -10
++ |honda_#NULL.base| = 0
++ aux_1530 = 0
++ |ray_(select #length main_~x~2.base)| = 0
++ |ray_(ite (select old(#valid) main_~x~2.base) 1 0)| = 0
++ |ray_main_#t~malloc0.base| = 0
++ |ray_(select old(#length) main_~x~2.base)| = 0
++ ray_main_~x~2.base = 0
++ |ray_main_#t~nondet1| = 0
++ |ray_(ite (select #valid 0) 1 0)| = 0
++ |ray_(ite (select #valid main_~x~2.base) 1 0)| = 0
++ |ray_(ite (select old(#valid) 0) 1 0)| = 0
++ |ray_#NULL.offset| = 0
++ |ray_(select (select old(#memory_int) main_~x~2.base) main_~x~2.offset)| = 0
++ |ray_main_#t~malloc0.offset| = 0
++ ray_main_~x~2.offset = 0
++ |ray_#NULL.base| = 0
++ |ray_(select (select #memory_int main_~x~2.base) main_~x~2.offset)| = 10
++ lambda = 2
+-
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/PodelskiRybalchenko-2004VMCAI-Ex2-alloca_false-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 815 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ |init_main_#t~mem1| = -3
++ |honda_main_#t~mem1| = -3
++ |init_main_#t~mem2| = -3
++ |honda_main_#t~mem2| = -3
++ |init_(select (select #memory_int main_~x~1.base) main_~x~1.offset)| = 4
++ |honda_(select (select #memory_int main_~x~1.base) main_~x~1.offset)| = 4
++ |honda_(ite (select #valid main_~x~1.base) 1 0)| = 4
++ |honda_#NULL.offset| = 0
++ |honda_(select #length main_~x~1.base)| = 4
++ honda_main_~x~1.base = 4
++ |honda_(ite (select #valid 0) 1 0)| = 0
++ |honda_(ite (select old(#valid) 0) 1 0)| = -2
++ honda_main_~x~1.offset = 0
++ |honda_(ite (select old(#valid) main_~x~1.base) 1 0)| = -2
++ |honda_#NULL.base| = 0
++ |ray_(ite (select old(#valid) main_~x~1.base) 1 0)| = 0
++ |ray_(ite (select old(#valid) 0) 1 0)| = 0
++ |ray_main_#t~malloc0.base| = 0
++ |ray_(select #length main_~x~1.base)| = 0
++ ray_main_~x~1.base = 0
++ |ray_#NULL.offset| = 0
++ |ray_main_#t~malloc0.offset| = 0
++ |ray_(ite (select #valid 0) 1 0)| = 0
++ |ray_(select (select #memory_int main_~x~1.base) main_~x~1.offset)| = 0
++ |ray_(ite (select #valid main_~x~1.base) 1 0)| = 0
++ |ray_(select old(#length) main_~x~1.base)| = 0
++ ray_main_~x~1.offset = 0
++ |ray_#NULL.base| = 0
++ lambda = 4
+-
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/Urban-2013WST-Fig1-alloca_false-termination.c.i_Iteration1_Lasso+nonterminationTemplate.smt2 : 725 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ |init_main_#t~mem2| = -7
++ |honda_main_#t~mem2| = -7
++ |init_(select (select #memory_int main_~x~1.base) main_~x~1.offset)| = -5
++ |honda_(select (select #memory_int main_~x~1.base) main_~x~1.offset)| = -5
++ |init_main_#t~mem1| = -7
++ |honda_main_#t~mem1| = -7
++ |init_(ite main_#t~short4 1 0)| = -7
++ |honda_(ite main_#t~short4 1 0)| = -7
++ |init_main_#t~mem5| = -7
++ |honda_main_#t~mem5| = -7
++ |init_main_#t~mem3| = -7
++ |honda_main_#t~mem3| = -7
++ |honda_(ite (select #valid main_~x~1.base) 1 0)| = 1
++ |honda_#NULL.base| = 0
++ |honda_(select #length main_~x~1.base)| = 4
++ |honda_#NULL.offset| = 0
++ |honda_(ite (select old(#valid) main_~x~1.base) 1 0)| = -4
++ honda_main_~x~1.offset = 0
++ honda_main_~x~1.base = -4
++ |honda_(ite (select old(#valid) 0) 1 0)| = -4
++ |honda_(ite (select #valid 0) 1 0)| = 0
++ |ray_(ite (select old(#valid) main_~x~1.base) 1 0)| = 0
++ |ray_(ite (select #valid 0) 1 0)| = 0
++ |ray_(select #length main_~x~1.base)| = 0
++ |ray_main_#t~malloc0.base| = 0
++ ray_main_~x~1.base = 0
++ |ray_#NULL.offset| = 0
++ |ray_(select old(#length) main_~x~1.base)| = 0
++ |ray_main_#t~malloc0.offset| = 0
++ |ray_(ite (select old(#valid) 0) 1 0)| = 0
++ |ray_(ite (select #valid main_~x~1.base) 1 0)| = 0
++ ray_main_~x~1.offset = 0
++ |ray_#NULL.base| = 0
++ |ray_(select (select #memory_int main_~x~1.base) main_~x~1.offset)| = 0
++ lambda = 3
+-
+SAT_Split_100/149/QF_NIA_SAT/UltimateLassoRanker/Velroyen-alloca_false-termination.c.i_Iteration2_Lasso+nonterminationTemplate.smt2 : 731 ms.
