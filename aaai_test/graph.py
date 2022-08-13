@@ -21,22 +21,22 @@ time_z3b= []
 
 
 # 生成数据
-# instances_aprove, time_aprove = get_data('./1200_aprove/', 'SAT_Split_100')
-# instances_cvc5, time_cvc5 = get_data('./1200_cvc5/', 'SAT_Split_100')
-instances_ours, time_ours = get_data('./ours/', 'SAT_Split_100')
+instances_aprove, time_aprove = get_data('./aprove/', 'SAT_Split_100')
+instances_cvc5, time_cvc5 = get_data('./cvc5/', 'SAT_Split_100')
+instances_ours, time_ours = get_data('./HHH/', 'SAT_Split_100')
 instances_yices, time_yices = get_data('./yices2/', 'SAT_Split_100')
 instances_z3, time_z3 = get_data('./z3/', 'SAT_Split_100')
-# instances_cvc5b, time_cvc5b = get_data('./1200_cvc5(b)/', 'SAT_Split_100')
+instances_cvc5b, time_cvc5b = get_data('./mathsat/', 'SAT_Split_100')
 instances_z3b, time_z3b = get_data('./z3(b)/', 'SAT_Split_100')
 
 # 生成图形
 plt.plot(instances_aprove, time_aprove, label='APROVE')
 plt.plot(instances_cvc5, time_cvc5, label='CVC5')
-plt.plot(instances_cvc5b, time_cvc5b, label='CVC5(B)')
+plt.plot(instances_cvc5b, time_cvc5b, label='MATHSAT')
 plt.plot(instances_yices, time_yices, label='YICES2')
 plt.plot(instances_z3, time_z3, 'blue', label='Z3')
 plt.plot(instances_z3b, time_z3b, label='Z3(B)')
-plt.plot(instances_ours, time_ours, 'r', label='OURS')
+plt.plot(instances_ours, time_ours, 'r', label='HHH')
 
 
 # 显示图形

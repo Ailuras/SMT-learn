@@ -9,7 +9,10 @@ def get_data(dir, label):
 
     tmp_data = set()
 
-    file_list = os.listdir(dir)
+    if os.path.isfile(dir):
+        file_list = [dir]
+    else:
+        file_list = os.listdir(dir)
     stats = []
     for file in file_list:
         tmp_data.clear()

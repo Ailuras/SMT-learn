@@ -1,0 +1,740 @@
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -26
++ y = -32
++ z = 37
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0309.smt2 : 12795 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0312.smt2 : 1200005 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -36
++ y = 41
++ z = -28
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0313.smt2 : 9622 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 5
++ y = 5
++ z = 4
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0314.smt2 : 632 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -3
++ y = -1
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0315.smt2 : 719 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 0
++ y = 7
++ z = -3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0316.smt2 : 668 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 1
++ y = 7
++ z = -3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0317.smt2 : 653 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0318.smt2 : 1200007 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0321.smt2 : 1200008 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 9
++ y = -7
++ z = -4
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0322.smt2 : 845 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -5
++ y = -4
++ z = 8
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0323.smt2 : 755 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 2
++ y = 7
++ z = -3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0324.smt2 : 671 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 65
++ y = -59
++ z = -41
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0325.smt2 : 16845 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -23
++ y = 24
++ z = -11
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0326.smt2 : 1499 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -2
++ y = -2
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0327.smt2 : 630 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -10
++ y = 11
++ z = -1
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0330.smt2 : 799 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -13
++ y = 14
++ z = -6
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0331.smt2 : 858 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 11
++ y = 9
++ z = -12
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0332.smt2 : 738 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 6
++ y = 5
++ z = -2
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0333.smt2 : 703 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -2
++ y = -1
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0334.smt2 : 662 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -2
++ y = 7
++ z = 0
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0335.smt2 : 703 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 7
++ y = -2
++ z = 1
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0336.smt2 : 617 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 11
++ y = -10
++ z = 2
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0339.smt2 : 856 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 6
++ y = 5
++ z = -1
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0340.smt2 : 661 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 6
++ y = 0
++ z = 5
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0341.smt2 : 619 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 1
++ y = 6
++ z = 5
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0342.smt2 : 695 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -7
++ y = 7
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0343.smt2 : 706 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 7
++ y = 0
++ z = 1
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0344.smt2 : 681 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 1
++ y = 7
++ z = 1
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0345.smt2 : 698 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0348.smt2 : 1200006 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 6
++ y = 2
++ z = 5
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0349.smt2 : 628 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 2
++ y = 7
++ z = -1
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0350.smt2 : 728 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 7
++ y = 2
++ z = 0
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0351.smt2 : 656 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 2
++ y = 1
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0352.smt2 : 718 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -479
++ y = -243
++ z = 499
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0353.smt2 : 716382 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -11
++ y = 13
++ z = -8
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0354.smt2 : 845 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0357.smt2 : 1200006 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 3
++ y = 11
++ z = -10
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0358.smt2 : 843 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 7
++ y = 2
++ z = 2
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0359.smt2 : 695 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -3
++ y = -5
++ z = 8
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0360.smt2 : 673 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 96
++ y = -30
++ z = -95
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0361.smt2 : 18645 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -2
++ y = 7
++ z = 3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0362.smt2 : 794 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -5
++ y = 10
++ z = -8
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0363.smt2 : 834 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0366.smt2 : 1200009 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0367.smt2 : 1200010 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 5
++ y = 6
++ z = 3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0368.smt2 : 702 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -1
++ y = 7
++ z = 3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0369.smt2 : 689 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 3
++ y = 0
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0370.smt2 : 830 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 3
++ y = 1
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0371.smt2 : 636 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 19
++ y = 46
++ z = -47
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0372.smt2 : 3897 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 5
++ y = 5
++ z = 5
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0375.smt2 : 668 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 14
++ y = 12
++ z = -16
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0376.smt2 : 3113 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -15
++ y = -24
++ z = 26
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0377.smt2 : 1548 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 2
++ y = 7
++ z = 3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0378.smt2 : 696 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -5
++ y = -2
++ z = 8
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0379.smt2 : 731 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -3
++ y = 4
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0380.smt2 : 611 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -59
++ y = 22
++ z = 58
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0381.smt2 : 8083 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 8
++ y = -4
++ z = -4
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0384.smt2 : 737 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -7
++ y = 8
++ z = 6
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0385.smt2 : 719 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -1
++ y = 8
++ z = -5
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0386.smt2 : 660 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 0
++ y = -5
++ z = 8
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0387.smt2 : 721 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -5
++ y = 1
++ z = 8
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0388.smt2 : 739 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -2
++ y = 12
++ z = -11
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0389.smt2 : 847 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -97
++ y = 77
++ z = 77
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0393.smt2 : 21743 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 2
++ y = 9
++ z = -7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0394.smt2 : 776 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -5
++ y = 8
++ z = 2
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0395.smt2 : 709 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 10
++ y = 5
++ z = -9
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0396.smt2 : 787 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 3
++ y = 3
++ z = 7
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0397.smt2 : 685 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -11
++ y = 10
++ z = 9
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0398.smt2 : 770 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 4
++ y = 7
++ z = -2
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0399.smt2 : 683 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0402.smt2 : 1200012 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 164
++ y = -85
++ z = -156
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0403.smt2 : 339724 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 7
++ y = 5
++ z = -4
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0404.smt2 : 791 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 4
++ y = 6
++ z = 5
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0405.smt2 : 673 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 4
++ y = 7
++ z = -1
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0406.smt2 : 695 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 4
++ y = 7
++ z = 0
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0407.smt2 : 628 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 7
++ y = 1
++ z = 4
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0408.smt2 : 612 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -46
++ y = 38
++ z = 35
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0411.smt2 : 6991 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 17
++ y = 11
++ z = -18
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0412.smt2 : 1163 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -7
++ y = 9
++ z = 3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0413.smt2 : 771 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 8
++ y = -5
++ z = 3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0414.smt2 : 724 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 7
++ y = 2
++ z = 4
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0415.smt2 : 638 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -390
++ y = -383
++ z = 487
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0416.smt2 : 1065768 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 145
++ y = -506
++ z = 502
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0417.smt2 : 656648 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0420.smt2 : 1200008 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 8
++ y = -4
++ z = -3
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0421.smt2 : 784 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -5
++ y = 14
++ z = -13
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0422.smt2 : 840 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 23
++ y = 18
++ z = -26
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0423.smt2 : 1336 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -2
++ y = 6
++ z = 6
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0424.smt2 : 795 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -14
++ y = -32
++ z = 33
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0425.smt2 : 4165 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -95
++ y = 97
++ z = -38
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0426.smt2 : 12382 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0429.smt2 : 1200008 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 18
++ y = 29
++ z = -31
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0430.smt2 : 1063 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = -1
++ y = 6
++ z = 6
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0431.smt2 : 641 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 6
++ y = 6
++ z = 0
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0432.smt2 : 729 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 1
++ y = 6
++ z = 6
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0433.smt2 : 652 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 7
++ y = -5
++ z = 6
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0434.smt2 : 678 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0435.smt2 : 1200006 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ x = 131
++ y = -130
++ z = -37
+-
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0438.smt2 : 69484 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/125/QF_NIA_SAT/20220315-MathProblems/STC_0439.smt2 : 1200010 ms.

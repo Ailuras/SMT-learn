@@ -8,7 +8,12 @@ def get_real_data(dir, label):
 
     tmp_data = set()
 
-    file_list = os.listdir(dir)
+    if os.path.isfile(dir):
+        file = dir.split('/')[-1]
+        file_list = [file]
+        dir = './' + dir.split('/')[1] + '/'
+    else:
+        file_list = os.listdir(dir)
     stats = []
     for file in file_list:
         tmp_data.clear()

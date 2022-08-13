@@ -1,34 +1,42 @@
 import pandas as pd
 import os
-import os
 import shutil
-from tqdm import tqdm
-import matplotlib.pyplot as plt
+import sys
 
-
-def classify(path=''):
-    target_path = path + '_after'
+def classify(path='', time='none'):
+    if time == 'none':
+        time = 10000000
+        target_path = path + '_classify'
+    else:
+        target_path = path + '_classify_' + time
+        time = int(time)*1000
     if not os.path.exists(target_path):
         os.makedirs(target_path)
-    if os.path.exists(target_path):
+    elif os.path.exists(target_path):
         shutil.rmtree(target_path)
+        return
+        os.makedirs(target_path)
     # shutil.copytree(path, target_path)
-    os.makedirs(target_path + '/new')
-    file = open(target_path + '/new/AProVE.log','w')
+    # os.makedirs(target_path + '')
+    file = open(target_path + '/AProVE.log','w')
     file.close()
-    file = open(target_path + '/new/calypto.log','w')
+    file = open(target_path + '/calypto.log','w')
     file.close()
-    file = open(target_path + '/new/Dartagnan.log','w')
+    file = open(target_path + '/Dartagnan.log','w')
     file.close() 
-    file = open(target_path + '/new/LassoRanker.log','w')
+    file = open(target_path + '/LassoRanker.log','w')
     file.close() 
-    file = open(target_path + '/new/leipzig.log','w')
+    file = open(target_path + '/leipzig.log','w')
     file.close() 
-    file = open(target_path + '/new/mcm.log','w')
+    file = open(target_path + '/mcm.log','w')
     file.close() 
-    file = open(target_path + '/new/CInteger_ITS_SAT14.log','w')
+    file = open(target_path + '/CInteger.log','w')
+    file.close()
+    file = open(target_path + '/ITS.log','w')
     file.close() 
-    file = open(target_path + '/new/MathProblems.log','w')
+    file = open(target_path + '/SAT14.log','w')
+    file.close() 
+    file = open(target_path + '/MathProblems.log','w')
     file.close() 
 
     # os.makedirs(target_path + '/aprove')
@@ -52,38 +60,63 @@ def classify(path=''):
                         info.append(line)
                     else:
                         info.append(line)
-                        if "AProVE" in line:
-                            with open(target_path + '/new/AProVE.log',"a") as f:
+                        run_time = int(line.split(' : ')[1][:-4])
+                        if "AProVE" in line and run_time <= time:
+                            with open(target_path + '/AProVE.log',"a") as f:
                                 for i in info:
                                     f.write(i)
-                        elif "calypto" in line:
-                            with open(target_path + '/new/calypto.log',"a") as f:
+                        elif "calypto" in line and run_time <= time:
+                            with open(target_path + '/calypto.log',"a") as f:
                                 for i in info:
                                     f.write(i)
-                        elif "Dartagnan" in line:
-                            with open(target_path + '/new/Dartagnan.log',"a") as f:
+                        elif "Dartagnan" in line and run_time <= time:
+                            with open(target_path + '/Dartagnan.log',"a") as f:
                                 for i in info:
                                     f.write(i)
-                        elif "LassoRanker" in line:
-                            with open(target_path + '/new/LassoRanker.log',"a") as f:
+                        elif "LassoRanker" in line and run_time <= time:
+                            with open(target_path + '/LassoRanker.log',"a") as f:
                                 for i in info:
                                     f.write(i)
-                        elif "leipzig" in line:
-                            with open(target_path + '/new/leipzig.log',"a") as f:
+                        elif "leipzig" in line and run_time <= time:
+                            with open(target_path + '/leipzig.log',"a") as f:
                                 for i in info:
                                     f.write(i)
-                        elif "mcm" in line:
-                            with open(target_path + '/new/mcm.log',"a") as f:
+                        elif "mcm" in line and run_time <= time:
+                            with open(target_path + '/mcm.log',"a") as f:
                                 for i in info:
                                     f.write(i)
-                        elif "CInteger" in line or "ITS" in line or "SAT14" in line:
-                            with open(target_path + '/new/CInteger_ITS_SAT14.log',"a") as f:
+                        elif "CInteger" in line and run_time <= time:
+                            with open(target_path + '/CInteger.log',"a") as f:
                                 for i in info:
                                     f.write(i)
-                        elif "MathProblems" in line:
-                            with open(target_path + '/new/MathProblems.log',"a") as f:
+                        elif "ITS" in line and run_time <= time:
+                            with open(target_path + '/ITS.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "SAT14" in line and run_time <= time:
+                            with open(target_path + '/SAT14.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "MathProblems" in line and run_time <= time:
+                            with open(target_path + '/MathProblems.log',"a") as f:
                                 for i in info:
                                     f.write(i)
                         info.clear()
 
+
+classify('hhh')
 classify('z3')
+classify('z3(b)')
+classify('cvc5')
+classify('aprove')
+classify('yices2')
+classify('mathsat')
+
+# a = '30'
+# classify('hhh', a)
+# classify('z3', a)
+# classify('z3(b)', a)
+# classify('cvc5', a)
+# classify('aprove', a)
+# classify('yices2', a)
+# classify('mathsat', a)
