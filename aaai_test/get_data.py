@@ -10,7 +10,9 @@ def get_data(dir, label):
     tmp_data = set()
 
     if os.path.isfile(dir):
-        file_list = [dir]
+        file = dir.split('/')[-1]
+        file_list = [file]
+        dir = './' + dir.split('/')[1] + '/'
     else:
         file_list = os.listdir(dir)
     stats = []

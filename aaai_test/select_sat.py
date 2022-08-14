@@ -53,7 +53,7 @@ def select(path='hhh'):
         os.makedirs(target_path)
     elif os.path.exists(target_path):
         shutil.rmtree(target_path)
-        return
+        # return
         os.makedirs(target_path)
     file = open(target_path + '/sat.log','w')
     file.close()

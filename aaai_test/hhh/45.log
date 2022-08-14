@@ -5,13 +5,13 @@ Number of variables: 108001
 Number of clauses: 605468
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8434_safety_0.smt2 : 9665 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8434_safety_0.smt2 : 11969 ms.
 --------------------------------------------------
 Number of variables: 254849
 Number of clauses: 1554897
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8435_safety_0.smt2 : 182615 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8435_safety_0.smt2 : 740976 ms.
 --------------------------------------------------
 Number of variables: 166937
 Number of clauses: 932652
@@ -19,13 +19,13 @@ Number of variables: 229081
 Number of clauses: 1256427
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8436_safety_0.smt2 : 22398 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8436_safety_0.smt2 : 20164 ms.
 --------------------------------------------------
 Number of variables: 400940
 Number of clauses: 2404244
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8437_safety_0.smt2 : 285687 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8437_safety_0.smt2 : 877423 ms.
 --------------------------------------------------
 Number of variables: 275572
 Number of clauses: 1521966
@@ -33,55 +33,55 @@ Number of variables: 387533
 Number of clauses: 2101243
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8438_safety_0.smt2 : 33747 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8438_safety_0.smt2 : 90817 ms.
 --------------------------------------------------
 Number of variables: 49456
 Number of clauses: 246999
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8442_safety_0.smt2 : 3791 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8442_safety_0.smt2 : 4304 ms.
 --------------------------------------------------
 Number of variables: 53471
 Number of clauses: 265900
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8443_safety_0.smt2 : 4922 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8443_safety_0.smt2 : 5642 ms.
 --------------------------------------------------
 Number of variables: 47630
 Number of clauses: 234662
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8445_safety_0.smt2 : 684 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8445_safety_0.smt2 : 4014 ms.
 --------------------------------------------------
 Number of variables: 51430
 Number of clauses: 251946
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8446_safety_0.smt2 : 5497 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8446_safety_0.smt2 : 4561 ms.
 --------------------------------------------------
 Number of variables: 76590
 Number of clauses: 419450
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8452_safety_0.smt2 : 21153 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8452_safety_0.smt2 : 20366 ms.
 --------------------------------------------------
 Number of variables: 67484
 Number of clauses: 364661
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8454_safety_0.smt2 : 6745 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8454_safety_0.smt2 : 6965 ms.
 --------------------------------------------------
 Number of variables: 73928
 Number of clauses: 401178
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8456_safety_0.smt2 : 6344 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8456_safety_0.smt2 : 6036 ms.
 --------------------------------------------------
 Number of variables: 56762
 Number of clauses: 285901
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8458_safety_0.smt2 : 129356 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8458_safety_0.smt2 : 40924 ms.
 --------------------------------------------------
 Number of variables: 136944
 Number of clauses: 862917
@@ -89,73 +89,72 @@ Number of variables: 166400
 Number of clauses: 1028310
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8459_safety_0.smt2 : 157407 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8459_safety_0.smt2 : 148801 ms.
 --------------------------------------------------
 Number of variables: 260211
 Number of clauses: 1593588
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8460_safety_0.smt2 : 679218 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8460_safety_0.smt2 : 656621 ms.
 --------------------------------------------------
 Number of variables: 408656
 Number of clauses: 2460032
-sat
-check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8461_safety_0.smt2 : 35160 ms.
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8461_safety_0.smt2 : 1200047 ms.
 --------------------------------------------------
 Number of variables: 119078
 Number of clauses: 739842
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8462_safety_0.smt2 : 10363 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8462_safety_0.smt2 : 10003 ms.
 --------------------------------------------------
 Number of variables: 49995
 Number of clauses: 249547
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8464_safety_0.smt2 : 15749 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8464_safety_0.smt2 : 3254 ms.
 --------------------------------------------------
 Number of variables: 225220
 Number of clauses: 1359427
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8465_safety_0.smt2 : 3082 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8465_safety_0.smt2 : 19719 ms.
 --------------------------------------------------
 Number of variables: 354512
 Number of clauses: 2103665
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8466_safety_0.smt2 : 28062 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8466_safety_0.smt2 : 28556 ms.
 --------------------------------------------------
 Number of variables: 54568
 Number of clauses: 270712
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8467_safety_0.smt2 : 36164 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8467_safety_0.smt2 : 15662 ms.
 --------------------------------------------------
 Number of variables: 50863
 Number of clauses: 255253
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8469_safety_0.smt2 : 4355 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8469_safety_0.smt2 : 4395 ms.
 --------------------------------------------------
 Number of variables: 55613
 Number of clauses: 277603
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8470_safety_0.smt2 : 14315 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8470_safety_0.smt2 : 16635 ms.
 --------------------------------------------------
 Number of variables: 75639
 Number of clauses: 420543
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8472_safety_0.smt2 : 22669 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8472_safety_0.smt2 : 19471 ms.
 --------------------------------------------------
 Number of variables: 85053
 Number of clauses: 475777
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8473_safety_0.smt2 : 67094 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8473_safety_0.smt2 : 22664 ms.
 --------------------------------------------------
 Number of variables: 52764
 Number of clauses: 268304
@@ -167,37 +166,37 @@ Number of variables: 57785
 Number of clauses: 292733
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8476_safety_0.smt2 : 16721 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8476_safety_0.smt2 : 44562 ms.
 --------------------------------------------------
 Number of variables: 41932
 Number of clauses: 247336
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8477_safety_0.smt2 : 849 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8477_safety_0.smt2 : 801 ms.
 --------------------------------------------------
 Number of variables: 78172
 Number of clauses: 438061
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8478_safety_0.smt2 : 20779 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8478_safety_0.smt2 : 7891 ms.
 --------------------------------------------------
 Number of variables: 88103
 Number of clauses: 496966
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8479_safety_0.smt2 : 57720 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8479_safety_0.smt2 : 53658 ms.
 --------------------------------------------------
 Number of variables: 76836
 Number of clauses: 428851
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8481_safety_0.smt2 : 8827 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8481_safety_0.smt2 : 20247 ms.
 --------------------------------------------------
 Number of variables: 86572
 Number of clauses: 486410
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8482_safety_0.smt2 : 27864 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8482_safety_0.smt2 : 21640 ms.
 --------------------------------------------------
 Number of variables: 73314
 Number of clauses: 420694
@@ -205,7 +204,7 @@ Number of variables: 97458
 Number of clauses: 550442
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8483_safety_0.smt2 : 10956 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8483_safety_0.smt2 : 13208 ms.
 --------------------------------------------------
 Number of variables: 157342
 Number of clauses: 871035
@@ -213,25 +212,25 @@ Number of variables: 219894
 Number of clauses: 1198186
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8484_safety_0.smt2 : 45208 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8484_safety_0.smt2 : 46525 ms.
 --------------------------------------------------
 Number of variables: 42154
 Number of clauses: 248744
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8485_safety_0.smt2 : 5603 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8485_safety_0.smt2 : 4284 ms.
 --------------------------------------------------
 Number of variables: 78546
 Number of clauses: 440521
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8486_safety_0.smt2 : 8763 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8486_safety_0.smt2 : 8505 ms.
 --------------------------------------------------
 Number of variables: 88591
 Number of clauses: 500244
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8487_safety_0.smt2 : 21147 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8487_safety_0.smt2 : 16249 ms.
 --------------------------------------------------
 Number of variables: 264732
 Number of clauses: 1445644
@@ -239,7 +238,7 @@ Number of variables: 377812
 Number of clauses: 2032182
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8488_safety_0.smt2 : 39787 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8488_safety_0.smt2 : 35892 ms.
 --------------------------------------------------
 Number of variables: 124882
 Number of clauses: 781503
@@ -247,19 +246,19 @@ Number of variables: 152396
 Number of clauses: 936719
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8489_safety_0.smt2 : 71047 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8489_safety_0.smt2 : 72075 ms.
 --------------------------------------------------
 Number of variables: 237321
 Number of clauses: 1442546
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8490_safety_0.smt2 : 65747 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8490_safety_0.smt2 : 139806 ms.
 --------------------------------------------------
 Number of variables: 373080
 Number of clauses: 2229482
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8491_safety_0.smt2 : 243993 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8491_safety_0.smt2 : 92013 ms.
 --------------------------------------------------
 Number of variables: 128280
 Number of clauses: 805277
@@ -267,61 +266,61 @@ Number of variables: 156224
 Number of clauses: 963516
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8494_safety_0.smt2 : 116226 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8494_safety_0.smt2 : 109464 ms.
 --------------------------------------------------
 Number of variables: 243117
 Number of clauses: 1483251
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8495_safety_0.smt2 : 27208 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8495_safety_0.smt2 : 22126 ms.
 --------------------------------------------------
 Number of variables: 381354
 Number of clauses: 2287718
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8496_safety_0.smt2 : 240896 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8496_safety_0.smt2 : 686917 ms.
 --------------------------------------------------
 Number of variables: 43097
 Number of clauses: 217757
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8500_safety_0.smt2 : 3953 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8500_safety_0.smt2 : 9313 ms.
 --------------------------------------------------
 Number of variables: 70508
 Number of clauses: 352283
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8504_safety_0.smt2 : 9731 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8504_safety_0.smt2 : 6481 ms.
 --------------------------------------------------
 Number of variables: 75764
 Number of clauses: 385036
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8507_safety_0.smt2 : 7027 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8507_safety_0.smt2 : 6688 ms.
 --------------------------------------------------
 Number of variables: 77456
 Number of clauses: 396305
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8510_safety_0.smt2 : 19441 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8510_safety_0.smt2 : 17727 ms.
 --------------------------------------------------
 Number of variables: 77900
 Number of clauses: 399219
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8513_safety_0.smt2 : 18045 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8513_safety_0.smt2 : 16686 ms.
 --------------------------------------------------
 Number of variables: 44983
 Number of clauses: 229373
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8515_safety_0.smt2 : 25205 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8515_safety_0.smt2 : 4126 ms.
 --------------------------------------------------
 Number of variables: 76214
 Number of clauses: 387995
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8516_safety_0.smt2 : 18662 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8516_safety_0.smt2 : 20394 ms.
 --------------------------------------------------
 Number of variables: 89929
 Number of clauses: 524531
@@ -329,7 +328,7 @@ Number of variables: 116678
 Number of clauses: 668661
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8517_safety_0.smt2 : 30695 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8517_safety_0.smt2 : 12345 ms.
 --------------------------------------------------
 Number of variables: 184750
 Number of clauses: 1052802
@@ -337,7 +336,7 @@ Number of variables: 250250
 Number of clauses: 1398576
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8518_safety_0.smt2 : 161524 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8518_safety_0.smt2 : 155437 ms.
 --------------------------------------------------
 Number of variables: 304055
 Number of clauses: 1709756
@@ -345,91 +344,91 @@ Number of variables: 421314
 Number of clauses: 2323248
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8519_safety_0.smt2 : 256505 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8519_safety_0.smt2 : 236990 ms.
 --------------------------------------------------
 Number of variables: 39352
 Number of clauses: 226618
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8523_safety_0.smt2 : 627 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8523_safety_0.smt2 : 615 ms.
 --------------------------------------------------
 Number of variables: 75270
 Number of clauses: 410360
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8528_safety_0.smt2 : 15818 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8528_safety_0.smt2 : 16518 ms.
 --------------------------------------------------
 Number of variables: 121992
 Number of clauses: 760160
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8529_safety_0.smt2 : 8911 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8529_safety_0.smt2 : 12348 ms.
 --------------------------------------------------
 Number of variables: 229939
 Number of clauses: 1392535
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8530_safety_0.smt2 : 19296 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8530_safety_0.smt2 : 5475 ms.
 --------------------------------------------------
 Number of variables: 361126
 Number of clauses: 2150203
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8531_safety_0.smt2 : 31000 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8531_safety_0.smt2 : 82896 ms.
 --------------------------------------------------
 Number of variables: 39837
 Number of clauses: 234915
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8532_safety_0.smt2 : 3680 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8532_safety_0.smt2 : 3681 ms.
 --------------------------------------------------
 Number of variables: 76326
 Number of clauses: 425123
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8533_safety_0.smt2 : 16857 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8533_safety_0.smt2 : 7321 ms.
 --------------------------------------------------
 Number of variables: 79513
 Number of clauses: 447241
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8535_safety_0.smt2 : 17174 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8535_safety_0.smt2 : 20257 ms.
 --------------------------------------------------
 Number of variables: 85847
 Number of clauses: 481222
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8536_safety_0.smt2 : 83057 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8536_safety_0.smt2 : 17964 ms.
 --------------------------------------------------
 Number of variables: 89733
 Number of clauses: 508342
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8537_safety_0.smt2 : 61113 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8537_safety_0.smt2 : 52922 ms.
 --------------------------------------------------
 Number of variables: 89829
 Number of clauses: 508835
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8540_safety_0.smt2 : 62991 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8540_safety_0.smt2 : 74057 ms.
 --------------------------------------------------
 Number of variables: 40071
 Number of clauses: 236426
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8541_safety_0.smt2 : 1328 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8541_safety_0.smt2 : 1064 ms.
 --------------------------------------------------
 Number of variables: 76722
 Number of clauses: 427769
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8542_safety_0.smt2 : 7516 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8542_safety_0.smt2 : 30403 ms.
 --------------------------------------------------
 Number of variables: 86358
 Number of clauses: 484705
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8543_safety_0.smt2 : 53418 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8543_safety_0.smt2 : 48351 ms.
 --------------------------------------------------
 Number of variables: 128022
 Number of clauses: 803282
@@ -437,19 +436,19 @@ Number of variables: 155903
 Number of clauses: 961011
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8544_safety_0.smt2 : 144716 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8544_safety_0.smt2 : 134241 ms.
 --------------------------------------------------
 Number of variables: 242434
 Number of clauses: 1478155
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8545_safety_0.smt2 : 659194 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8545_safety_0.smt2 : 159435 ms.
 --------------------------------------------------
 Number of variables: 380206
 Number of clauses: 2279221
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8546_safety_0.smt2 : 794867 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8546_safety_0.smt2 : 216336 ms.
 --------------------------------------------------
 Number of variables: 131617
 Number of clauses: 828261
@@ -457,19 +456,19 @@ Number of variables: 159939
 Number of clauses: 989098
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8547_safety_0.smt2 : 74520 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8547_safety_0.smt2 : 73184 ms.
 --------------------------------------------------
 Number of variables: 248612
 Number of clauses: 1521267
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8548_safety_0.smt2 : 51090 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8548_safety_0.smt2 : 51592 ms.
 --------------------------------------------------
 Number of variables: 389087
 Number of clauses: 2341366
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8549_safety_0.smt2 : 28848 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8549_safety_0.smt2 : 78710 ms.
 --------------------------------------------------
 Number of variables: 92992
 Number of clauses: 545620
@@ -477,7 +476,7 @@ Number of variables: 120203
 Number of clauses: 692930
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8550_safety_0.smt2 : 13345 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8550_safety_0.smt2 : 32236 ms.
 --------------------------------------------------
 Number of variables: 190033
 Number of clauses: 1089453
@@ -485,7 +484,7 @@ Number of variables: 256279
 Number of clauses: 1440417
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8551_safety_0.smt2 : 31454 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8551_safety_0.smt2 : 62007 ms.
 --------------------------------------------------
 Number of variables: 311638
 Number of clauses: 1762569
@@ -493,103 +492,103 @@ Number of variables: 429927
 Number of clauses: 2383261
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8552_safety_0.smt2 : 264502 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8552_safety_0.smt2 : 36199 ms.
 --------------------------------------------------
 Number of variables: 79262
 Number of clauses: 437935
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8560_safety_0.smt2 : 9555 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8560_safety_0.smt2 : 29336 ms.
 --------------------------------------------------
 Number of variables: 76528
 Number of clauses: 419123
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8561_safety_0.smt2 : 20720 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8561_safety_0.smt2 : 16174 ms.
 --------------------------------------------------
 Number of variables: 124780
 Number of clauses: 779806
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8562_safety_0.smt2 : 9758 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8562_safety_0.smt2 : 10099 ms.
 --------------------------------------------------
 Number of variables: 234457
 Number of clauses: 1424521
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8563_safety_0.smt2 : 50959 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8563_safety_0.smt2 : 19912 ms.
 --------------------------------------------------
 Number of variables: 367454
 Number of clauses: 2195129
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8564_safety_0.smt2 : 84340 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8564_safety_0.smt2 : 30148 ms.
 --------------------------------------------------
 Number of variables: 43360
 Number of clauses: 256965
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8565_safety_0.smt2 : 4843 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8565_safety_0.smt2 : 3731 ms.
 --------------------------------------------------
 Number of variables: 80123
 Number of clauses: 451483
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8566_safety_0.smt2 : 15883 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8566_safety_0.smt2 : 13155 ms.
 --------------------------------------------------
 Number of variables: 90464
 Number of clauses: 513524
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8567_safety_0.smt2 : 24700 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8567_safety_0.smt2 : 63661 ms.
 --------------------------------------------------
 Number of variables: 78561
 Number of clauses: 440577
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8569_safety_0.smt2 : 21252 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8569_safety_0.smt2 : 15484 ms.
 --------------------------------------------------
 Number of variables: 88582
 Number of clauses: 500231
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8570_safety_0.smt2 : 62162 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8570_safety_0.smt2 : 22672 ms.
 --------------------------------------------------
 Number of variables: 44140
 Number of clauses: 262338
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8573_safety_0.smt2 : 4539 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8573_safety_0.smt2 : 3472 ms.
 --------------------------------------------------
 Number of variables: 81392
 Number of clauses: 460336
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8574_safety_0.smt2 : 21069 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8574_safety_0.smt2 : 15896 ms.
 --------------------------------------------------
 Number of variables: 92095
 Number of clauses: 525003
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8575_safety_0.smt2 : 294028 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8575_safety_0.smt2 : 199873 ms.
 --------------------------------------------------
 Number of variables: 41585
 Number of clauses: 246816
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8576_safety_0.smt2 : 4343 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8576_safety_0.smt2 : 4253 ms.
 --------------------------------------------------
 Number of variables: 78957
 Number of clauses: 443223
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8577_safety_0.smt2 : 20763 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8577_safety_0.smt2 : 17828 ms.
 --------------------------------------------------
 Number of variables: 89093
 Number of clauses: 503714
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8578_safety_0.smt2 : 19566 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8578_safety_0.smt2 : 200557 ms.
 --------------------------------------------------
 Number of variables: 130372
 Number of clauses: 820270
@@ -597,19 +596,19 @@ Number of variables: 158227
 Number of clauses: 977619
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8579_safety_0.smt2 : 92842 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8579_safety_0.smt2 : 121544 ms.
 --------------------------------------------------
 Number of variables: 246227
 Number of clauses: 1505728
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8580_safety_0.smt2 : 585487 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8580_safety_0.smt2 : 570795 ms.
 --------------------------------------------------
 Number of variables: 385482
 Number of clauses: 2317679
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8581_safety_0.smt2 : 884828 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8581_safety_0.smt2 : 784316 ms.
 --------------------------------------------------
 Number of variables: 133650
 Number of clauses: 843015
@@ -617,19 +616,19 @@ Number of variables: 161937
 Number of clauses: 1003403
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8582_safety_0.smt2 : 184896 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8582_safety_0.smt2 : 82221 ms.
 --------------------------------------------------
 Number of variables: 251825
 Number of clauses: 1544731
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8583_safety_0.smt2 : 677756 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8583_safety_0.smt2 : 186760 ms.
 --------------------------------------------------
 Number of variables: 393480
 Number of clauses: 2373540
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8584_safety_0.smt2 : 42974 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8584_safety_0.smt2 : 294262 ms.
 --------------------------------------------------
 Number of variables: 129621
 Number of clauses: 649053
@@ -637,4 +636,4 @@ Number of variables: 188370
 Number of clauses: 941850
 sat
 check sat
-SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8589_terminationG_0.smt2 : 17890 ms.
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8589_terminationG_0.smt2 : 15971 ms.

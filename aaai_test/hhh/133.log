@@ -3,7 +3,7 @@ Number of variables: 1189
 Number of clauses: 5611
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT191275437130012394.smt2 : 13 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT191275437130012394.smt2 : 12 ms.
 --------------------------------------------------
 Number of variables: 3170
 Number of clauses: 15647
@@ -15,85 +15,85 @@ Number of variables: 5997
 Number of clauses: 31023
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1921934893170238498.smt2 : 51 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1921934893170238498.smt2 : 58 ms.
 --------------------------------------------------
 Number of variables: 17534
 Number of clauses: 82937
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1925431407371080493.smt2 : 136 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1925431407371080493.smt2 : 212 ms.
 --------------------------------------------------
 Number of variables: 140302
 Number of clauses: 592827
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1940736280721199357.smt2 : 4192 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1940736280721199357.smt2 : 4498 ms.
 --------------------------------------------------
 Number of variables: 26752
 Number of clauses: 133950
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1946006857087300269.smt2 : 2125 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1946006857087300269.smt2 : 1773 ms.
 --------------------------------------------------
 Number of variables: 5421
 Number of clauses: 27707
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1957380023642536551.smt2 : 36 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1957380023642536551.smt2 : 34 ms.
 --------------------------------------------------
 Number of variables: 223549
 Number of clauses: 946880
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1974177102832544503.smt2 : 5481 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1974177102832544503.smt2 : 7300 ms.
 --------------------------------------------------
 Number of variables: 5164
 Number of clauses: 25807
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1985461538337735884.smt2 : 44 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1985461538337735884.smt2 : 46 ms.
 --------------------------------------------------
 Number of variables: 98241
 Number of clauses: 484845
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1988989355889096288.smt2 : 1166 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT1988989355889096288.smt2 : 5533 ms.
 --------------------------------------------------
 Number of variables: 4892
 Number of clauses: 24265
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT199924319808952062.smt2 : 41 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT199924319808952062.smt2 : 34 ms.
 --------------------------------------------------
 Number of variables: 227648
 Number of clauses: 960583
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2000554635680853132.smt2 : 6352 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2000554635680853132.smt2 : 6695 ms.
 --------------------------------------------------
 Number of variables: 35821
 Number of clauses: 178037
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2010284621257259251.smt2 : 554 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2010284621257259251.smt2 : 616 ms.
 --------------------------------------------------
 Number of variables: 46031
 Number of clauses: 223867
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT201132202294598618.smt2 : 572 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT201132202294598618.smt2 : 2553 ms.
 --------------------------------------------------
 Number of variables: 6805
 Number of clauses: 32320
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2019035133165979665.smt2 : 49 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2019035133165979665.smt2 : 62 ms.
 --------------------------------------------------
 Number of variables: 2431
 Number of clauses: 11693
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2019264686462914243.smt2 : 19 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2019264686462914243.smt2 : 21 ms.
 --------------------------------------------------
 Number of variables: 4303
 Number of clauses: 20478
@@ -105,187 +105,187 @@ Number of variables: 69280
 Number of clauses: 329251
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2025442241669063892.smt2 : 801 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2025442241669063892.smt2 : 665 ms.
 --------------------------------------------------
 Number of variables: 250120
 Number of clauses: 1052763
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2031186289822687362.smt2 : 4676 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2031186289822687362.smt2 : 3943 ms.
 --------------------------------------------------
 Number of variables: 7932
 Number of clauses: 39039
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2044847837117464973.smt2 : 70 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2044847837117464973.smt2 : 85 ms.
 --------------------------------------------------
 Number of variables: 5881
 Number of clauses: 28411
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2045146210738691450.smt2 : 66 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2045146210738691450.smt2 : 41 ms.
 --------------------------------------------------
 Number of variables: 2682
 Number of clauses: 12727
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2053186852308641598.smt2 : 20 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2053186852308641598.smt2 : 29 ms.
 --------------------------------------------------
 Number of variables: 11421
 Number of clauses: 57700
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2054940669490607112.smt2 : 85 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2054940669490607112.smt2 : 101 ms.
 --------------------------------------------------
 Number of variables: 40518
 Number of clauses: 197168
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT205711926841620090.smt2 : 1823 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT205711926841620090.smt2 : 2211 ms.
 --------------------------------------------------
 Number of variables: 45804
 Number of clauses: 225670
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2059890911796961568.smt2 : 680 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2059890911796961568.smt2 : 692 ms.
 --------------------------------------------------
 Number of variables: 2494
 Number of clauses: 11599
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2061930632730522219.smt2 : 20 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2061930632730522219.smt2 : 32 ms.
 --------------------------------------------------
 Number of variables: 22218
 Number of clauses: 107957
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT206305505307433843.smt2 : 350 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT206305505307433843.smt2 : 280 ms.
 --------------------------------------------------
 Number of variables: 2879
 Number of clauses: 14357
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2063967765068105921.smt2 : 23 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2063967765068105921.smt2 : 33 ms.
 --------------------------------------------------
 Number of variables: 58747
 Number of clauses: 289841
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2075489539010646787.smt2 : 1396 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2075489539010646787.smt2 : 549 ms.
 --------------------------------------------------
 Number of variables: 4764
 Number of clauses: 22642
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2076531344324430683.smt2 : 32 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2076531344324430683.smt2 : 42 ms.
 --------------------------------------------------
 Number of variables: 16473
 Number of clauses: 82735
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2080970443407093756.smt2 : 82 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2080970443407093756.smt2 : 128 ms.
 --------------------------------------------------
 Number of variables: 96533
 Number of clauses: 457916
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2081725368205964132.smt2 : 1216 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2081725368205964132.smt2 : 1209 ms.
 --------------------------------------------------
 Number of variables: 67369
 Number of clauses: 339699
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT208617998158592834.smt2 : 905 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT208617998158592834.smt2 : 954 ms.
 --------------------------------------------------
 Number of variables: 10928
 Number of clauses: 51913
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2091325641578877395.smt2 : 64 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2091325641578877395.smt2 : 72 ms.
 --------------------------------------------------
 Number of variables: 2914
 Number of clauses: 14672
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2103831101029994911.smt2 : 24 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2103831101029994911.smt2 : 34 ms.
 --------------------------------------------------
 Number of variables: 5217
 Number of clauses: 25832
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2109950939724639568.smt2 : 67 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2109950939724639568.smt2 : 66 ms.
 --------------------------------------------------
 Number of variables: 73573
 Number of clauses: 378470
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2119025499719165182.smt2 : 2390 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2119025499719165182.smt2 : 4125 ms.
 --------------------------------------------------
 Number of variables: 13530
 Number of clauses: 64531
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2121262338709227533.smt2 : 78 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2121262338709227533.smt2 : 93 ms.
 --------------------------------------------------
 Number of variables: 237849
 Number of clauses: 1148317
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2121292005079447352.smt2 : 12954 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2121292005079447352.smt2 : 11298 ms.
 --------------------------------------------------
 Number of variables: 749
 Number of clauses: 3568
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2122551038128423419.smt2 : 10 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2122551038128423419.smt2 : 17 ms.
 --------------------------------------------------
 Number of variables: 33392
 Number of clauses: 158749
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2123657877861531207.smt2 : 276 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2123657877861531207.smt2 : 279 ms.
 --------------------------------------------------
 Number of variables: 40076
 Number of clauses: 215286
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2125412309997256252.smt2 : 299 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2125412309997256252.smt2 : 241 ms.
 --------------------------------------------------
 Number of variables: 15442
 Number of clauses: 75837
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2126642735045670106.smt2 : 302 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2126642735045670106.smt2 : 338 ms.
 --------------------------------------------------
 Number of variables: 87980
 Number of clauses: 446087
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2130197114478452371.smt2 : 1167 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2130197114478452371.smt2 : 1208 ms.
 --------------------------------------------------
 Number of variables: 86094
 Number of clauses: 415500
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2138806821348299123.smt2 : 5428 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2138806821348299123.smt2 : 4742 ms.
 --------------------------------------------------
 Number of variables: 3271
 Number of clauses: 15526
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2142784755099170345.smt2 : 28 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2142784755099170345.smt2 : 23 ms.
 --------------------------------------------------
 Number of variables: 5394
 Number of clauses: 25678
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2145410192430227438.smt2 : 39 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2145410192430227438.smt2 : 45 ms.
 --------------------------------------------------
 Number of variables: 1103
 Number of clauses: 5329
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2154739971971205082.smt2 : 18 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2154739971971205082.smt2 : 14 ms.
 --------------------------------------------------
 Number of variables: 19763
 Number of clauses: 93898
@@ -297,61 +297,61 @@ Number of variables: 5942
 Number of clauses: 28240
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2157365016318083112.smt2 : 45 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2157365016318083112.smt2 : 43 ms.
 --------------------------------------------------
 Number of variables: 11138
 Number of clauses: 54599
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2158114964317463984.smt2 : 87 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2158114964317463984.smt2 : 77 ms.
 --------------------------------------------------
 Number of variables: 59320
 Number of clauses: 292620
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2163640444650240229.smt2 : 1523 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2163640444650240229.smt2 : 5884 ms.
 --------------------------------------------------
 Number of variables: 31835
 Number of clauses: 158531
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2169947826556866694.smt2 : 407 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2169947826556866694.smt2 : 386 ms.
 --------------------------------------------------
 Number of variables: 16099
 Number of clauses: 79792
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2177247277262436215.smt2 : 91 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2177247277262436215.smt2 : 99 ms.
 --------------------------------------------------
 Number of variables: 9706
 Number of clauses: 46410
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2180393309678538513.smt2 : 79 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2180393309678538513.smt2 : 96 ms.
 --------------------------------------------------
 Number of variables: 7750
 Number of clauses: 36874
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2180870078806303650.smt2 : 88 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2180870078806303650.smt2 : 89 ms.
 --------------------------------------------------
 Number of variables: 17136
 Number of clauses: 88896
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2189051876526621929.smt2 : 138 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2189051876526621929.smt2 : 153 ms.
 --------------------------------------------------
 Number of variables: 38318
 Number of clauses: 201811
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2200431342265122737.smt2 : 2536 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2200431342265122737.smt2 : 961 ms.
 --------------------------------------------------
 Number of variables: 65006
 Number of clauses: 324022
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2203987609686087470.smt2 : 4117 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2203987609686087470.smt2 : 4041 ms.
 --------------------------------------------------
 Number of variables: 6533
 Number of clauses: 31413
@@ -363,13 +363,13 @@ Number of variables: 14035
 Number of clauses: 68405
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2211851240001759024.smt2 : 277 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2211851240001759024.smt2 : 204 ms.
 --------------------------------------------------
 Number of variables: 12615
 Number of clauses: 60901
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT221654206070531325.smt2 : 545 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT221654206070531325.smt2 : 471 ms.
 --------------------------------------------------
 Number of variables: 1778
 Number of clauses: 8410
@@ -381,220 +381,220 @@ Number of variables: 1803
 Number of clauses: 8627
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2218433640803157331.smt2 : 15 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2218433640803157331.smt2 : 16 ms.
 --------------------------------------------------
 Number of variables: 37086
 Number of clauses: 177208
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2219537502583334158.smt2 : 408 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2219537502583334158.smt2 : 460 ms.
 --------------------------------------------------
 Number of variables: 59772
 Number of clauses: 304882
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2220196994468472054.smt2 : 789 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2220196994468472054.smt2 : 989 ms.
 --------------------------------------------------
 Number of variables: 16720
 Number of clauses: 83090
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2248243474470056064.smt2 : 108 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2248243474470056064.smt2 : 94 ms.
 --------------------------------------------------
 Number of variables: 1504
 Number of clauses: 7129
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2249670056167438790.smt2 : 21 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2249670056167438790.smt2 : 16 ms.
 --------------------------------------------------
 Number of variables: 8673
 Number of clauses: 43410
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT225476591979008271.smt2 : 67 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT225476591979008271.smt2 : 56 ms.
 --------------------------------------------------
 Number of variables: 1819
 Number of clauses: 8647
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2256159023721325971.smt2 : 15 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2256159023721325971.smt2 : 20 ms.
 --------------------------------------------------
 Number of variables: 5127
 Number of clauses: 25459
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2260922596628801082.smt2 : 34 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2260922596628801082.smt2 : 49 ms.
 --------------------------------------------------
 Number of variables: 87286
 Number of clauses: 367006
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2267890378492720718.smt2 : 1468 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2267890378492720718.smt2 : 1422 ms.
 --------------------------------------------------
 Number of variables: 30907
 Number of clauses: 150857
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT226894020986703971.smt2 : 1697 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT226894020986703971.smt2 : 1827 ms.
 --------------------------------------------------
 Number of variables: 400203
 Number of clauses: 1742138
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2273852946944042795.smt2 : 27854 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2273852946944042795.smt2 : 27786 ms.
 --------------------------------------------------
 Number of variables: 76873
 Number of clauses: 410975
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2276398888104218594.smt2 : 779 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2276398888104218594.smt2 : 499 ms.
 --------------------------------------------------
 Number of variables: 214303
 Number of clauses: 904535
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2279546529930018049.smt2 : 13451 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2279546529930018049.smt2 : 13944 ms.
 --------------------------------------------------
 Number of variables: 2997
 Number of clauses: 14245
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2289768799678770902.smt2 : 20 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2289768799678770902.smt2 : 28 ms.
 --------------------------------------------------
 Number of variables: 16164
 Number of clauses: 77807
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2295621871619130942.smt2 : 518 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2295621871619130942.smt2 : 462 ms.
 --------------------------------------------------
 Number of variables: 13354
 Number of clauses: 70447
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2296275346109531321.smt2 : 178 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2296275346109531321.smt2 : 113 ms.
 --------------------------------------------------
 Number of variables: 95725
 Number of clauses: 481696
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2306111754226422167.smt2 : 1038 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2306111754226422167.smt2 : 1109 ms.
 --------------------------------------------------
 Number of variables: 70233
 Number of clauses: 377528
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2309033674141464755.smt2 : 8102 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2309033674141464755.smt2 : 5886 ms.
 --------------------------------------------------
 Number of variables: 3901
 Number of clauses: 18562
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2309057211130479784.smt2 : 25 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2309057211130479784.smt2 : 29 ms.
 --------------------------------------------------
 Number of variables: 4723
 Number of clauses: 22405
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2311630272619652453.smt2 : 45 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2311630272619652453.smt2 : 46 ms.
 --------------------------------------------------
 Number of variables: 281143
 Number of clauses: 1399737
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2313612983845754801.smt2 : 15459 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2313612983845754801.smt2 : 15832 ms.
 --------------------------------------------------
 Number of variables: 286619
 Number of clauses: 1382862
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2316535250821506157.smt2 : 5013 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2316535250821506157.smt2 : 4586 ms.
 --------------------------------------------------
 Number of variables: 7065
 Number of clauses: 34472
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2322179511678559502.smt2 : 71 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2322179511678559502.smt2 : 83 ms.
 --------------------------------------------------
 Number of variables: 1331
 Number of clauses: 6050
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2331608993226750467.smt2 : 18 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2331608993226750467.smt2 : 19 ms.
 --------------------------------------------------
 Number of variables: 5911
 Number of clauses: 28387
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT233357233309295005.smt2 : 41 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT233357233309295005.smt2 : 52 ms.
 --------------------------------------------------
 Number of variables: 309896
 Number of clauses: 1591148
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT23351221134153985.smt2 : 13581 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT23351221134153985.smt2 : 16609 ms.
 --------------------------------------------------
 Number of variables: 1513
 Number of clauses: 7342
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2338691775363015641.smt2 : 15 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2338691775363015641.smt2 : 22 ms.
 --------------------------------------------------
 Number of variables: 7355
 Number of clauses: 36279
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2339601972147165362.smt2 : 75 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2339601972147165362.smt2 : 86 ms.
 --------------------------------------------------
 Number of variables: 36485
 Number of clauses: 179774
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2342232429725814709.smt2 : 669 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2342232429725814709.smt2 : 866 ms.
 --------------------------------------------------
 Number of variables: 5668
 Number of clauses: 26959
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2343912548139256768.smt2 : 41 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2343912548139256768.smt2 : 45 ms.
 --------------------------------------------------
 Number of variables: 729
 Number of clauses: 3531
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2344836628067265548.smt2 : 16 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2344836628067265548.smt2 : 12 ms.
 --------------------------------------------------
 Number of variables: 137613
 Number of clauses: 578621
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2350462964939983297.smt2 : 5103 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2350462964939983297.smt2 : 4915 ms.
 --------------------------------------------------
 Number of variables: 54342
 Number of clauses: 272595
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2355004445894478329.smt2 : 2880 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2355004445894478329.smt2 : 821 ms.
 --------------------------------------------------
 Number of variables: 137987
 Number of clauses: 665420
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2357409284306338375.smt2 : 8404 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2357409284306338375.smt2 : 8226 ms.
 --------------------------------------------------
 Number of variables: 6055
 Number of clauses: 28351
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2359969224185831181.smt2 : 39 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2359969224185831181.smt2 : 41 ms.
 --------------------------------------------------
 Number of variables: 4723
 Number of clauses: 22405
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT236580308612717708.smt2 : 28 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT236580308612717708.smt2 : 33 ms.
 --------------------------------------------------
 Number of variables: 20214
 Number of clauses: 96505
 sat
 check sat
-SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2366205485937395070.smt2 : 152 ms.
+SAT_Split_100/133/QF_NIA_SAT/AProVE/aproveSMT2366205485937395070.smt2 : 163 ms.

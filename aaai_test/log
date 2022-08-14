@@ -1,150 +1,1085 @@
-z3_after/136.log: aprove  
-z3_after/31.log: aprove  cinteger_its_sat14  
-z3_after/24.log: aprove  cinteger_its_sat14  
-z3_after/73.log: cinteger_its_sat14  
-z3_after/46.log: aprove  cinteger_its_sat14  
-z3_after/80.log: cinteger_its_sat14  
-z3_after/12.log: aprove  cinteger_its_sat14  
-z3_after/59.log: cinteger_its_sat14  
-z3_after/120.log: cinteger_its_sat14  
-z3_after/66.log: cinteger_its_sat14  
-z3_after/142.log: aprove  
-z3_after/88.log: cinteger_its_sat14  
-z3_after/7.log: cinteger_its_sat14  
-z3_after/144.log: aprove  
-z3_after/147.log: aprove  calypto  lassoranker  leipzig  
-z3_after/127.log: mathproblems  
-z3_after/103.log: cinteger_its_sat14  
-z3_after/61.log: cinteger_its_sat14  
-z3_after/110.log: cinteger_its_sat14  
-z3_after/68.log: cinteger_its_sat14  
-z3_after/65.log: cinteger_its_sat14  
-z3_after/93.log: cinteger_its_sat14  
-z3_after/51.log: aprove  cinteger_its_sat14  
-z3_after/126.log: mathproblems  
-z3_after/8.log: cinteger_its_sat14  aprove  
-z3_after/97.log: cinteger_its_sat14  
-z3_after/112.log: cinteger_its_sat14  
-z3_after/63.log: cinteger_its_sat14  
-z3_after/82.log: cinteger_its_sat14  
-z3_after/101.log: cinteger_its_sat14  
-z3_after/14.log: aprove  cinteger_its_sat14  
-z3_after/102.log: cinteger_its_sat14  
-z3_after/3.log: cinteger_its_sat14  
-z3_after/89.log: cinteger_its_sat14  
-z3_after/79.log: cinteger_its_sat14  
-z3_after/140.log: aprove  
-z3_after/105.log: cinteger_its_sat14  
-z3_after/36.log: aprove  cinteger_its_sat14  
-z3_after/32.log: aprove  cinteger_its_sat14  
-z3_after/148.log: leipzig  
-z3_after/15.log: aprove  cinteger_its_sat14  
-z3_after/4.log: cinteger_its_sat14  
-z3_after/77.log: cinteger_its_sat14  
-z3_after/28.log: aprove  cinteger_its_sat14  
-z3_after/25.log: aprove  cinteger_its_sat14  
-z3_after/29.log: aprove  cinteger_its_sat14  
-z3_after/87.log: cinteger_its_sat14  
-z3_after/43.log: aprove  cinteger_its_sat14  
-z3_after/149.log: leipzig  mcm  lassoranker  
-z3_after/38.log: aprove  cinteger_its_sat14  
-z3_after/76.log: cinteger_its_sat14  
-z3_after/33.log: aprove  cinteger_its_sat14  
-z3_after/13.log: aprove  cinteger_its_sat14  
-z3_after/72.log: cinteger_its_sat14  
-z3_after/55.log: aprove  cinteger_its_sat14  
-z3_after/35.log: aprove  cinteger_its_sat14  
-z3_after/132.log: aprove  
-z3_after/19.log: aprove  cinteger_its_sat14  
-z3_after/94.log: cinteger_its_sat14  
-z3_after/133.log: aprove  
-z3_after/74.log: cinteger_its_sat14  
-z3_after/39.log: aprove  cinteger_its_sat14  
-z3_after/58.log: cinteger_its_sat14  
-z3_after/70.log: cinteger_its_sat14  
-z3_after/85.log: cinteger_its_sat14  
-z3_after/48.log: aprove  cinteger_its_sat14  
-z3_after/113.log: cinteger_its_sat14  
-z3_after/122.log: cinteger_its_sat14  dartagnan  mathproblems  
-z3_after/106.log: cinteger_its_sat14  
-z3_after/134.log: aprove  
-z3_after/0.log: cinteger_its_sat14  
-z3_after/9.log: aprove  cinteger_its_sat14  
-z3_after/83.log: cinteger_its_sat14  
-z3_after/6.log: cinteger_its_sat14  
-z3_after/22.log: aprove  cinteger_its_sat14  
-z3_after/64.log: cinteger_its_sat14  
-z3_after/125.log: mathproblems  
-z3_after/108.log: cinteger_its_sat14  
-z3_after/34.log: aprove  cinteger_its_sat14  
-z3_after/141.log: aprove  
-z3_after/121.log: cinteger_its_sat14  
-z3_after/23.log: aprove  cinteger_its_sat14  
-z3_after/104.log: cinteger_its_sat14  
-z3_after/30.log: aprove  cinteger_its_sat14  
-z3_after/71.log: cinteger_its_sat14  
-z3_after/16.log: aprove  cinteger_its_sat14  
-z3_after/5.log: cinteger_its_sat14  
-z3_after/143.log: aprove  
-z3_after/146.log: aprove  
-z3_after/119.log: cinteger_its_sat14  
-z3_after/128.log: mathproblems  
-z3_after/26.log: aprove  cinteger_its_sat14  
-z3_after/99.log: cinteger_its_sat14  
-z3_after/54.log: aprove  cinteger_its_sat14  
-z3_after/96.log: cinteger_its_sat14  
-z3_after/56.log: aprove  cinteger_its_sat14  
-z3_after/138.log: aprove  
-z3_after/111.log: cinteger_its_sat14  
-z3_after/84.log: cinteger_its_sat14  
-z3_after/67.log: cinteger_its_sat14  
-z3_after/115.log: cinteger_its_sat14  
-z3_after/37.log: aprove  cinteger_its_sat14  
-z3_after/86.log: cinteger_its_sat14  
-z3_after/75.log: cinteger_its_sat14  
-z3_after/47.log: aprove  cinteger_its_sat14  
-z3_after/62.log: cinteger_its_sat14  
-z3_after/41.log: aprove  cinteger_its_sat14  
-z3_after/2.log: cinteger_its_sat14  
-z3_after/130.log: mathproblems  aprove  
-z3_after/60.log: cinteger_its_sat14  
-z3_after/17.log: aprove  cinteger_its_sat14  
-z3_after/50.log: aprove  cinteger_its_sat14  
-z3_after/145.log: aprove  
-z3_after/81.log: cinteger_its_sat14  
-z3_after/92.log: cinteger_its_sat14  
-z3_after/57.log: aprove  cinteger_its_sat14  
-z3_after/1.log: cinteger_its_sat14  
-z3_after/78.log: cinteger_its_sat14  aprove  
-z3_after/20.log: aprove  cinteger_its_sat14  
-z3_after/11.log: aprove  cinteger_its_sat14  
-z3_after/123.log: mathproblems  
-z3_after/129.log: mathproblems  
-z3_after/27.log: aprove  cinteger_its_sat14  
-z3_after/107.log: cinteger_its_sat14  
-z3_after/10.log: aprove  cinteger_its_sat14  
-z3_after/100.log: cinteger_its_sat14  
-z3_after/116.log: cinteger_its_sat14  
-z3_after/52.log: aprove  cinteger_its_sat14  
-z3_after/95.log: cinteger_its_sat14  
-z3_after/45.log: aprove  cinteger_its_sat14  
-z3_after/69.log: cinteger_its_sat14  
-z3_after/98.log: cinteger_its_sat14  
-z3_after/139.log: aprove  
-z3_after/114.log: cinteger_its_sat14  
-z3_after/135.log: aprove  
-z3_after/18.log: aprove  cinteger_its_sat14  
-z3_after/49.log: aprove  cinteger_its_sat14  
-z3_after/124.log: mathproblems  
-z3_after/118.log: cinteger_its_sat14  
-z3_after/137.log: aprove  
-z3_after/40.log: aprove  cinteger_its_sat14  
-z3_after/91.log: cinteger_its_sat14  
-z3_after/109.log: cinteger_its_sat14  
-z3_after/44.log: aprove  cinteger_its_sat14  
-z3_after/21.log: aprove  cinteger_its_sat14  
-z3_after/42.log: aprove  cinteger_its_sat14  
-z3_after/90.log: cinteger_its_sat14  
-z3_after/131.log: aprove  
-z3_after/53.log: aprove  cinteger_its_sat14  
-z3_after/117.log: cinteger_its_sat14  
+hhh
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+0.log                                             101     99      0       0           2           35741989
+1.log                                             100     98      0       0           2           23862409
+2.log                                             100     97      0       0           3           205008473
+3.log                                             100     100     0       0           0           30151608
+4.log                                             100     100     0       0           0           28230483
+5.log                                             100     96      0       0           4           34251714
+6.log                                             100     100     0       0           0           35736886
+7.log                                             100     97      0       0           3           59931677
+8.log                                             100     98      0       0           2           123324248
+9.log                                             100     97      0       0           3           90216398
+10.log                                            100     99      0       0           1           40531729
+11.log                                            100     96      0       0           4           95613866
+12.log                                            100     100     0       0           0           90618582
+13.log                                            100     100     0       0           0           84218858
+14.log                                            100     98      0       0           2           141837532
+15.log                                            100     99      0       0           1           86482256
+16.log                                            100     100     0       0           0           52498815
+17.log                                            100     100     0       0           0           52856131
+18.log                                            100     99      0       0           1           122498468
+19.log                                            100     99      0       0           1           101459839
+20.log                                            100     98      0       0           2           143455773
+21.log                                            100     100     0       0           0           56229535
+22.log                                            100     100     0       0           0           69376398
+23.log                                            100     100     0       0           0           87730709
+24.log                                            100     99      0       0           1           95370272
+25.log                                            100     96      0       0           4           157555362
+26.log                                            100     99      0       0           1           92361304
+27.log                                            100     100     0       0           0           56214846
+28.log                                            100     100     0       0           0           55351242
+29.log                                            100     96      0       0           4           166972428
+30.log                                            100     97      0       0           3           163929523
+31.log                                            100     89      0       0           11          281655418
+32.log                                            100     90      0       0           10          383126382
+33.log                                            100     91      0       0           9           304862039
+34.log                                            100     93      0       0           7           242416926
+35.log                                            100     100     0       0           0           68118121
+36.log                                            100     100     0       0           0           88415489
+37.log                                            100     100     0       0           0           114474428
+38.log                                            100     100     0       0           0           139512309
+39.log                                            100     100     0       0           0           132356779
+40.log                                            100     100     0       0           0           44964801
+41.log                                            100     100     0       0           0           135814593
+42.log                                            100     99      0       0           1           118401814
+43.log                                            100     100     0       0           0           45014280
+44.log                                            100     100     0       0           0           132863205
+45.log                                            100     99      0       0           1           135744038
+46.log                                            100     100     0       0           0           68950180
+47.log                                            100     100     0       0           0           92435741
+48.log                                            100     99      0       0           1           116451942
+49.log                                            100     100     0       0           0           71543605
+50.log                                            100     100     0       0           0           45676594
+51.log                                            100     91      0       0           9           311755321
+52.log                                            100     97      0       0           3           63150630
+53.log                                            100     90      0       0           10          52317776
+54.log                                            100     98      0       0           2           63823208
+55.log                                            100     96      0       0           4           58390010
+56.log                                            100     90      0       0           10          46672527
+57.log                                            100     98      0       0           2           56400088
+58.log                                            100     94      0       0           6           730779527
+59.log                                            100     100     0       0           0           180173188
+60.log                                            100     97      0       0           3           250157770
+61.log                                            100     91      0       0           9           38491805
+62.log                                            100     94      0       0           6           483242766
+63.log                                            100     100     0       0           0           13501858
+64.log                                            100     100     0       0           0           26919084
+65.log                                            100     99      0       0           1           11780475
+66.log                                            100     100     0       0           0           7973163 
+67.log                                            100     100     0       0           0           10228952
+68.log                                            100     100     0       0           0           10811654
+69.log                                            100     100     0       0           0           10940335
+70.log                                            100     100     0       0           0           11167248
+71.log                                            100     100     0       0           0           38660666
+72.log                                            100     99      0       0           1           108322603
+73.log                                            100     97      0       0           3           234995783
+74.log                                            100     89      0       0           11          401259779
+75.log                                            100     100     0       0           0           48479954
+76.log                                            100     100     0       0           0           43410497
+77.log                                            100     98      0       0           2           191117136
+78.log                                            100     100     0       0           0           60120453
+79.log                                            100     100     0       0           0           57069900
+80.log                                            100     100     0       0           0           73409699
+81.log                                            100     99      0       0           1           63689006
+82.log                                            100     93      0       0           7           130712176
+83.log                                            100     99      0       0           1           344762781
+84.log                                            100     98      0       0           2           148279596
+85.log                                            100     100     0       0           0           81289441
+86.log                                            100     95      0       0           5           211497703
+87.log                                            100     100     0       0           0           30933284
+88.log                                            100     100     0       0           0           50546657
+89.log                                            100     100     0       0           0           36413818
+90.log                                            100     100     0       0           0           34337956
+91.log                                            100     100     0       0           0           46538869
+92.log                                            100     100     0       0           0           36493991
+93.log                                            100     100     0       0           0           34439300
+94.log                                            100     100     0       0           0           33067238
+95.log                                            100     100     0       0           0           62305412
+96.log                                            100     100     0       0           0           89798243
+97.log                                            100     99      0       0           1           52104272
+98.log                                            100     99      0       0           1           30881375
+99.log                                            100     100     0       0           0           76162579
+100.log                                           100     97      0       0           3           210813515
+101.log                                           100     64      0       0           36          1073213640
+102.log                                           100     97      0       0           3           152592642
+103.log                                           100     100     0       0           0           197550524
+104.log                                           100     100     0       0           0           281900833
+105.log                                           100     100     0       0           0           421431048
+106.log                                           100     98      0       0           2           471632016
+107.log                                           100     100     0       0           0           240328091
+108.log                                           100     100     0       0           0           168413275
+109.log                                           100     100     0       0           0           264155259
+110.log                                           100     98      0       0           2           138952052
+111.log                                           100     100     0       0           0           149221634
+112.log                                           100     100     0       0           0           127884101
+113.log                                           100     100     0       0           0           90798260
+114.log                                           100     100     0       0           0           77345577
+115.log                                           100     100     0       0           0           101654250
+116.log                                           100     100     0       0           0           236294416
+117.log                                           100     100     0       0           0           85785606
+118.log                                           100     100     0       0           0           221987471
+119.log                                           100     100     0       0           0           123510633
+120.log                                           100     100     0       0           0           302210602
+121.log                                           100     100     0       0           0           183226101
+122.log                                           100     67      0       0           33          337901141
+123.log                                           100     87      0       0           13          19398020
+124.log                                           100     89      0       0           11          19068810
+125.log                                           100     85      0       0           15          22636746
+126.log                                           100     87      0       0           13          20517695
+127.log                                           100     83      0       0           17          30276363
+128.log                                           100     83      0       0           17          26904425
+129.log                                           100     81      0       0           19          27711571
+130.log                                           100     83      0       0           17          55296693
+131.log                                           100     100     0       0           0           32199316
+132.log                                           100     100     0       0           0           34163116
+133.log                                           100     100     0       0           0           28476914
+134.log                                           100     100     0       0           0           31663864
+135.log                                           100     100     0       0           0           28594667
+136.log                                           100     100     0       0           0           31245965
+137.log                                           100     100     0       0           0           34087412
+138.log                                           100     100     0       0           0           36005593
+139.log                                           100     100     0       0           0           33190003
+140.log                                           100     100     0       0           0           31037820
+141.log                                           100     100     0       0           0           36985465
+142.log                                           100     100     0       0           0           64229835
+143.log                                           100     100     0       0           0           39446856
+144.log                                           100     100     0       0           0           35918906
+145.log                                           100     100     0       0           0           39582228
+146.log                                           100     100     0       0           0           36552870
+147.log                                           100     100     0       0           0           6857083 
+148.log                                           100     100     0       0           0           21848487
+149.log                                           89      89      0       0           0           137937025
+Total files: 14990; Sat: 14605; Unsat: 0; Unsolved:385.
+-----------------------------
+cvc5
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+0.log                                             101     85      0       0           16          82272797
+1.log                                             100     83      0       0           17          84166902
+2.log                                             100     66      0       0           34          94113856
+3.log                                             100     97      0       0           3           68813328
+4.log                                             100     96      0       0           4           75953829
+5.log                                             100     94      0       0           6           69572894
+6.log                                             100     96      0       0           4           71398311
+7.log                                             100     63      0       0           37          96694222
+8.log                                             100     63      0       0           37          91030229
+9.log                                             100     82      0       0           18          78886352
+10.log                                            100     92      0       0           8           72367990
+11.log                                            100     81      0       0           19          70920353
+12.log                                            100     76      0       0           24          75407250
+13.log                                            100     69      0       0           31          82366412
+14.log                                            100     67      0       0           33          81425513
+15.log                                            100     70      0       0           30          79123472
+16.log                                            100     67      0       0           33          82108384
+17.log                                            100     67      0       0           33          82411649
+18.log                                            100     68      0       0           32          79727117
+19.log                                            100     67      0       0           33          83949450
+20.log                                            100     67      0       0           33          83306722
+21.log                                            100     65      0       0           35          83707021
+22.log                                            100     71      0       0           29          80264220
+23.log                                            100     65      0       0           35          84120039
+24.log                                            100     69      0       0           31          77467482
+25.log                                            100     74      0       0           26          81055745
+26.log                                            100     57      0       0           43          92404779
+27.log                                            100     64      0       0           36          89273153
+28.log                                            100     69      0       0           31          84512359
+29.log                                            100     63      0       0           37          87877130
+30.log                                            100     59      0       0           41          89055404
+31.log                                            100     59      0       0           41          87080638
+32.log                                            100     69      0       0           31          82623239
+33.log                                            100     58      0       0           42          91322822
+34.log                                            100     73      0       0           27          76614127
+35.log                                            100     68      0       0           32          80355057
+36.log                                            100     72      0       0           28          76944046
+37.log                                            100     72      0       0           28          80377185
+38.log                                            100     75      0       0           25          62128021
+39.log                                            100     82      0       0           18          27468294
+40.log                                            100     100     0       0           0           3097909 
+41.log                                            100     88      0       0           12          18090561
+42.log                                            100     92      0       0           8           17156100
+43.log                                            100     100     0       0           0           2823414 
+44.log                                            100     87      0       0           13          20470010
+45.log                                            100     91      0       0           9           14060286
+46.log                                            100     98      0       0           2           5310601 
+47.log                                            100     91      0       0           9           14193338
+48.log                                            100     94      0       0           6           12117214
+49.log                                            100     98      0       0           2           5158404 
+50.log                                            100     100     0       0           0           3933340 
+51.log                                            100     71      0       0           29          82678107
+52.log                                            100     86      0       0           14          68850871
+53.log                                            100     77      0       0           23          76343846
+54.log                                            100     54      0       0           46          95657448
+55.log                                            100     87      0       0           13          80482523
+56.log                                            100     87      0       0           13          75967506
+57.log                                            100     81      0       0           19          74939585
+58.log                                            100     59      0       0           41          76419212
+59.log                                            100     64      0       0           36          72915505
+60.log                                            100     89      0       0           11          24352087
+61.log                                            100     93      0       0           7           60276308
+62.log                                            100     79      0       0           21          79835242
+63.log                                            100     100     0       0           0           61962207
+64.log                                            100     97      0       0           3           64390724
+65.log                                            100     100     0       0           0           28579952
+66.log                                            100     99      0       0           1           29127602
+67.log                                            100     100     0       0           0           28327111
+68.log                                            100     100     0       0           0           27860018
+69.log                                            100     100     0       0           0           24658769
+70.log                                            100     100     0       0           0           26735063
+71.log                                            100     92      0       0           8           56468375
+72.log                                            100     64      0       0           36          98148124
+73.log                                            100     55      0       0           45          94825180
+74.log                                            100     57      0       0           43          102869217
+75.log                                            100     94      0       0           6           85591873
+76.log                                            100     96      0       0           4           88204146
+77.log                                            100     67      0       0           33          96893560
+78.log                                            100     60      0       0           40          91227770
+79.log                                            100     93      0       0           7           71928483
+80.log                                            100     80      0       0           20          75989801
+81.log                                            100     93      0       0           7           76193689
+82.log                                            100     70      0       0           30          78275054
+83.log                                            100     73      0       0           27          81042747
+84.log                                            100     83      0       0           17          76195878
+85.log                                            100     65      0       0           35          85060877
+86.log                                            100     88      0       0           12          62985091
+87.log                                            100     100     0       0           0           24556138
+88.log                                            100     97      0       0           3           31478880
+89.log                                            100     99      0       0           1           28026385
+90.log                                            100     100     0       0           0           21933441
+91.log                                            100     99      0       0           1           28640936
+92.log                                            100     97      0       0           3           27438908
+93.log                                            100     100     0       0           0           22273745
+94.log                                            100     100     0       0           0           23975132
+95.log                                            100     86      0       0           14          60915954
+96.log                                            100     95      0       0           5           30987290
+97.log                                            100     97      0       0           3           33337677
+98.log                                            100     99      0       0           1           31946735
+99.log                                            100     93      0       0           7           27819550
+100.log                                           100     84      0       0           16          68088695
+101.log                                           100     28      0       0           72          113252745
+102.log                                           100     84      0       0           16          71921477
+103.log                                           100     99      0       0           1           22310435
+104.log                                           100     100     0       0           0           442617  
+105.log                                           100     100     0       0           0           343504  
+106.log                                           100     100     0       0           0           433150  
+107.log                                           100     100     0       0           0           120951  
+108.log                                           100     100     0       0           0           168612  
+109.log                                           100     100     0       0           0           481832  
+110.log                                           100     100     0       0           0           61418   
+111.log                                           100     100     0       0           0           61318   
+112.log                                           100     100     0       0           0           60986   
+113.log                                           100     100     0       0           0           52558   
+114.log                                           100     100     0       0           0           36039   
+115.log                                           100     100     0       0           0           52556   
+116.log                                           100     100     0       0           0           80253   
+117.log                                           100     100     0       0           0           2559374 
+118.log                                           100     100     0       0           0           77755   
+119.log                                           100     100     0       0           0           67249   
+120.log                                           100     100     0       0           0           618612  
+121.log                                           100     100     0       0           0           239734  
+122.log                                           100     67      0       0           33          76794206
+123.log                                           100     71      0       0           29          75748811
+124.log                                           100     53      0       0           47          91370575
+125.log                                           100     51      0       0           49          95107731
+126.log                                           100     46      0       0           54          100379204
+127.log                                           100     37      0       0           63          107881620
+128.log                                           100     36      0       0           64          109205825
+129.log                                           100     33      0       0           67          111900696
+130.log                                           100     70      0       0           30          66402166
+131.log                                           100     98      0       0           2           19707005
+132.log                                           100     99      0       0           1           20063518
+133.log                                           100     100     0       0           0           12852710
+134.log                                           100     100     0       0           0           14087953
+135.log                                           100     100     0       0           0           16959820
+136.log                                           100     99      0       0           1           14910634
+137.log                                           100     100     0       0           0           19026421
+138.log                                           100     100     0       0           0           19419303
+139.log                                           100     99      0       0           1           16961157
+140.log                                           100     99      0       0           1           19210248
+141.log                                           100     99      0       0           1           15492840
+142.log                                           100     98      0       0           2           22297238
+143.log                                           100     100     0       0           0           20210268
+144.log                                           100     100     0       0           0           23945802
+145.log                                           100     99      0       0           1           20063738
+146.log                                           100     100     0       0           0           22535521
+147.log                                           100     99      0       0           1           6657591 
+148.log                                           100     99      0       0           1           63732681
+149.log                                           89      88      0       0           1           55312527
+Total files: 14990; Sat: 12589; Unsat: 0; Unsolved:2401.
+-----------------------------
+yices2
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+0.log                                             101     56      0       0           45          54457439
+1.log                                             100     54      0       0           46          56550499
+2.log                                             100     43      0       0           57          69134562
+3.log                                             100     59      0       0           41          49425115
+4.log                                             100     72      0       0           28          34999507
+5.log                                             100     78      0       0           22          27869158
+6.log                                             100     72      0       0           28          34785637
+7.log                                             100     46      0       0           54          66504775
+8.log                                             100     66      0       0           34          41756592
+9.log                                             100     62      0       0           38          46779555
+10.log                                            100     64      0       0           36          44511848
+11.log                                            100     64      0       0           36          44779703
+12.log                                            100     71      0       0           29          37243357
+13.log                                            100     71      0       0           29          36896080
+14.log                                            100     68      0       0           32          42167184
+15.log                                            100     70      0       0           30          39074839
+16.log                                            100     71      0       0           29          39055071
+17.log                                            100     66      0       0           34          44301003
+18.log                                            100     69      0       0           31          40911046
+19.log                                            100     68      0       0           32          40730178
+20.log                                            100     76      0       0           24          31517340
+21.log                                            100     72      0       0           28          39429112
+22.log                                            100     76      0       0           24          34508254
+23.log                                            100     73      0       0           27          36072885
+24.log                                            100     74      0       0           26          37864648
+25.log                                            100     69      0       0           31          40312856
+26.log                                            100     66      0       0           34          43189338
+27.log                                            100     71      0       0           29          38481776
+28.log                                            100     71      0       0           29          39496072
+29.log                                            100     70      0       0           30          39795934
+30.log                                            100     73      0       0           27          34553006
+31.log                                            100     80      0       0           20          28759842
+32.log                                            100     74      0       0           26          35567311
+33.log                                            100     71      0       0           29          43592919
+34.log                                            100     67      0       0           33          43021253
+35.log                                            100     68      0       0           32          40794745
+36.log                                            100     68      0       0           32          42971841
+37.log                                            100     70      0       0           30          39420141
+38.log                                            100     85      0       0           15          19987016
+39.log                                            100     90      0       0           10          19382711
+40.log                                            100     92      0       0           8           12845112
+41.log                                            100     85      0       0           15          20055617
+42.log                                            100     93      0       0           7           12629683
+43.log                                            100     96      0       0           4           8331099 
+44.log                                            100     90      0       0           10          14269705
+45.log                                            100     96      0       0           4           6709010 
+46.log                                            100     94      0       0           6           10214244
+47.log                                            100     91      0       0           9           14184296
+48.log                                            100     91      0       0           9           14149463
+49.log                                            100     94      0       0           6           11296526
+50.log                                            100     91      0       0           9           15746540
+51.log                                            100     58      0       0           42          53000721
+52.log                                            100     60      0       0           40          48857524
+53.log                                            100     67      0       0           33          40275164
+54.log                                            100     49      0       0           51          61671793
+55.log                                            100     69      0       0           31          38565028
+56.log                                            100     68      0       0           32          39818810
+57.log                                            100     73      0       0           27          32964599
+58.log                                            100     54      0       0           46          57177356
+59.log                                            100     69      0       0           31          39095736
+60.log                                            100     77      0       0           23          30764482
+61.log                                            100     83      0       0           17          21449322
+62.log                                            100     64      0       0           36          43755888
+63.log                                            100     98      0       0           2           2917104 
+64.log                                            100     82      0       0           18          22568969
+65.log                                            100     98      0       0           2           2445874 
+66.log                                            100     96      0       0           4           5034175 
+67.log                                            100     85      0       0           15          18377015
+68.log                                            100     78      0       0           22          27054180
+69.log                                            100     85      0       0           15          18228209
+70.log                                            100     88      0       0           12          15360021
+71.log                                            100     78      0       0           22          26962007
+72.log                                            100     35      0       0           65          79862380
+73.log                                            100     29      0       0           71          87568397
+74.log                                            100     40      0       0           60          74886897
+75.log                                            100     47      0       0           53          65461659
+76.log                                            100     48      0       0           52          63495999
+77.log                                            100     31      0       0           69          85169072
+78.log                                            100     41      0       0           59          71400102
+79.log                                            100     53      0       0           47          57708215
+80.log                                            100     47      0       0           53          63855892
+81.log                                            100     76      0       0           24          30207868
+82.log                                            100     64      0       0           36          44909059
+83.log                                            100     61      0       0           39          49408150
+84.log                                            100     67      0       0           33          43017223
+85.log                                            100     54      0       0           46          57016470
+86.log                                            100     73      0       0           27          34426130
+87.log                                            100     88      0       0           12          15611964
+88.log                                            100     84      0       0           16          20676335
+89.log                                            100     89      0       0           11          15457119
+90.log                                            100     86      0       0           14          17833707
+91.log                                            100     86      0       0           14          20504770
+92.log                                            100     83      0       0           17          22642289
+93.log                                            100     86      0       0           14          17905713
+94.log                                            100     87      0       0           13          16664870
+95.log                                            100     57      0       0           43          53339303
+96.log                                            100     69      0       0           31          38831575
+97.log                                            100     52      0       0           48          60126816
+98.log                                            100     56      0       0           44          54571781
+99.log                                            100     68      0       0           32          40693020
+100.log                                           100     55      0       0           45          57059011
+101.log                                           100     39      0       0           61          78450177
+102.log                                           100     60      0       0           40          48736807
+103.log                                           100     73      0       0           27          34667436
+104.log                                           100     100     0       0           0           1254812 
+105.log                                           100     98      0       0           2           7275289 
+106.log                                           100     97      0       0           3           10176833
+107.log                                           100     97      0       0           3           7288409 
+108.log                                           100     98      0       0           2           3548912 
+109.log                                           100     99      0       0           1           3070557 
+110.log                                           100     100     0       0           0           196405  
+111.log                                           100     100     0       0           0           1056809 
+112.log                                           100     100     0       0           0           377442  
+113.log                                           100     100     0       0           0           97673   
+114.log                                           100     100     0       0           0           646923  
+115.log                                           100     100     0       0           0           225109  
+116.log                                           100     99      0       0           1           3229045 
+117.log                                           100     99      0       0           1           1718124 
+118.log                                           100     100     0       0           0           2610698 
+119.log                                           100     100     0       0           0           189766  
+120.log                                           100     99      0       0           1           3187033 
+121.log                                           100     99      0       0           1           1830460 
+122.log                                           100     44      0       0           56          69309451
+123.log                                           100     17      0       0           83          99606103
+124.log                                           100     13      0       0           87          104406163
+125.log                                           100     14      0       0           86          103206155
+126.log                                           100     13      0       0           87          104406156
+127.log                                           100     8       0       0           92          110406223
+128.log                                           100     11      0       0           89          106806229
+129.log                                           100     7       0       0           93          111606261
+130.log                                           100     60      0       0           40          48012706
+131.log                                           100     96      0       0           4           4825055 
+132.log                                           100     96      0       0           4           4818863 
+133.log                                           100     96      0       0           4           4814647 
+134.log                                           100     96      0       0           4           4816877 
+135.log                                           100     97      0       0           3           3626111 
+136.log                                           100     96      0       0           4           4836537 
+137.log                                           100     96      0       0           4           4829935 
+138.log                                           100     96      0       0           4           4819584 
+139.log                                           100     94      0       0           6           7279156 
+140.log                                           100     97      0       0           3           3650037 
+141.log                                           100     95      0       0           5           6112260 
+142.log                                           100     93      0       0           7           8421360 
+143.log                                           100     94      0       0           6           7524240 
+144.log                                           100     95      0       0           5           6254802 
+145.log                                           100     98      0       0           2           2468699 
+146.log                                           100     95      0       0           5           6065861 
+147.log                                           100     95      0       0           5           6009219 
+148.log                                           100     58      0       0           42          51344436
+149.log                                           89      55      0       0           34          42689212
+Total files: 14990; Sat: 11040; Unsat: 0; Unsolved:3950.
+-----------------------------
+z3
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+0.log                                             101     86      0       0           15          22480590
+1.log                                             100     96      0       0           4           15538566
+2.log                                             100     71      0       0           29          37325921
+3.log                                             100     97      0       0           3           6532950 
+4.log                                             100     97      0       0           3           6488197 
+5.log                                             100     97      0       0           3           8928489 
+6.log                                             100     98      0       0           2           7360473 
+7.log                                             100     73      0       0           27          41726870
+8.log                                             100     86      0       0           14          32304222
+9.log                                             100     83      0       0           17          26113116
+10.log                                            100     89      0       0           11          20703318
+11.log                                            100     90      0       0           10          19124277
+12.log                                            100     95      0       0           5           12026273
+13.log                                            100     93      0       0           7           14358511
+14.log                                            100     100     0       0           0           5860169 
+15.log                                            100     96      0       0           4           10644324
+16.log                                            100     98      0       0           2           8861818 
+17.log                                            100     99      0       0           1           10500738
+18.log                                            100     94      0       0           6           15514417
+19.log                                            100     98      0       0           2           10363618
+20.log                                            100     98      0       0           2           10110714
+21.log                                            100     97      0       0           3           9834975 
+22.log                                            100     95      0       0           5           13348864
+23.log                                            100     97      0       0           3           11386146
+24.log                                            100     96      0       0           4           13531218
+25.log                                            100     94      0       0           6           16134126
+26.log                                            100     91      0       0           9           16265966
+27.log                                            100     94      0       0           6           17782238
+28.log                                            100     93      0       0           7           13672346
+29.log                                            100     96      0       0           4           11310443
+30.log                                            100     92      0       0           8           13848604
+31.log                                            100     98      0       0           2           9620171 
+32.log                                            100     99      0       0           1           12042068
+33.log                                            100     94      0       0           6           13304235
+34.log                                            100     97      0       0           3           12409421
+35.log                                            100     97      0       0           3           9995266 
+36.log                                            100     98      0       0           2           9164788 
+37.log                                            100     92      0       0           8           17865879
+38.log                                            100     91      0       0           9           21924088
+39.log                                            100     91      0       0           9           19006760
+40.log                                            100     100     0       0           0           4682596 
+41.log                                            100     100     0       0           0           10737075
+42.log                                            100     98      0       0           2           12750351
+43.log                                            100     100     0       0           0           4625209 
+44.log                                            100     100     0       0           0           11238047
+45.log                                            100     100     0       0           0           9997712 
+46.log                                            100     100     0       0           0           6750730 
+47.log                                            100     100     0       0           0           12727488
+48.log                                            100     100     0       0           0           9168245 
+49.log                                            100     100     0       0           0           7681416 
+50.log                                            100     100     0       0           0           9992222 
+51.log                                            100     76      0       0           24          37337852
+52.log                                            100     80      0       0           20          31218814
+53.log                                            100     92      0       0           8           17467729
+54.log                                            100     64      0       0           36          52383448
+55.log                                            100     87      0       0           13          20863508
+56.log                                            100     85      0       0           15          23600903
+57.log                                            100     97      0       0           3           9221466 
+58.log                                            100     43      0       0           57          73904693
+59.log                                            100     71      0       0           29          42445776
+60.log                                            100     68      0       0           32          40715189
+61.log                                            100     94      0       0           6           12573065
+62.log                                            100     66      0       0           34          44833313
+63.log                                            100     100     0       0           0           657076  
+64.log                                            100     97      0       0           3           5587969 
+65.log                                            100     100     0       0           0           1758028 
+66.log                                            100     100     0       0           0           1235500 
+67.log                                            100     100     0       0           0           373982  
+68.log                                            100     100     0       0           0           698843  
+69.log                                            100     100     0       0           0           398651  
+70.log                                            100     100     0       0           0           480739  
+71.log                                            100     93      0       0           7           8917954 
+72.log                                            100     54      0       0           46          60113560
+73.log                                            100     57      0       0           43          64160342
+74.log                                            100     54      0       0           46          64384095
+75.log                                            100     87      0       0           13          24936820
+76.log                                            100     93      0       0           7           22873136
+77.log                                            100     60      0       0           40          59447283
+78.log                                            100     62      0       0           38          52745090
+79.log                                            100     66      0       0           34          45521856
+80.log                                            100     51      0       0           49          63995141
+81.log                                            100     91      0       0           9           17360682
+82.log                                            100     75      0       0           25          33982598
+83.log                                            100     69      0       0           31          47086204
+84.log                                            100     84      0       0           16          22915956
+85.log                                            100     90      0       0           10          24268205
+86.log                                            100     92      0       0           8           14143173
+87.log                                            100     100     0       0           0           699159  
+88.log                                            100     93      0       0           7           15620702
+89.log                                            100     99      0       0           1           5254393 
+90.log                                            100     100     0       0           0           1869209 
+91.log                                            100     92      0       0           8           16190155
+92.log                                            100     96      0       0           4           9962007 
+93.log                                            100     100     0       0           0           1711124 
+94.log                                            100     100     0       0           0           1593284 
+95.log                                            100     81      0       0           19          23886568
+96.log                                            100     90      0       0           10          16979326
+97.log                                            100     90      0       0           10          16297565
+98.log                                            100     97      0       0           3           9298578 
+99.log                                            100     88      0       0           12          21283933
+100.log                                           100     62      0       0           38          54545401
+101.log                                           100     45      0       0           55          75449524
+102.log                                           100     87      0       0           13          19608298
+103.log                                           100     95      0       0           5           9211809 
+104.log                                           100     100     0       0           0           50874   
+105.log                                           100     100     0       0           0           532630  
+106.log                                           100     100     0       0           0           1049436 
+107.log                                           100     100     0       0           0           1332637 
+108.log                                           100     100     0       0           0           27171   
+109.log                                           100     100     0       0           0           1021368 
+110.log                                           100     100     0       0           0           103190  
+111.log                                           100     100     0       0           0           1115365 
+112.log                                           100     99      0       0           1           5335503 
+113.log                                           100     100     0       0           0           5592400 
+114.log                                           100     100     0       0           0           1893112 
+115.log                                           100     100     0       0           0           1032231 
+116.log                                           100     100     0       0           0           2025655 
+117.log                                           100     100     0       0           0           374882  
+118.log                                           100     100     0       0           0           827911  
+119.log                                           100     100     0       0           0           136316  
+120.log                                           100     100     0       0           0           793616  
+121.log                                           100     100     0       0           0           123784  
+122.log                                           100     57      0       0           43          51692428
+123.log                                           100     84      0       0           16          19384749
+124.log                                           100     85      0       0           15          18956661
+125.log                                           100     89      0       0           11          14922347
+126.log                                           100     87      0       0           13          19171054
+127.log                                           100     85      0       0           15          22141867
+128.log                                           100     84      0       0           16          24220365
+129.log                                           100     83      0       0           17          26018332
+130.log                                           100     83      0       0           17          22525237
+131.log                                           100     99      0       0           1           2453927 
+132.log                                           100     100     0       0           0           1320511 
+133.log                                           100     99      0       0           1           1298041 
+134.log                                           100     100     0       0           0           148126  
+135.log                                           100     100     0       0           0           215295  
+136.log                                           100     99      0       0           1           1470463 
+137.log                                           100     100     0       0           0           215370  
+138.log                                           100     100     0       0           0           212231  
+139.log                                           100     99      0       0           1           1444407 
+140.log                                           100     99      0       0           1           1462459 
+141.log                                           100     99      0       0           1           1453414 
+142.log                                           100     99      0       0           1           1510472 
+143.log                                           100     100     0       0           0           413951  
+144.log                                           100     100     0       0           0           357475  
+145.log                                           100     100     0       0           0           1162414 
+146.log                                           100     100     0       0           0           241358  
+147.log                                           100     100     0       0           0           114518  
+148.log                                           100     99      0       0           1           2148562 
+149.log                                           89      73      0       0           16          21493066
+Total files: 14990; Sat: 13648; Unsat: 0; Unsolved:1342.
+-----------------------------
+z3(b)
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+0.log                                             101     80      0       11          10          16424722
+1.log                                             100     87      0       9           4           12500999
+2.log                                             100     68      0       32          0           1738765 
+3.log                                             100     96      0       2           2           5027486 
+4.log                                             100     94      0       5           1           5182404 
+5.log                                             100     83      0       14          3           7126587 
+6.log                                             100     90      0       10          0           1979765 
+7.log                                             100     63      0       6           31          41763933
+8.log                                             100     54      0       46          0           3347663 
+9.log                                             100     59      0       38          3           7335429 
+10.log                                            100     83      0       3           14          22581309
+11.log                                            100     48      0       48          4           5916059 
+12.log                                            100     0       0       100         0           5053    
+13.log                                            100     0       0       100         0           5106    
+14.log                                            100     0       0       100         0           5129    
+15.log                                            100     0       0       100         0           7786    
+16.log                                            100     0       0       100         0           5107    
+17.log                                            100     0       0       100         0           5139    
+18.log                                            100     0       0       100         0           7148    
+19.log                                            100     0       0       100         0           5023    
+20.log                                            100     0       0       100         0           4990    
+21.log                                            100     0       0       100         0           5270    
+22.log                                            100     0       0       100         0           7327    
+23.log                                            100     0       0       100         0           5253    
+24.log                                            100     0       0       100         0           5086    
+25.log                                            100     0       0       100         0           8817    
+26.log                                            100     0       0       100         0           4946    
+27.log                                            100     0       0       100         0           5286    
+28.log                                            100     0       0       100         0           5113    
+29.log                                            100     0       0       100         0           11382   
+30.log                                            100     0       0       100         0           7236    
+31.log                                            100     0       0       100         0           5120    
+32.log                                            100     0       0       100         0           5268    
+33.log                                            100     0       0       100         0           5321    
+34.log                                            100     0       0       100         0           7262    
+35.log                                            100     0       0       100         0           7905    
+36.log                                            100     0       0       100         0           4851    
+37.log                                            100     1       0       99          0           19673   
+38.log                                            100     31      0       69          0           506831  
+39.log                                            100     56      0       44          0           2851633 
+40.log                                            100     98      0       2           0           5141474 
+41.log                                            100     67      0       33          0           3361756 
+42.log                                            100     72      0       28          0           4038850 
+43.log                                            100     98      0       2           0           5221406 
+44.log                                            100     70      0       30          0           4713685 
+45.log                                            100     69      0       31          0           3615709 
+46.log                                            100     88      0       12          0           6771364 
+47.log                                            100     78      0       22          0           7261158 
+48.log                                            100     74      0       26          0           3794469 
+49.log                                            100     83      0       17          0           5631685 
+50.log                                            100     100     0       0           0           8886342 
+51.log                                            100     62      0       36          2           9572857 
+52.log                                            100     71      0       15          14          22181369
+53.log                                            100     70      0       28          2           6655985 
+54.log                                            100     39      0       59          2           6061010 
+55.log                                            100     81      0       13          6           11842231
+56.log                                            100     82      0       13          5           13245896
+57.log                                            100     79      0       20          1           4301959 
+58.log                                            100     6       0       93          1           1489830 
+59.log                                            100     3       0       97          0           121631  
+60.log                                            100     34      0       66          0           385497  
+61.log                                            100     90      0       2           8           13490662
+62.log                                            100     58      0       38          4           5816665 
+63.log                                            100     100     0       0           0           656369  
+64.log                                            100     93      0       6           1           4182961 
+65.log                                            100     100     0       0           0           2261275 
+66.log                                            100     100     0       0           0           910294  
+67.log                                            100     100     0       0           0           320318  
+68.log                                            100     100     0       0           0           512322  
+69.log                                            100     100     0       0           0           418107  
+70.log                                            100     100     0       0           0           528123  
+71.log                                            100     91      0       8           1           1654667 
+72.log                                            100     40      0       60          0           2454534 
+73.log                                            100     18      0       79          3           6134938 
+74.log                                            100     24      0       76          0           266423  
+75.log                                            100     86      0       12          2           10740519
+76.log                                            100     93      0       1           6           18450820
+77.log                                            100     48      0       49          3           10264487
+78.log                                            100     48      0       52          0           2437030 
+79.log                                            100     64      0       36          0           3492713 
+80.log                                            100     32      0       68          0           1029101 
+81.log                                            100     82      0       15          3           9158237 
+82.log                                            100     53      0       45          2           4225300 
+83.log                                            100     39      0       59          2           5389403 
+84.log                                            100     57      0       43          0           1436379 
+85.log                                            100     21      0       79          0           1445797 
+86.log                                            100     75      0       25          0           2496910 
+87.log                                            100     100     0       0           0           1068188 
+88.log                                            100     80      0       20          0           2507911 
+89.log                                            100     96      0       4           0           1822422 
+90.log                                            100     100     0       0           0           1174089 
+91.log                                            100     82      0       17          1           2260514 
+92.log                                            100     93      0       7           0           2256323 
+93.log                                            100     100     0       0           0           1628760 
+94.log                                            100     100     0       0           0           2047587 
+95.log                                            100     73      0       26          1           2156642 
+96.log                                            100     73      0       27          0           1631434 
+97.log                                            100     80      0       20          0           3459431 
+98.log                                            100     97      0       3           0           5621394 
+99.log                                            100     78      0       18          4           7061072 
+100.log                                           100     42      0       57          1           2816404 
+101.log                                           100     3       0       97          0           166168  
+102.log                                           100     72      0       23          5           9856501 
+103.log                                           100     59      0       38          3           7752588 
+104.log                                           100     3       0       97          0           54578   
+105.log                                           100     10      0       90          0           477112  
+106.log                                           100     7       0       93          0           985103  
+107.log                                           100     5       0       95          0           1129031 
+108.log                                           100     1       0       99          0           19257   
+109.log                                           100     7       0       93          0           996304  
+110.log                                           100     7       0       93          0           102697  
+111.log                                           100     17      0       83          0           1571218 
+112.log                                           100     14      0       85          1           5322784 
+113.log                                           100     50      0       50          0           4015453 
+114.log                                           100     32      0       68          0           1862755 
+115.log                                           100     14      0       86          0           1240604 
+116.log                                           100     21      0       79          0           2060524 
+117.log                                           100     13      0       87          0           410852  
+118.log                                           100     13      0       87          0           896871  
+119.log                                           100     3       0       97          0           99152   
+120.log                                           100     19      0       81          0           1043908 
+121.log                                           100     7       0       93          0           102405  
+122.log                                           100     34      0       66          0           75858   
+123.log                                           100     84      0       16          0           556146  
+124.log                                           100     85      0       15          0           2697109 
+125.log                                           100     89      0       11          0           3848238 
+126.log                                           100     87      0       13          0           9373274 
+127.log                                           100     85      0       11          4           18629852
+128.log                                           100     84      0       13          3           19580635
+129.log                                           100     83      0       15          2           21594304
+130.log                                           100     81      0       17          2           7734686 
+131.log                                           100     100     0       0           0           422305  
+132.log                                           100     98      0       2           0           353914  
+133.log                                           100     97      0       3           0           328099  
+134.log                                           100     96      0       4           0           172574  
+135.log                                           100     99      0       1           0           196613  
+136.log                                           100     95      0       5           0           188636  
+137.log                                           100     98      0       2           0           219264  
+138.log                                           100     99      0       1           0           215937  
+139.log                                           100     98      0       2           0           353328  
+140.log                                           100     99      0       1           0           308035  
+141.log                                           100     98      0       2           0           189123  
+142.log                                           100     97      0       3           0           237299  
+143.log                                           100     98      0       2           0           334823  
+144.log                                           100     99      0       1           0           342006  
+145.log                                           100     99      0       1           0           386701  
+146.log                                           100     98      0       2           0           328441  
+147.log                                           100     79      0       21          0           106132  
+148.log                                           100     99      0       0           1           1914833 
+149.log                                           89      60      0       29          0           2053151 
+Total files: 14990; Sat: 8318; Unsat: 0; Unsolved:6672.
+-----------------------------
+mathsat
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+0.log                                             101     68      0       0           33          42871602
+1.log                                             100     88      0       0           12          16623319
+2.log                                             100     50      0       0           50          65119168
+3.log                                             100     92      0       0           8           15675825
+4.log                                             100     97      0       0           3           7239298 
+5.log                                             100     85      0       0           15          23668381
+6.log                                             100     87      0       0           13          18065684
+7.log                                             100     92      0       0           8           14502398
+8.log                                             100     82      0       0           18          31392694
+9.log                                             100     60      0       0           40          53582123
+10.log                                            100     89      0       0           11          18259197
+11.log                                            100     75      0       0           25          36086560
+12.log                                            100     91      0       0           9           23818334
+13.log                                            100     80      0       0           20          31829967
+14.log                                            100     87      0       0           13          25790747
+15.log                                            100     89      0       0           11          25849740
+16.log                                            100     85      0       0           15          30367985
+17.log                                            100     85      0       0           15          27749227
+18.log                                            100     77      0       0           23          36115676
+19.log                                            100     91      0       0           9           25973344
+20.log                                            100     84      0       0           16          29644236
+21.log                                            100     84      0       0           16          29095680
+22.log                                            100     86      0       0           14          28501161
+23.log                                            100     88      0       0           12          24737687
+24.log                                            100     86      0       0           14          24456455
+25.log                                            100     86      0       0           14          30521161
+26.log                                            100     81      0       0           19          35591021
+27.log                                            100     74      0       0           26          45597687
+28.log                                            100     79      0       0           21          34250000
+29.log                                            100     83      0       0           17          31166297
+30.log                                            100     76      0       0           24          38352526
+31.log                                            100     85      0       0           15          29419513
+32.log                                            100     86      0       0           14          25734210
+33.log                                            100     80      0       0           20          35831924
+34.log                                            100     86      0       0           14          26024872
+35.log                                            100     84      0       0           16          31003315
+36.log                                            100     86      0       0           14          27196878
+37.log                                            100     87      0       0           13          26257519
+38.log                                            100     83      0       0           17          27596412
+39.log                                            100     87      0       0           13          21639412
+40.log                                            100     99      0       0           1           2292268 
+41.log                                            100     100     0       0           0           5010470 
+42.log                                            100     96      0       0           4           10273724
+43.log                                            100     100     0       0           0           1118734 
+44.log                                            100     100     0       0           0           5982619 
+45.log                                            100     100     0       0           0           4396728 
+46.log                                            100     98      0       0           2           4361089 
+47.log                                            100     100     0       0           0           5385325 
+48.log                                            100     100     0       0           0           4964474 
+49.log                                            100     99      0       0           1           3464875 
+50.log                                            100     100     0       0           0           1043285 
+51.log                                            100     53      0       0           47          61334591
+52.log                                            100     62      0       0           38          51593516
+53.log                                            100     75      0       0           25          37048162
+54.log                                            100     45      0       0           55          71756721
+55.log                                            100     66      0       0           34          44630145
+56.log                                            100     78      0       0           22          33250988
+57.log                                            100     87      0       0           13          20065007
+58.log                                            100     39      0       0           61          81565526
+59.log                                            100     40      0       0           60          81723530
+60.log                                            100     65      0       0           35          51487708
+61.log                                            100     91      0       0           9           16061729
+62.log                                            100     62      0       0           38          50085577
+63.log                                            100     100     0       0           0           2517219 
+64.log                                            100     88      0       0           12          18906616
+65.log                                            100     97      0       0           3           3775998 
+66.log                                            100     100     0       0           0           358910  
+67.log                                            100     100     0       0           0           272908  
+68.log                                            100     100     0       0           0           956585  
+69.log                                            100     99      0       0           1           1697508 
+70.log                                            100     100     0       0           0           452506  
+71.log                                            100     91      0       0           9           11460387
+72.log                                            100     43      0       0           57          74901491
+73.log                                            100     53      0       0           47          69296891
+74.log                                            100     44      0       0           56          77087712
+75.log                                            100     37      0       0           63          81521217
+76.log                                            100     23      0       0           77          98189177
+77.log                                            100     28      0       0           72          91422541
+78.log                                            100     48      0       0           52          66992318
+79.log                                            100     56      0       0           44          57792712
+80.log                                            100     65      0       0           35          53561686
+81.log                                            100     85      0       0           15          25069159
+82.log                                            100     68      0       0           32          45163113
+83.log                                            100     59      0       0           41          56148094
+84.log                                            100     67      0       0           33          43375733
+85.log                                            100     58      0       0           42          54496996
+86.log                                            100     73      0       0           27          34870481
+87.log                                            100     100     0       0           0           1459890 
+88.log                                            100     93      0       0           7           17516509
+89.log                                            100     97      0       0           3           5556521 
+90.log                                            100     100     0       0           0           1980487 
+91.log                                            100     96      0       0           4           15370269
+92.log                                            100     94      0       0           6           8822898 
+93.log                                            100     100     0       0           0           1601899 
+94.log                                            100     100     0       0           0           2541795 
+95.log                                            100     83      0       0           17          28077854
+96.log                                            100     84      0       0           16          29867856
+97.log                                            100     76      0       0           24          37345599
+98.log                                            100     90      0       0           10          17384873
+99.log                                            100     81      0       0           19          28463911
+100.log                                           100     56      0       0           44          60066337
+101.log                                           100     36      0       0           64          83032555
+102.log                                           100     65      0       0           35          45875752
+103.log                                           100     80      0       0           20          29133438
+104.log                                           100     93      0       0           7           15704806
+105.log                                           100     95      0       0           5           6484602 
+106.log                                           100     99      0       0           1           1575798 
+107.log                                           100     100     0       0           0           675693  
+108.log                                           100     99      0       0           1           2295506 
+109.log                                           100     98      0       0           2           6820383 
+110.log                                           100     100     0       0           0           5417291 
+111.log                                           100     98      0       0           2           4107255 
+112.log                                           100     100     0       0           0           727517  
+113.log                                           100     100     0       0           0           283966  
+114.log                                           100     100     0       0           0           69784   
+115.log                                           100     100     0       0           0           2887984 
+116.log                                           100     77      0       0           23          31765835
+117.log                                           100     98      0       0           2           6903742 
+118.log                                           100     76      0       0           24          41715268
+119.log                                           100     100     0       0           0           3447927 
+120.log                                           100     100     0       0           0           213016  
+121.log                                           100     98      0       0           2           2564652 
+122.log                                           100     39      0       0           61          74305493
+123.log                                           100     41      0       0           59          77570377
+124.log                                           100     21      0       0           79          97978627
+125.log                                           100     24      0       0           76          93894238
+126.log                                           100     24      0       0           76          95176997
+127.log                                           100     14      0       0           86          107682951
+128.log                                           100     21      0       0           79          97937242
+129.log                                           100     15      0       0           85          104375189
+130.log                                           100     64      0       0           36          43635337
+131.log                                           100     100     0       0           0           2916568 
+132.log                                           100     100     0       0           0           2391631 
+133.log                                           100     99      0       0           1           1628654 
+134.log                                           100     99      0       0           1           3131214 
+135.log                                           100     97      0       0           3           5498738 
+136.log                                           100     98      0       0           2           3310383 
+137.log                                           100     99      0       0           1           4369149 
+138.log                                           100     99      0       0           1           3442672 
+139.log                                           100     98      0       0           2           3791657 
+140.log                                           100     99      0       0           1           3531972 
+141.log                                           100     99      0       0           1           2691249 
+142.log                                           100     97      0       0           3           5428402 
+143.log                                           100     99      0       0           1           3796267 
+144.log                                           100     100     0       0           0           2531747 
+145.log                                           100     95      0       0           5           8531582 
+146.log                                           100     100     0       0           0           622297  
+147.log                                           100     96      0       0           4           4919923 
+148.log                                           100     78      0       0           22          27548490
+149.log                                           89      64      0       0           25          36922574
+Total files: 14990; Sat: 12099; Unsat: 0; Unsolved:2891.
+-----------------------------
+aprove
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+0.log                                             101     71      0       0           30          39517506
+1.log                                             100     68      0       0           32          47013161
+2.log                                             100     77      0       0           23          30481427
+3.log                                             100     95      0       0           5           6339977 
+4.log                                             100     100     0       0           0           333958  
+5.log                                             100     78      0       0           22          29644400
+6.log                                             100     80      0       0           20          29369711
+7.log                                             100     73      0       0           27          34070411
+8.log                                             100     64      0       0           36          45724939
+9.log                                             100     70      0       0           30          42304740
+10.log                                            100     78      0       0           22          33819811
+11.log                                            100     73      0       0           27          41591692
+12.log                                            100     56      0       0           44          65163990
+13.log                                            100     61      0       0           39          65260163
+14.log                                            100     55      0       0           45          66879858
+15.log                                            100     62      0       0           38          62854070
+16.log                                            100     65      0       0           35          55585945
+17.log                                            100     66      0       0           34          58806054
+18.log                                            100     62      0       0           38          56853242
+19.log                                            100     63      0       0           37          57976116
+20.log                                            100     61      0       0           39          63073387
+21.log                                            100     56      0       0           44          63506106
+22.log                                            100     61      0       0           39          61896117
+23.log                                            100     59      0       0           41          67133811
+24.log                                            100     60      0       0           40          56598664
+25.log                                            100     55      0       0           45          70315792
+26.log                                            100     61      0       0           39          56880295
+27.log                                            100     62      0       0           38          58180445
+28.log                                            100     70      0       0           30          45763324
+29.log                                            100     56      0       0           44          67117610
+30.log                                            100     56      0       0           44          60169688
+31.log                                            100     48      0       0           52          74192769
+32.log                                            100     30      0       0           70          100135384
+33.log                                            100     42      0       0           58          78268564
+34.log                                            100     57      0       0           43          61916883
+35.log                                            100     66      0       0           34          54173418
+36.log                                            100     65      0       0           35          56533187
+37.log                                            100     51      0       0           49          77234327
+38.log                                            100     30      0       0           70          95332162
+39.log                                            100     51      0       0           49          61354922
+40.log                                            100     8       0       0           92          119336864
+41.log                                            100     18      0       0           82          108559732
+42.log                                            100     60      0       0           40          53292924
+43.log                                            100     14      0       0           86          114765427
+44.log                                            100     12      0       0           88          117311355
+45.log                                            100     24      0       0           76          101334186
+46.log                                            100     58      0       0           42          57638546
+47.log                                            100     5       0       0           95          121869349
+48.log                                            100     32      0       0           68          95332175
+49.log                                            100     64      0       0           36          49246971
+50.log                                            100     14      0       0           86          107840902
+51.log                                            100     56      0       0           44          57690239
+52.log                                            100     64      0       0           36          46648235
+53.log                                            100     59      0       0           41          54532489
+54.log                                            100     52      0       0           48          64302388
+55.log                                            100     85      0       0           15          20625977
+56.log                                            100     83      0       0           17          21771242
+57.log                                            100     65      0       0           35          45621457
+58.log                                            100     89      0       0           11          17208922
+59.log                                            100     96      0       0           4           5770082 
+60.log                                            100     57      0       0           43          53474056
+61.log                                            100     65      0       0           35          45713260
+62.log                                            100     75      0       0           25          31811222
+63.log                                            100     96      0       0           4           5508552 
+64.log                                            100     88      0       0           12          16243929
+65.log                                            100     89      0       0           11          20540952
+66.log                                            100     98      0       0           2           6859261 
+67.log                                            100     100     0       0           0           105654  
+68.log                                            100     100     0       0           0           184244  
+69.log                                            100     100     0       0           0           122656  
+70.log                                            100     100     0       0           0           174046  
+71.log                                            100     92      0       0           8           10237392
+72.log                                            100     66      0       0           34          47107717
+73.log                                            100     26      0       0           74          98117971
+74.log                                            100     36      0       0           64          91071915
+75.log                                            100     86      0       0           14          20900559
+76.log                                            100     92      0       0           8           17755741
+77.log                                            100     65      0       0           35          54894278
+78.log                                            100     63      0       0           37          54908228
+79.log                                            100     94      0       0           6           7822051 
+80.log                                            100     93      0       0           7           9674220 
+81.log                                            100     64      0       0           36          46515760
+82.log                                            100     62      0       0           38          50416102
+83.log                                            100     63      0       0           37          47941913
+84.log                                            100     72      0       0           28          34463722
+85.log                                            100     83      0       0           17          26381536
+86.log                                            100     84      0       0           16          23442138
+87.log                                            100     99      0       0           1           3048221 
+88.log                                            100     89      0       0           11          18871873
+89.log                                            100     97      0       0           3           6481236 
+90.log                                            100     99      0       0           1           2476073 
+91.log                                            100     87      0       0           13          22242887
+92.log                                            100     95      0       0           5           8570836 
+93.log                                            100     98      0       0           2           4396530 
+94.log                                            100     96      0       0           4           8363142 
+95.log                                            100     85      0       0           15          23386903
+96.log                                            100     76      0       0           24          32002700
+97.log                                            100     71      0       0           29          43196968
+98.log                                            100     90      0       0           10          13892924
+99.log                                            100     61      0       0           39          47719525
+100.log                                           100     73      0       0           27          38722763
+101.log                                           100     25      0       0           75          116884297
+102.log                                           100     76      0       0           24          33559676
+103.log                                           100     60      0       0           40          51917909
+104.log                                           100     0       0       0           100         140656135
+105.log                                           100     0       0       0           100         140656171
+106.log                                           100     0       0       0           100         140301133
+107.log                                           100     0       0       0           100         140301091
+108.log                                           100     0       0       0           100         140301146
+109.log                                           100     0       0       0           100         140301078
+110.log                                           100     0       0       0           100         140301103
+111.log                                           100     0       0       0           100         140301087
+112.log                                           100     0       0       0           100         140301047
+113.log                                           100     0       0       0           100         128197926
+114.log                                           100     0       0       0           100         128197989
+115.log                                           100     0       0       0           100         128197927
+116.log                                           100     0       0       0           100         128197915
+117.log                                           100     0       0       0           100         128197972
+118.log                                           100     0       0       0           100         128197964
+119.log                                           100     0       0       0           100         128198009
+120.log                                           100     0       0       0           100         128197995
+121.log                                           100     0       0       0           100         128197992
+122.log                                           100     34      0       45          21          25239645
+123.log                                           100     86      0       0           14          17781744
+124.log                                           100     85      0       0           15          19325078
+125.log                                           100     88      0       0           12          17421021
+126.log                                           100     87      0       0           13          16530518
+127.log                                           100     81      0       0           19          24672342
+128.log                                           100     80      0       0           20          24372391
+129.log                                           100     79      0       0           21          27737046
+130.log                                           100     82      0       12          6           7256429 
+131.log                                           100     100     0       0           0           66905   
+132.log                                           100     100     0       0           0           68051   
+133.log                                           100     100     0       0           0           65714   
+134.log                                           100     100     0       0           0           66915   
+135.log                                           100     100     0       0           0           67563   
+136.log                                           100     100     0       0           0           68654   
+137.log                                           100     100     0       0           0           68099   
+138.log                                           100     100     0       0           0           67501   
+139.log                                           100     100     0       0           0           67456   
+140.log                                           100     100     0       0           0           68832   
+141.log                                           100     100     0       0           0           68981   
+142.log                                           100     100     0       0           0           74401   
+143.log                                           100     100     0       0           0           73194   
+144.log                                           100     100     0       0           0           72276   
+145.log                                           100     100     0       0           0           73685   
+146.log                                           100     100     0       0           0           70591   
+147.log                                           100     96      0       0           4           6320292 
+148.log                                           100     99      0       0           1           2412066 
+149.log                                           89      60      0       29          0           64263   
+Total files: 14990; Sat: 9515; Unsat: 0; Unsolved:5475.
+-----------------------------

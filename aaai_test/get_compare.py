@@ -95,6 +95,10 @@ def get_data(dir1, dir2, label):
                 if val2[0] not in diff:
                     diff.append(val2[0])
                 times2[0].append(int(val1[-1])/1000)
+                times2[1].append(1200)
+        elif val1[0] == "None":
+            if val2[0] == "sat":
+                times2[0].append(1200)
                 times2[1].append(int(val2[-1])/1000)
                 
     print(diff)
