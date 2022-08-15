@@ -1,10 +1,9 @@
 from cProfile import label
 import matplotlib.pyplot as plt
 import numpy as np
-from classify import classify
 
 from get_data import get_data
-from select_sat import get_sat, select
+from select_sat import get_sat, select, classify
 
 instances_aprove = []
 time_aprove = []
@@ -25,13 +24,13 @@ def get_graph_sat(category='none'):
     
     # 生成数据
     if category == 'none':
-        instances_aprove, time_aprove = get_data('./aprove_sat/', 'SAT_Split_100')
-        instances_cvc5, time_cvc5 = get_data('./cvc5_sat/', 'SAT_Split_100')
-        instances_ours, time_ours = get_data('./hhh_sat/', 'SAT_Split_100')
-        instances_yices, time_yices = get_data('./yices2_sat/', 'SAT_Split_100')
-        instances_z3, time_z3 = get_data('./z3_sat/', 'SAT_Split_100')
-        instances_cvc5b, time_cvc5b = get_data('./mathsat_sat/', 'SAT_Split_100')
-        instances_z3b, time_z3b = get_data('./z3(b)_sat/', 'SAT_Split_100')
+        instances_aprove, time_aprove = get_data('./aprove_sat_classify/', 'SAT_Split_100')
+        instances_cvc5, time_cvc5 = get_data('./cvc5_sat_classify/', 'SAT_Split_100')
+        instances_ours, time_ours = get_data('./hhh_sat_classify/', 'SAT_Split_100')
+        instances_yices, time_yices = get_data('./yices2_sat_classify/', 'SAT_Split_100')
+        instances_z3, time_z3 = get_data('./z3_sat_classify/', 'SAT_Split_100')
+        instances_cvc5b, time_cvc5b = get_data('./mathsat_sat_classify/', 'SAT_Split_100')
+        instances_z3b, time_z3b = get_data('./z3(b)_sat_classify/', 'SAT_Split_100')
         print('time_aprove  : ', time_aprove[-1])
         print('time_cvc5    : ', time_cvc5[-1])
         print('time_hhh     : ', time_ours[-1])
@@ -66,41 +65,41 @@ def get_graph_sat(category='none'):
         plt.savefig('result/experiments_sat.pdf')
     else:
         plt.savefig('result/experiments_sat_' + category + '.pdf')
-    plt.show()
-    # plt.close()
+    # plt.show()
+    plt.close()
 
-# get_sat()
-# get_sat(path='cvc5')
-# get_sat(path='z3')
-# get_sat(path='mathsat')
-# get_sat(path='z3(b)')
-# get_sat(path='yices2')
-# get_sat(path='aprove')
+get_sat()
+get_sat(path='cvc5')
+get_sat(path='z3')
+get_sat(path='mathsat')
+get_sat(path='z3(b)')
+get_sat(path='yices2')
+get_sat(path='aprove')
 
-# select()
-# select(path='cvc5')
-# select(path='z3')
-# select(path='mathsat')
-# select(path='z3(b)')
-# select(path='yices2')
-# select(path='aprove')
+select()
+select(path='cvc5')
+select(path='z3')
+select(path='mathsat')
+select(path='z3(b)')
+select(path='yices2')
+select(path='aprove')
 
-# classify('hhh_sat')
-# classify('z3_sat')
-# classify('z3(b)_sat')
-# classify('cvc5_sat')
-# classify('aprove_sat')
-# classify('yices2_sat')
-# classify('mathsat_sat')
+classify('hhh_sat', 'none', 'none')
+classify('z3_sat', 'none', 'none')
+classify('z3(b)_sat', 'none', 'none')
+classify('cvc5_sat', 'none', 'none')
+classify('aprove_sat', 'none', 'none')
+classify('yices2_sat', 'none', 'none')
+classify('mathsat_sat', 'none', 'none')
 
 get_graph_sat()
-# get_graph_sat('AProVE')
-# get_graph_sat('calypto')
-# get_graph_sat('Dartagnan')
-# get_graph_sat('LassoRanker')
-# get_graph_sat('leipzig')
-# get_graph_sat('mcm')
-# get_graph_sat('CInteger')
-# get_graph_sat('ITS')
-# get_graph_sat('SAT14')
-# get_graph_sat('MathProblems')
+get_graph_sat('AProVE')
+get_graph_sat('calypto')
+get_graph_sat('Dartagnan')
+get_graph_sat('LassoRanker')
+get_graph_sat('leipzig')
+get_graph_sat('mcm')
+get_graph_sat('CInteger')
+get_graph_sat('ITS')
+get_graph_sat('SAT14')
+get_graph_sat('MathProblems')

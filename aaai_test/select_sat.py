@@ -1,12 +1,121 @@
 import os
 import shutil
 
+
+# 分类的函数
+def classify(path='', max_time='none', min_time='none'):
+    if max_time == 'none':
+        target_path = path
+        max_time = 10000000
+    else:
+        target_path = path + '_max' + max_time
+        max_time = int(max_time)*1000
+    if min_time == 'none':
+        min_time = 0
+    else:
+        target_path = target_path + '_min' + min_time
+        min_time = int(max_time)*1000
+    target_path = target_path + '_classify'
+    if not os.path.exists(target_path):
+        os.makedirs(target_path)
+    elif os.path.exists(target_path):
+        shutil.rmtree(target_path)
+        # return
+        os.makedirs(target_path)
+    # shutil.copytree(path, target_path)
+    # os.makedirs(target_path + '')
+    file = open(target_path + '/AProVE.log','w')
+    file.close()
+    file = open(target_path + '/calypto.log','w')
+    file.close()
+    file = open(target_path + '/Dartagnan.log','w')
+    file.close() 
+    file = open(target_path + '/LassoRanker.log','w')
+    file.close() 
+    file = open(target_path + '/leipzig.log','w')
+    file.close() 
+    file = open(target_path + '/mcm.log','w')
+    file.close() 
+    file = open(target_path + '/CInteger.log','w')
+    file.close()
+    file = open(target_path + '/ITS.log','w')
+    file.close() 
+    file = open(target_path + '/SAT14.log','w')
+    file.close() 
+    file = open(target_path + '/MathProblems.log','w')
+    file.close() 
+
+    # os.makedirs(target_path + '/aprove')
+    # os.makedirs(target_path + '/calypto')
+    # os.makedirs(target_path + '/dartagnan')
+    # os.makedirs(target_path + '/lassoranker')
+    # os.makedirs(target_path + '/leipzig')
+    # os.makedirs(target_path + '/mcm')
+    # os.makedirs(target_path + '/cinteger_its_sat14')
+    # os.makedirs(target_path + '/mathproblems')
+    
+    file_list = os.listdir(path)
+    for file in file_list:
+        new_path = os.path.join(path, file)
+        if not os.path.isdir(new_path):
+            with open(new_path) as f:
+                lines = f.readlines()
+                info = []
+                for line in lines:
+                    if 'SAT_Split_100' not in line:
+                        info.append(line)
+                    else:
+                        info.append(line)
+                        run_time = int(line.split(' : ')[1][:-4])
+                        if "AProVE" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/AProVE.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "calypto" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/calypto.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "Dartagnan" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/Dartagnan.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "LassoRanker" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/LassoRanker.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "leipzig" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/leipzig.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "mcm" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/mcm.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "CInteger" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/CInteger.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "ITS" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/ITS.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "SAT14" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/SAT14.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        elif "MathProblems" in line and run_time <= max_time and run_time >= min_time:
+                            with open(target_path + '/MathProblems.log',"a") as f:
+                                for i in info:
+                                    f.write(i)
+                        info.clear()
+
+# 获取全都解出来的例子
 def get_sat(path='hhh'):
     if os.path.exists('error.log'):
         os.remove('error.log')
     
     file_list = os.listdir(path)
-    if path == 'diffc/4':
+    if path == 'hhh':
         for file in file_list:
             new_path = os.path.join(path, file)
             with open(new_path) as f:

@@ -9,9 +9,9 @@ from get_compare import get_data
 def get_compare(a, b, category='none', type='log'):
     # 生成数据
     if category == 'none':
-        times, times2= get_data('./'+a+'_classify/', './'+b+'_classify/', 'SAT_Split_100')
+        times, times2= get_data('./'+a+'/', './'+b+'/', 'SAT_Split_100')
     else:
-        times, times2= get_data('./'+a+'_classify/'+category+'.log', './'+b+'_classify/'+category+'.log', 'SAT_Split_100')
+        times, times2= get_data('./'+a+'/'+category+'.log', './'+b+'/'+category+'.log', 'SAT_Split_100')
 
     # 生成图形
     plt.figure(figsize=(8, 8))
@@ -25,8 +25,8 @@ def get_compare(a, b, category='none', type='log'):
     plt.xlabel(a.upper() + ' (s)') # 横坐标轴的标题
     plt.ylabel(b.upper() + ' (s)') # 纵坐标轴的标题
 
-    plt.xlim(0, 1400)
-    plt.ylim(0, 1400)
+    plt.xlim(0, 1300)
+    plt.ylim(0, 1300)
     
     # ax = plt.gca()
     # ax.set_xticks = [10, 20, 30]
@@ -40,14 +40,14 @@ def get_compare(a, b, category='none', type='log'):
     # plt.xscale("log")
     if category == 'none':
         if type == 'log':
-            plt.savefig('./result/'+a.upper() + '_' + b.upper() + '_log' +'.pdf')
+            plt.savefig('./result/'+a.upper() + '_VS_' + b.upper() + '(log)' +'.pdf')
         else:
-            plt.savefig('./result/'+a.upper() + '_' + b.upper() +'.pdf')
+            plt.savefig('./result/'+a.upper() + '_VS_' + b.upper() +'.pdf')
     else:
         if type == 'log':
-            plt.savefig('./result/'+a.upper() + '_' + b.upper() + '_' + category + '_log' +'.pdf')
+            plt.savefig('./result/'+a.upper() + '_VS_' + b.upper() + '_' + category + '(log)' +'.pdf')
         else:
-            plt.savefig('./result/'+a.upper() + '_' + b.upper() + '_' + category +'.pdf')
+            plt.savefig('./result/'+a.upper() + '_VS_' + b.upper() + '_' + category +'.pdf')
     # plt.show()
     plt.close()
     
