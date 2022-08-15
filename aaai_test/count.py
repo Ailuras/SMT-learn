@@ -19,6 +19,7 @@ _Sat = 0
 _Check_unsat = 0 
 _Unsat = 0
 _Unknown = 0
+_Time = 0
 
 dir = sys.argv[1]
 
@@ -46,16 +47,19 @@ for file in file_list:
                 elif(line.strip() == 'unknown'):
                     unknown += 1
                     _Unknown += 1
-                elif(line.find('Split_100')!=-1 or "Split_82" in line or "Split_60" in line or "SAT_Split_100" in line):
+                # elif(line.find('Split_100')!=-1 or "Split_82" in line or "Split_60" in line or "SAT_Split_100" in line):
+                elif("SAT_Split_100" in line):
                     _Total += 1
                     total += 1
                     nums = re.findall(r"\d+", line[line.rfind(':'):line.rfind('ms')])
                     if(len(nums) == 1):
                         time += int(nums[0])
-                else:
-                    nums = re.findall(r"\d+", line[line.rfind(':'):line.rfind('ms')])
-                    if(len(nums) == 1):
-                        time += int(nums[0])
+                # else:
+                #     nums = re.findall(r"\d+", line[line.rfind(':'):line.rfind('ms')])
+                #     if(len(nums) == 1):
+                #         print(line)
+                #         time += int(nums[0])
+        _Time += time
                 
         
         stats.append((file, total, sat, unsat, unknown, total-sat-unsat-unknown, time))
@@ -74,3 +78,4 @@ for s in sorted_stats:
             str(s[6]) + blank(s[6], 8)
         )
 print('Total files: %d; Sat: %d; Unsat: %d; Unsolved:%d.'%(_Total, _Sat, _Unsat,  _Total - _Sat - _Unsat))
+print('Total time: %d'%(_Time))

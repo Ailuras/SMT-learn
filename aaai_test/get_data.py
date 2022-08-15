@@ -72,13 +72,15 @@ def get_data(dir, label):
     instances.append(0)
     times.append(0)
     for item in data:
-        if(len(item) == 0):
-            continue
-        if item[1] == 'sat':
-            instances.append(instances[-1] + 1)
-        else:
-            instances.append(instances[-1])
-        times.append(times[-1]+int(item[-1])/1000)
+        # if(len(item) == 0):
+        #     continue
+        # if item[1] == 'sat':
+        #     instances.append(instances[-1] + 1)
+        # else:
+            # instances.append(instances[-1])
+        # times.append(times[-1]+int(item[-1])/1000)
+        instances.append(instances[-1]+1)
+        times.append(times[-1]+int(item[-1]))
 
     return instances, times
         

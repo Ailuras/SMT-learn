@@ -6,7 +6,7 @@ def get_sat(path='hhh'):
         os.remove('error.log')
     
     file_list = os.listdir(path)
-    if path == 'hhh':
+    if path == 'diffc/4':
         for file in file_list:
             new_path = os.path.join(path, file)
             with open(new_path) as f:
@@ -44,7 +44,7 @@ def get_sat(path='hhh'):
                     else:
                         with open('error.log',"a") as f1:
                             f1.write(new_path, info)
-    print(len(sat_list))
+    print('count: ', len(sat_list))
     # print(sat_list[0])
 
 def select(path='hhh'):
@@ -79,18 +79,30 @@ def select(path='hhh'):
     
 sat_list = []
 
-get_sat()
-get_sat(path='cvc5')
-get_sat(path='z3')
-get_sat(path='mathsat')
-get_sat(path='z3(b)')
-get_sat(path='yices2')
-get_sat(path='aprove')
+# get_sat()
+# get_sat(path='cvc5')
+# get_sat(path='z3')
+# get_sat(path='mathsat')
+# get_sat(path='z3(b)')
+# get_sat(path='yices2')
+# get_sat(path='aprove')
 
-select()
-select(path='cvc5')
-select(path='z3')
-select(path='mathsat')
-select(path='z3(b)')
-select(path='yices2')
-select(path='aprove')
+# select()
+# select(path='cvc5')
+# select(path='z3')
+# select(path='mathsat')
+# select(path='z3(b)')
+# select(path='yices2')
+# select(path='aprove')
+
+# get_sat(path='diffc/4')
+# get_sat(path='diffc/8')
+# get_sat(path='diffc/16')
+# get_sat(path='diffc/24')
+# get_sat(path='diffc/32')
+
+# select(path='diffc/4')
+# select(path='diffc/8')
+# select(path='diffc/16')
+# select(path='diffc/24')
+# select(path='diffc/32')

@@ -45,7 +45,7 @@ def get_sat(path='hhh'):
                     else:
                         with open('error.log',"a") as f1:
                             f1.write(new_path, info)
-    print(len(sat_list))
+    # print(len(sat_list))
     # print(sat_list[0])
 
 def select(path='hhh'):

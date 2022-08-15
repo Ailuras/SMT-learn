@@ -101,5 +101,5 @@ def get_data(dir1, dir2, label):
                 times2[0].append(1200)
                 times2[1].append(int(val2[-1])/1000)
                 
-    print(diff)
+    # print(diff)
     return times, times2

@@ -1,0 +1,81 @@
+-----------------------------
+4
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+ITS.log                                           4474    4474    0       0           0           184954050
+mcm.log                                           29      29      0       0           0           1885964 
+SAT14.log                                         1409    1409    0       0           0           244113134
+AProVE.log                                        6474    6474    0       0           0           208516664
+calypto.log                                       80      80      0       0           0           16161   
+leipzig.log                                       162     162     0       0           0           2068557 
+CInteger.log                                      846     846     0       0           0           25405161
+Dartagnan.log                                     7       7       0       0           0           440528  
+LassoRanker.log                                   10      10      0       0           0           22909   
+MathProblems.log                                  666     666     0       0           0           20315009
+Total files: 14157; Sat: 14157; Unsat: 0; Unsolved:0.
+Total time: 687738137
+-----------------------------
+8
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+ITS.log                                           4483    4483    0       0           0           206527487
+mcm.log                                           29      29      0       0           0           2357823 
+SAT14.log                                         1803    1803    0       0           0           224215207
+AProVE.log                                        6466    6466    0       0           0           224181863
+calypto.log                                       80      80      0       0           0           10276   
+leipzig.log                                       162     162     0       0           0           2198211 
+CInteger.log                                      844     844     0       0           0           28152093
+Dartagnan.log                                     7       7       0       0           0           407598  
+LassoRanker.log                                   10      10      0       0           0           24856   
+MathProblems.log                                  666     666     0       0           0           20710835
+Total files: 14550; Sat: 14550; Unsat: 0; Unsolved:0.
+Total time: 708786249
+-----------------------------
+16
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+ITS.log                                           4485    4485    0       0           0           185031781
+mcm.log                                           29      29      0       0           0           3121324 
+SAT14.log                                         1849    1849    0       0           0           203291683
+AProVE.log                                        6471    6471    0       0           0           196802891
+calypto.log                                       80      80      0       0           0           13395   
+leipzig.log                                       162     162     0       0           0           1849922 
+CInteger.log                                      845     845     0       0           0           24366268
+Dartagnan.log                                     7       7       0       0           0           369886  
+LassoRanker.log                                   10      10      0       0           0           21890   
+MathProblems.log                                  667     667     0       0           0           20196070
+Total files: 14605; Sat: 14605; Unsat: 0; Unsolved:0.
+Total time: 635065110
+-----------------------------
+24
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+ITS.log                                           4477    4477    0       0           0           217556334
+mcm.log                                           29      29      0       0           0           3012784 
+SAT14.log                                         1813    1813    0       0           0           291682328
+AProVE.log                                        6458    6458    0       0           0           235720020
+calypto.log                                       80      80      0       0           0           14476   
+leipzig.log                                       161     161     0       0           0           1053033 
+CInteger.log                                      843     843     0       0           0           31089250
+Dartagnan.log                                     7       7       0       0           0           384884  
+LassoRanker.log                                   10      10      0       0           0           25413   
+MathProblems.log                                  665     665     0       0           0           21590488
+Total files: 14543; Sat: 14543; Unsat: 0; Unsolved:0.
+Total time: 802129010
+-----------------------------
+32
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+ITS.log                                           4452    4452    0       0           0           223143499
+mcm.log                                           29      29      0       0           0           3232600 
+SAT14.log                                         1805    1805    0       0           0           317569954
+AProVE.log                                        6444    6444    0       0           0           249871441
+calypto.log                                       80      80      0       0           0           13075   
+leipzig.log                                       161     161     0       0           0           1044841 
+CInteger.log                                      843     843     0       0           0           34405276
+Dartagnan.log                                     7       7       0       0           0           427407  
+LassoRanker.log                                   10      10      0       0           0           29059   
+MathProblems.log                                  664     664     0       0           0           19535152
+Total files: 14495; Sat: 14495; Unsat: 0; Unsolved:0.
+Total time: 849272304
+-----------------------------
