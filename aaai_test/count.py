@@ -79,3 +79,4 @@ for s in sorted_stats:
         )
 print('Total files: %d; Sat: %d; Unsat: %d; Unsolved:%d.'%(_Total, _Sat, _Unsat,  _Total - _Sat - _Unsat))
 print('Total time: %d'%(_Time))
+print('Average time: %d'%(_Time/_Total))

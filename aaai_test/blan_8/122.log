@@ -1,0 +1,653 @@
+--------------------------------------------------
+Number of variables: 524609
+Number of clauses: 3561259
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/985.smt2 : 1200090 ms.
+--------------------------------------------------
+Number of variables: 532597
+Number of clauses: 3617891
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/986.smt2 : 1200072 ms.
+--------------------------------------------------
+Number of variables: 539112
+Number of clauses: 3663981
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/987.smt2 : 1200063 ms.
+--------------------------------------------------
+Number of variables: 546920
+Number of clauses: 3719823
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/988.smt2 : 1200076 ms.
+--------------------------------------------------
+Number of variables: 553350
+Number of clauses: 3765917
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/989.smt2 : 1200074 ms.
+--------------------------------------------------
+Number of variables: 561204
+Number of clauses: 3822446
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/990.smt2 : 1200067 ms.
+--------------------------------------------------
+Number of variables: 569801
+Number of clauses: 3883498
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/991.smt2 : 1200088 ms.
+--------------------------------------------------
+Number of variables: 578137
+Number of clauses: 3942676
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/992.smt2 : 1200077 ms.
+--------------------------------------------------
+Number of variables: 585038
+Number of clauses: 3991666
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/993.smt2 : 1200071 ms.
+--------------------------------------------------
+Number of variables: 592108
+Number of clauses: 4041968
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/994.smt2 : 1200073 ms.
+--------------------------------------------------
+Number of variables: 598803
+Number of clauses: 4090071
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/995.smt2 : 1200074 ms.
+--------------------------------------------------
+Number of variables: 605374
+Number of clauses: 4137344
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/996.smt2 : 1200076 ms.
+--------------------------------------------------
+Number of variables: 612999
+Number of clauses: 4192610
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/997.smt2 : 1200072 ms.
+--------------------------------------------------
+Number of variables: 620956
+Number of clauses: 4250178
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/998.smt2 : 1200089 ms.
+--------------------------------------------------
+Number of variables: 629357
+Number of clauses: 4310441
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/999.smt2 : 1200081 ms.
+--------------------------------------------------
+Number of variables: 161423
+Number of clauses: 1058840
+Number of variables: 222103
+Number of clauses: 1428792
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20170427-VeryMax/SAT14/99.smt2 : 78195 ms.
+--------------------------------------------------
+Number of variables: 1572241
+Number of clauses: 7279445
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/array-2-O0.smt2 : 360246 ms.
+--------------------------------------------------
+Number of variables: 187304
+Number of clauses: 853101
+Number of variables: 312542
+Number of clauses: 1486599
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound1-O0.smt2 : 12169 ms.
+--------------------------------------------------
+Number of variables: 187304
+Number of clauses: 853101
+Number of variables: 312542
+Number of clauses: 1486599
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound2-O0.smt2 : 23107 ms.
+--------------------------------------------------
+Number of variables: 135490
+Number of clauses: 619175
+Number of variables: 229264
+Number of clauses: 1100417
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound1-O0.smt2 : 21210 ms.
+--------------------------------------------------
+Number of variables: 135490
+Number of clauses: 619175
+Number of variables: 229264
+Number of clauses: 1100417
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound2-O0.smt2 : 17655 ms.
+--------------------------------------------------
+Number of variables: 84875
+Number of clauses: 374196
+Number of variables: 141185
+Number of clauses: 645253
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/id_trans-O0.smt2 : 2461 ms.
+--------------------------------------------------
+Number of variables: 183739
+Number of clauses: 833559
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20210219-Dartagnan/ReachSafety-Loops/nec11-O0.smt2 : 2376 ms.
+--------------------------------------------------
+Number of variables: 70242
+Number of clauses: 361993
+Number of variables: 201735
+Number of clauses: 1105831
+Number of variables: 671109
+Number of clauses: 3831835
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_07.smt2 : 1200069 ms.
+--------------------------------------------------
+Number of variables: 96154
+Number of clauses: 493345
+Number of variables: 270748
+Number of clauses: 1479193
+Number of variables: 889504
+Number of clauses: 5068297
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_08.smt2 : 1200062 ms.
+--------------------------------------------------
+Number of variables: 157628
+Number of clauses: 817709
+Number of variables: 453378
+Number of clauses: 2496365
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_09.smt2 : 1200052 ms.
+--------------------------------------------------
+Number of variables: 204257
+Number of clauses: 1054571
+Number of variables: 575992
+Number of clauses: 3160101
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_10.smt2 : 1200060 ms.
+--------------------------------------------------
+Number of variables: 260052
+Number of clauses: 1336133
+Number of variables: 718706
+Number of clauses: 3928149
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_11.smt2 : 1200061 ms.
+--------------------------------------------------
+Number of variables: 389064
+Number of clauses: 2016125
+Number of variables: 1093472
+Number of clauses: 6011933
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MC_12.smt2 : 1200102 ms.
+--------------------------------------------------
+Number of variables: 8184
+Number of clauses: 41089
+Number of variables: 22230
+Number of clauses: 119137
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_04.smt2 : 1200014 ms.
+--------------------------------------------------
+Number of variables: 13826
+Number of clauses: 69186
+Number of variables: 36428
+Number of clauses: 194496
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_05.smt2 : 1200017 ms.
+--------------------------------------------------
+Number of variables: 21738
+Number of clauses: 108253
+Number of variables: 55452
+Number of clauses: 294601
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_06.smt2 : 1200017 ms.
+--------------------------------------------------
+Number of variables: 32526
+Number of clauses: 161086
+Number of variables: 80304
+Number of clauses: 424228
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_07.smt2 : 1200023 ms.
+--------------------------------------------------
+Number of variables: 46904
+Number of clauses: 230973
+Number of variables: 112166
+Number of clauses: 589005
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_08.smt2 : 1200017 ms.
+--------------------------------------------------
+Number of variables: 77715
+Number of clauses: 386067
+Number of variables: 189078
+Number of clauses: 999974
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_09.smt2 : 1200031 ms.
+--------------------------------------------------
+Number of variables: 105613
+Number of clauses: 521731
+Number of variables: 249722
+Number of clauses: 1312801
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_10.smt2 : 1200035 ms.
+--------------------------------------------------
+Number of variables: 140707
+Number of clauses: 691451
+Number of variables: 323946
+Number of clauses: 1693018
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_11.smt2 : 1200046 ms.
+--------------------------------------------------
+Number of variables: 211890
+Number of clauses: 1048553
+Number of variables: 495066
+Number of clauses: 2601321
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/MS_12.smt2 : 1200058 ms.
+--------------------------------------------------
+Number of variables: 352635
+Number of clauses: 1726637
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_091.smt2 : 30854 ms.
+--------------------------------------------------
+Number of variables: 358166
+Number of clauses: 1753155
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_092.smt2 : 31685 ms.
+--------------------------------------------------
+Number of variables: 363733
+Number of clauses: 1779837
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_093.smt2 : 29601 ms.
+--------------------------------------------------
+Number of variables: 369336
+Number of clauses: 1806683
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_094.smt2 : 31007 ms.
+--------------------------------------------------
+Number of variables: 374975
+Number of clauses: 1833693
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_095.smt2 : 28385 ms.
+--------------------------------------------------
+Number of variables: 380650
+Number of clauses: 1860867
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_096.smt2 : 33210 ms.
+--------------------------------------------------
+Number of variables: 386361
+Number of clauses: 1888205
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_097.smt2 : 26342 ms.
+--------------------------------------------------
+Number of variables: 392108
+Number of clauses: 1915707
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_098.smt2 : 33761 ms.
+--------------------------------------------------
+Number of variables: 397891
+Number of clauses: 1943373
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_099.smt2 : 33616 ms.
+--------------------------------------------------
+Number of variables: 403710
+Number of clauses: 1971203
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/RTA_100.smt2 : 33079 ms.
+--------------------------------------------------
+Number of variables: 20168
+Number of clauses: 104323
+Number of variables: 61310
+Number of clauses: 337555
+Number of variables: 210986
+Number of clauses: 1208371
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_04.smt2 : 1200024 ms.
+--------------------------------------------------
+Number of variables: 32628
+Number of clauses: 168543
+Number of variables: 97629
+Number of clauses: 536793
+Number of variables: 332931
+Number of clauses: 1905093
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_05.smt2 : 1200065 ms.
+--------------------------------------------------
+Number of variables: 48890
+Number of clauses: 251889
+Number of variables: 143720
+Number of clauses: 788541
+Number of variables: 485012
+Number of clauses: 2771637
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_06.smt2 : 1200057 ms.
+--------------------------------------------------
+Number of variables: 69560
+Number of clauses: 357157
+Number of variables: 200585
+Number of clauses: 1097575
+Number of variables: 669023
+Number of clauses: 3816739
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_07.smt2 : 1200040 ms.
+--------------------------------------------------
+Number of variables: 95352
+Number of clauses: 487635
+Number of variables: 269406
+Number of clauses: 1469523
+Number of variables: 887082
+Number of clauses: 5050707
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_08.smt2 : 1200114 ms.
+--------------------------------------------------
+Number of variables: 156600
+Number of clauses: 810345
+Number of variables: 451636
+Number of clauses: 2483751
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_09.smt2 : 1200092 ms.
+--------------------------------------------------
+Number of variables: 203089
+Number of clauses: 1046183
+Number of variables: 574026
+Number of clauses: 3145833
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_10.smt2 : 1200071 ms.
+--------------------------------------------------
+Number of variables: 258740
+Number of clauses: 1326691
+Number of variables: 716512
+Number of clauses: 3912197
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_11.smt2 : 1200069 ms.
+--------------------------------------------------
+Number of variables: 387466
+Number of clauses: 2004579
+Number of variables: 1090770
+Number of clauses: 5992227
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SC_12.smt2 : 1200084 ms.
+--------------------------------------------------
+Number of variables: 41008
+Number of clauses: 217715
+Number of variables: 129910
+Number of clauses: 727523
+Number of variables: 458050
+Number of clauses: 2649155
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SQ_04.smt2 : 1200067 ms.
+--------------------------------------------------
+Number of variables: 178824
+Number of clauses: 942323
+Number of variables: 544014
+Number of clauses: 3031475
+Number of variables: 1875738
+Number of clauses: 10817843
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SQ_08.smt2 : 1200176 ms.
+--------------------------------------------------
+Number of variables: 292860
+Number of clauses: 1561233
+Number of variables: 910960
+Number of clauses: 5114685
+Number of variables: 3183069
+Number of clauses: 18437043
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SQ_09.smt2 : 1200192 ms.
+--------------------------------------------------
+Number of variables: 691090
+Number of clauses: 3693267
+Number of variables: 2133786
+Number of clauses: 11998995
+Number of variables: 7424554
+Number of clauses: 43042707
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/SQ_12.smt2 : 1200371 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0001.smt2 : 26 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0002.smt2 : 100 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0003.smt2 : 24 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0006.smt2 : 81 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0007.smt2 : 16 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0008.smt2 : 21 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0009.smt2 : 259 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0010.smt2 : 75 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0011.smt2 : 92 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0012.smt2 : 44 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0015.smt2 : 69 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0016.smt2 : 90 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0017.smt2 : 306 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0018.smt2 : 56 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0019.smt2 : 63 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0020.smt2 : 44 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0021.smt2 : 22 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0024.smt2 : 157 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0025.smt2 : 19 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0026.smt2 : 16 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0027.smt2 : 29 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0028.smt2 : 52 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0029.smt2 : 131 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+Number of variables: 7857
+Number of clauses: 42726
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0030.smt2 : 1200009 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+Number of variables: 7857
+Number of clauses: 42726
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0033.smt2 : 1200012 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0034.smt2 : 48 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0035.smt2 : 156 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0036.smt2 : 33 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0037.smt2 : 40 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0038.smt2 : 107 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+Number of variables: 7857
+Number of clauses: 42726
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0039.smt2 : 1200014 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+Number of variables: 7857
+Number of clauses: 42726
+command failed
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0042.smt2 : 1200014 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0043.smt2 : 55 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0044.smt2 : 47 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0045.smt2 : 203 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0046.smt2 : 109 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0047.smt2 : 184 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0048.smt2 : 49 ms.
+--------------------------------------------------
+Number of variables: 1836
+Number of clauses: 8994
+Number of variables: 7857
+Number of clauses: 42726
+sat
+check sat
+SAT_Split_100/122/QF_NIA_SAT/20220315-MathProblems/STC_0051.smt2 : 62035 ms.

@@ -1,0 +1,66 @@
+-----------------------------
+4
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           13786   13786   0       0           0           833622049
+Total files: 13786; Sat: 13786; Unsat: 0; Unsolved:0.
+Total time: 833622049
+Average time: 60468
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           13663   13663   0       0           0           745492765
+Total files: 13663; Sat: 13663; Unsat: 0; Unsolved:0.
+Total time: 745492765
+Average time: 54562
+-----------------------------
+8
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           13816   13816   0       0           0           729969065
+Total files: 13816; Sat: 13816; Unsat: 0; Unsolved:0.
+Total time: 729969065
+Average time: 52835
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           13663   13663   0       0           0           638373991
+Total files: 13663; Sat: 13663; Unsat: 0; Unsolved:0.
+Total time: 638373991
+Average time: 46722
+-----------------------------
+16
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           14083   14083   0       0           0           618766108
+Total files: 14083; Sat: 14083; Unsat: 0; Unsolved:0.
+Total time: 618766108
+Average time: 43937
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           13663   13663   0       0           0           446798553
+Total files: 13663; Sat: 13663; Unsat: 0; Unsolved:0.
+Total time: 446798553
+Average time: 32701
+-----------------------------
+24
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           14033   14033   0       0           0           649192960
+Total files: 14033; Sat: 14033; Unsat: 0; Unsolved:0.
+Total time: 649192960
+Average time: 46261
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           13663   13663   0       0           0           476547574
+Total files: 13663; Sat: 13663; Unsat: 0; Unsolved:0.
+Total time: 476547574
+Average time: 34878
+-----------------------------
+32
+-----------------------------
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           14033   14033   0       0           0           666327850
+Total files: 14033; Sat: 14033; Unsat: 0; Unsolved:0.
+Total time: 666327850
+Average time: 47482
+File                                           Total   sat       unsat    unkown     unsolved     Time     
+sat.log                                           13663   13663   0       0           0           492067467
+Total files: 13663; Sat: 13663; Unsat: 0; Unsolved:0.
+Total time: 492067467
+Average time: 36014
+-----------------------------

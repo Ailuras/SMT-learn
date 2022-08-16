@@ -1,0 +1,638 @@
+--------------------------------------------------
+Number of variables: 41578
+Number of clauses: 210314
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NO_04.c__term_unfeasibility_0_0.smt2 : 5449 ms.
+--------------------------------------------------
+Number of variables: 27306
+Number of clauses: 138594
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NO_04.c__term_unfeasibility_2_0.smt2 : 6830 ms.
+--------------------------------------------------
+Number of variables: 20368
+Number of clauses: 98321
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NO_12.c__p24737_edge_closing_0.smt2 : 9848 ms.
+--------------------------------------------------
+Number of variables: 6959
+Number of clauses: 33279
+Number of variables: 20731
+Number of clauses: 108852
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NO_22.c__p24785_edge_closing_0.smt2 : 57921 ms.
+--------------------------------------------------
+Number of variables: 12623
+Number of clauses: 61168
+command failed
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NO_22.c__p24786_edge_closing_0.smt2 : 1200015 ms.
+--------------------------------------------------
+Number of variables: 21460
+Number of clauses: 108315
+command failed
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NO_23.c__p24804_edge_closing_0.smt2 : 1200013 ms.
+--------------------------------------------------
+Number of variables: 8758
+Number of clauses: 41000
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NO_24.c__p24820_edge_closing_0.smt2 : 194 ms.
+--------------------------------------------------
+Number of variables: 9437
+Number of clauses: 44101
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NonTerminationSimple7_false-termination.c__p25159_edge_closing_0.smt2 : 214 ms.
+--------------------------------------------------
+Number of variables: 26158
+Number of clauses: 130641
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NonTerminationSimple8_false-termination.c__p25184_edge_closing_0.smt2 : 547 ms.
+--------------------------------------------------
+Number of variables: 30672
+Number of clauses: 154757
+Number of variables: 84325
+Number of clauses: 453662
+Number of variables: 283555
+Number of clauses: 1603736
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NonTerminationSimple8_false-termination.c__p25188_edge_closing_0.smt2 : 27440 ms.
+--------------------------------------------------
+Number of variables: 46269
+Number of clauses: 232131
+Number of variables: 126214
+Number of clauses: 675686
+Number of variables: 423293
+Number of clauses: 2387266
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__NonTerminationSimple8_false-termination.c__p25189_edge_closing_0.smt2 : 637555 ms.
+--------------------------------------------------
+Number of variables: 13324
+Number of clauses: 63326
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PastaC1.c__p25352_terminationG_0.smt2 : 255 ms.
+--------------------------------------------------
+Number of variables: 14089
+Number of clauses: 65333
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PlusSwap.c__p25382_terminationG_0.smt2 : 220 ms.
+--------------------------------------------------
+Number of variables: 14256
+Number of clauses: 66143
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PlusSwap.c__p25387_terminationG_0.smt2 : 3842 ms.
+--------------------------------------------------
+Number of variables: 9021
+Number of clauses: 41870
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PlusSwap.c__p25391_terminationG_0.smt2 : 1404 ms.
+--------------------------------------------------
+Number of variables: 15113
+Number of clauses: 70929
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PlusSwap.c__p25392_terminationG_0.smt2 : 4450 ms.
+--------------------------------------------------
+Number of variables: 13324
+Number of clauses: 63326
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig1_true-termination.c__p25400_terminationG_0.smt2 : 474 ms.
+--------------------------------------------------
+Number of variables: 19489
+Number of clauses: 92820
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25419_terminationG_0.smt2 : 521 ms.
+--------------------------------------------------
+Number of variables: 19581
+Number of clauses: 93291
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25424_terminationG_0.smt2 : 7809 ms.
+--------------------------------------------------
+Number of variables: 33030
+Number of clauses: 159089
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25425_terminationG_0.smt2 : 14256 ms.
+--------------------------------------------------
+Number of variables: 34191
+Number of clauses: 166069
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25430_terminationG_0.smt2 : 40032 ms.
+--------------------------------------------------
+Number of variables: 22147
+Number of clauses: 108814
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25434_terminationG_0.smt2 : 111773 ms.
+--------------------------------------------------
+Number of variables: 36196
+Number of clauses: 178364
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25435_terminationG_0.smt2 : 612792 ms.
+--------------------------------------------------
+Number of variables: 23205
+Number of clauses: 117492
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25440_terminationG_0.smt2 : 13224 ms.
+--------------------------------------------------
+Number of variables: 37336
+Number of clauses: 184857
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25441_terminationG_0.smt2 : 142917 ms.
+--------------------------------------------------
+Number of variables: 47823
+Number of clauses: 233523
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25442_terminationG_0.smt2 : 48285 ms.
+--------------------------------------------------
+Number of variables: 36312
+Number of clauses: 178265
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25448_terminationG_0.smt2 : 106185 ms.
+--------------------------------------------------
+Number of variables: 46703
+Number of clauses: 226483
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c__p25449_terminationG_0.smt2 : 45034 ms.
+--------------------------------------------------
+Number of variables: 13340
+Number of clauses: 64353
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__PodelskiRybalchenko-VMCAI2004-Ex2_true-termination.c__p25476_terminationG_0.smt2 : 198 ms.
+--------------------------------------------------
+Number of variables: 15885
+Number of clauses: 71434
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25506_terminationG_0.smt2 : 1987 ms.
+--------------------------------------------------
+Number of variables: 27480
+Number of clauses: 126227
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25507_terminationG_0.smt2 : 5095 ms.
+--------------------------------------------------
+Number of variables: 31397
+Number of clauses: 141383
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25518_terminationG_0.smt2 : 3564 ms.
+--------------------------------------------------
+Number of variables: 40647
+Number of clauses: 181857
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25519_terminationG_0.smt2 : 9718 ms.
+--------------------------------------------------
+Number of variables: 31024
+Number of clauses: 142155
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25530_terminationG_0.smt2 : 1132 ms.
+--------------------------------------------------
+Number of variables: 38134
+Number of clauses: 167776
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25531_terminationG_0.smt2 : 3498 ms.
+--------------------------------------------------
+Number of variables: 64801
+Number of clauses: 290817
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25532_terminationG_0.smt2 : 7401 ms.
+--------------------------------------------------
+Number of variables: 36211
+Number of clauses: 167593
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25536_terminationG_0.smt2 : 3705 ms.
+--------------------------------------------------
+Number of variables: 48450
+Number of clauses: 222948
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25537_terminationG_0.smt2 : 6319 ms.
+--------------------------------------------------
+Number of variables: 32640
+Number of clauses: 151545
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25541_terminationG_0.smt2 : 4119 ms.
+--------------------------------------------------
+Number of variables: 44685
+Number of clauses: 206483
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25542_terminationG_0.smt2 : 5522 ms.
+--------------------------------------------------
+Number of variables: 30578
+Number of clauses: 143993
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25546_terminationG_0.smt2 : 3922 ms.
+--------------------------------------------------
+Number of variables: 42819
+Number of clauses: 200909
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25547_terminationG_0.smt2 : 12831 ms.
+--------------------------------------------------
+Number of variables: 38614
+Number of clauses: 176839
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25559_terminationG_0.smt2 : 6641 ms.
+--------------------------------------------------
+Number of variables: 50859
+Number of clauses: 231345
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25560_terminationG_0.smt2 : 5947 ms.
+--------------------------------------------------
+Number of variables: 40092
+Number of clauses: 185704
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25566_terminationG_0.smt2 : 4807 ms.
+--------------------------------------------------
+Number of variables: 52485
+Number of clauses: 241066
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Pure3Phase_true-termination.c__p25567_terminationG_0.smt2 : 6460 ms.
+--------------------------------------------------
+Number of variables: 46043
+Number of clauses: 230656
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Sunset.c__p25604_terminationG_0.smt2 : 5839 ms.
+--------------------------------------------------
+Number of variables: 26669
+Number of clauses: 132783
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Sunset.c__p25608_terminationG_0.smt2 : 602 ms.
+--------------------------------------------------
+Number of variables: 46324
+Number of clauses: 232162
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Sunset.c__p25609_terminationG_0.smt2 : 5525 ms.
+--------------------------------------------------
+Number of variables: 31039
+Number of clauses: 155185
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Sunset.c__p25619_terminationG_0.smt2 : 884 ms.
+--------------------------------------------------
+Number of variables: 20971
+Number of clauses: 104993
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Sunset.c__p25629_edge_closing_0.smt2 : 2498 ms.
+--------------------------------------------------
+Number of variables: 19867
+Number of clauses: 99912
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Sunset.c__p25637_edge_closing_0.smt2 : 2520 ms.
+--------------------------------------------------
+Number of variables: 16015
+Number of clauses: 73487
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_a.10.c__p25674_terminationG_0.smt2 : 541 ms.
+--------------------------------------------------
+Number of variables: 27643
+Number of clauses: 128841
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_a.10.c__p25675_terminationG_0.smt2 : 3849 ms.
+--------------------------------------------------
+Number of variables: 17037
+Number of clauses: 80761
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_c.01-no-inv.c__p25768_terminationG_0.smt2 : 545 ms.
+--------------------------------------------------
+Number of variables: 30858
+Number of clauses: 148516
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_c.01-no-inv.c__p25769_terminationG_0.smt2 : 4229 ms.
+--------------------------------------------------
+Number of variables: 25325
+Number of clauses: 113310
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25801_terminationG_0.smt2 : 694 ms.
+--------------------------------------------------
+Number of variables: 34143
+Number of clauses: 156708
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25806_terminationG_0.smt2 : 2041 ms.
+--------------------------------------------------
+Number of variables: 38385
+Number of clauses: 182565
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25815_terminationG_0.smt2 : 925 ms.
+--------------------------------------------------
+Number of variables: 40651
+Number of clauses: 193526
+Number of variables: 75793
+Number of clauses: 358586
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25816_terminationG_0.smt2 : 8996 ms.
+--------------------------------------------------
+Number of variables: 76454
+Number of clauses: 371183
+Number of variables: 142159
+Number of clauses: 679697
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25817_terminationG_0.smt2 : 14758 ms.
+--------------------------------------------------
+Number of variables: 36116
+Number of clauses: 176286
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25820_terminationG_0.smt2 : 4225 ms.
+--------------------------------------------------
+Number of variables: 57865
+Number of clauses: 285005
+Number of variables: 106372
+Number of clauses: 515479
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25822_terminationG_0.smt2 : 28706 ms.
+--------------------------------------------------
+Number of variables: 51438
+Number of clauses: 248590
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25825_terminationG_0.smt2 : 6154 ms.
+--------------------------------------------------
+Number of variables: 70265
+Number of clauses: 344905
+Number of variables: 127453
+Number of clauses: 617609
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25826_terminationG_0.smt2 : 11973 ms.
+--------------------------------------------------
+Number of variables: 130003
+Number of clauses: 646854
+Number of variables: 236168
+Number of clauses: 1151432
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25827_terminationG_0.smt2 : 22926 ms.
+--------------------------------------------------
+Number of variables: 38201
+Number of clauses: 185190
+Number of variables: 69961
+Number of clauses: 336480
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25831_terminationG_0.smt2 : 15941 ms.
+--------------------------------------------------
+Number of variables: 70044
+Number of clauses: 344761
+Number of variables: 128419
+Number of clauses: 621938
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25832_terminationG_0.smt2 : 13303 ms.
+--------------------------------------------------
+Number of variables: 27774
+Number of clauses: 133749
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25835_terminationG_0.smt2 : 6821 ms.
+--------------------------------------------------
+Number of variables: 54177
+Number of clauses: 260210
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25836_terminationG_0.smt2 : 5872 ms.
+--------------------------------------------------
+Number of variables: 54961
+Number of clauses: 270020
+Number of variables: 100704
+Number of clauses: 487575
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25837_terminationG_0.smt2 : 22239 ms.
+--------------------------------------------------
+Number of variables: 57788
+Number of clauses: 284072
+Number of variables: 106195
+Number of clauses: 513099
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25843_terminationG_0.smt2 : 13353 ms.
+--------------------------------------------------
+Number of variables: 28875
+Number of clauses: 142104
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25846_terminationG_0.smt2 : 7502 ms.
+--------------------------------------------------
+Number of variables: 44159
+Number of clauses: 213830
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25847_terminationG_0.smt2 : 10974 ms.
+--------------------------------------------------
+Number of variables: 44542
+Number of clauses: 220599
+Number of variables: 80965
+Number of clauses: 394564
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25848_terminationG_0.smt2 : 17901 ms.
+--------------------------------------------------
+Number of variables: 50110
+Number of clauses: 244629
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25852_terminationG_0.smt2 : 8600 ms.
+--------------------------------------------------
+Number of variables: 49418
+Number of clauses: 247119
+Number of variables: 89169
+Number of clauses: 436937
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex2.c__p25853_terminationG_0.smt2 : 12022 ms.
+--------------------------------------------------
+Number of variables: 15203
+Number of clauses: 72683
+Number of variables: 45095
+Number of clauses: 235727
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex3a.c__p26008_terminationG_0.smt2 : 12890 ms.
+--------------------------------------------------
+Number of variables: 26872
+Number of clauses: 129762
+Number of variables: 81217
+Number of clauses: 426996
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex3a.c__p26009_terminationG_0.smt2 : 672251 ms.
+--------------------------------------------------
+Number of variables: 16201
+Number of clauses: 78131
+Number of variables: 46339
+Number of clauses: 242999
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex3a.c__p26013_terminationG_0.smt2 : 13591 ms.
+--------------------------------------------------
+Number of variables: 27868
+Number of clauses: 135194
+Number of variables: 82453
+Number of clauses: 434204
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex3a.c__p26014_terminationG_0.smt2 : 905906 ms.
+--------------------------------------------------
+Number of variables: 14428
+Number of clauses: 67072
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__svcomp_ex3b.c__p26023_terminationG_0.smt2 : 545 ms.
+--------------------------------------------------
+Number of variables: 9335
+Number of clauses: 44097
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Swingers.c__p26089_edge_closing_0.smt2 : 495 ms.
+--------------------------------------------------
+Number of variables: 16624
+Number of clauses: 79466
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Toulouse-BranchesToLoop_true-termination.c__p26120_terminationG_0.smt2 : 2598 ms.
+--------------------------------------------------
+Number of variables: 16636
+Number of clauses: 79438
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Toulouse-BranchesToLoop_true-termination.c__p26125_terminationG_0.smt2 : 16959 ms.
+--------------------------------------------------
+Number of variables: 16702
+Number of clauses: 79766
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Toulouse-MultiBranchesToLoop_true-termination.c__p26134_terminationG_0.smt2 : 2305 ms.
+--------------------------------------------------
+Number of variables: 16553
+Number of clauses: 78790
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Toulouse-MultiBranchesToLoop_true-termination.c__p26139_terminationG_0.smt2 : 1349 ms.
+--------------------------------------------------
+Number of variables: 25465
+Number of clauses: 125905
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__TwoFloatInterv.c__p26170_safety_0.smt2 : 2752 ms.
+--------------------------------------------------
+Number of variables: 12534
+Number of clauses: 60760
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__TwoFloatInterv.c__p26181_edge_closing_0.smt2 : 5075 ms.
+--------------------------------------------------
+Number of variables: 28313
+Number of clauses: 133557
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDown.c__p26197_terminationG_0.smt2 : 349 ms.
+--------------------------------------------------
+Number of variables: 36237
+Number of clauses: 168532
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDown.c__p26198_terminationG_0.smt2 : 4481 ms.
+--------------------------------------------------
+Number of variables: 15426
+Number of clauses: 72821
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDown.c__p26206_edge_closing_0.smt2 : 7500 ms.
+--------------------------------------------------
+Number of variables: 22225
+Number of clauses: 104317
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDown.c__p26207_edge_closing_0.smt2 : 29838 ms.
+--------------------------------------------------
+Number of variables: 14745
+Number of clauses: 69762
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDown.c__p26213_edge_closing_0.smt2 : 1716 ms.
+--------------------------------------------------
+Number of variables: 21520
+Number of clauses: 101250
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDown.c__p26214_edge_closing_0.smt2 : 28683 ms.
+--------------------------------------------------
+Number of variables: 27516
+Number of clauses: 128374
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDownIneq.c__p26230_terminationG_0.smt2 : 3725 ms.
+--------------------------------------------------
+Number of variables: 35331
+Number of clauses: 162480
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDownIneq.c__p26231_terminationG_0.smt2 : 761 ms.
+--------------------------------------------------
+Number of variables: 14894
+Number of clauses: 69456
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDownIneq.c__p26239_edge_closing_0.smt2 : 2634 ms.
+--------------------------------------------------
+Number of variables: 21558
+Number of clauses: 99910
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDownIneq.c__p26240_edge_closing_0.smt2 : 2585 ms.
+--------------------------------------------------
+Number of variables: 14261
+Number of clauses: 66703
+sat
+check sat
+SAT_Split_100/6/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDownIneq.c__p26246_edge_closing_0.smt2 : 8396 ms.

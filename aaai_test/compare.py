@@ -14,7 +14,7 @@ def get_compare(a, b, category='none', type='log'):
         times, times2= get_data('./'+a+'/'+category+'.log', './'+b+'/'+category+'.log', 'SAT_Split_100')
 
     # 生成图形
-    plt.figure(figsize=(8, 8))
+    plt.figure(figsize=(10, 10))
     
     plt.scatter(times[0], times[1], s=1, c='purple', marker="x", linewidth=5, alpha=0.25)
     plt.scatter(times2[0], times2[1], s=1, c='peru', marker="x", linewidth=5, alpha=0.25)
@@ -25,8 +25,8 @@ def get_compare(a, b, category='none', type='log'):
     plt.xlabel(a.upper() + ' (s)') # 横坐标轴的标题
     plt.ylabel(b.upper() + ' (s)') # 纵坐标轴的标题
 
-    plt.xlim(0, 1300)
-    plt.ylim(0, 1300)
+    plt.xlim(0, 1212)
+    plt.ylim(0, 1212)
     
     # ax = plt.gca()
     # ax.set_xticks = [10, 20, 30]
@@ -35,7 +35,19 @@ def get_compare(a, b, category='none', type='log'):
         plt.xscale('symlog')
         plt.yscale('symlog')
     # plt.xticks([0, 50, 100, 200, 400, 600, 800, 1000, 1200, 1300], [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], fontproperties='STKAITI')
+    plt.axhline(y=200,ls=":",c="gray")
+    plt.axhline(y=400,ls=":",c="gray")
+    plt.axhline(y=600,ls=":",c="gray")
+    plt.axhline(y=800,ls=":",c="gray")
+    plt.axhline(y=1000,ls=":",c="gray")
+    # plt.axhline(y=1200,ls=":",c="gray")
     
+    plt.axvline(x=200,ls=":",c="gray")
+    plt.axvline(x=400,ls=":",c="gray")
+    plt.axvline(x=600,ls=":",c="gray")
+    plt.axvline(x=800,ls=":",c="gray")
+    plt.axvline(x=1000,ls=":",c="gray")
+    # plt.axvline(x=1200,ls=":",c="gray")
     # plt.yscale("log")
     # plt.xscale("log")
     if category == 'none':
@@ -48,13 +60,13 @@ def get_compare(a, b, category='none', type='log'):
             plt.savefig('./result/'+a.upper() + '_VS_' + b.upper() + '_' + category + '(log)' +'.pdf')
         else:
             plt.savefig('./result/'+a.upper() + '_VS_' + b.upper() + '_' + category +'.pdf')
-    # plt.show()
-    plt.close()
+    plt.show()
+    # plt.close()
     
 a = sys.argv[1]
 b = sys.argv[2]
 
-get_compare(a, b)
+# get_compare(a, b)
 # get_compare(a, b, 'AProVE')
 # get_compare(a, b, 'calypto')
 # get_compare(a, b, 'Dartagnan')

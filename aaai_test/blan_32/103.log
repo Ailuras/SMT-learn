@@ -1,0 +1,597 @@
+--------------------------------------------------
+Number of variables: 44673
+Number of clauses: 199173
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-adler32.c.t2__p26300_terminationG_0.smt2 : 85784 ms.
+--------------------------------------------------
+Number of variables: 38675
+Number of clauses: 176297
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-adler32.c.t2__p26301_terminationG_0.smt2 : 4046 ms.
+--------------------------------------------------
+Number of variables: 20808
+Number of clauses: 97314
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-adler32.c.t2__p26304_terminationG_0.smt2 : 2419 ms.
+--------------------------------------------------
+Number of variables: 35736
+Number of clauses: 165324
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-adler32.c.t2__p26305_terminationG_0.smt2 : 36362 ms.
+--------------------------------------------------
+Number of variables: 45757
+Number of clauses: 211557
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-adler32.c.t2__p26306_terminationG_0.smt2 : 505716 ms.
+--------------------------------------------------
+Number of variables: 8538
+Number of clauses: 39606
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-adler32.c.t2__p26327_safety_0.smt2 : 380 ms.
+--------------------------------------------------
+Number of variables: 8865
+Number of clauses: 41409
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-adler32.c.t2__p26355_safety_0.smt2 : 439 ms.
+--------------------------------------------------
+Number of variables: 12824
+Number of clauses: 60170
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-adler32.c.t2__p26356_safety_0.smt2 : 1369 ms.
+--------------------------------------------------
+Number of variables: 28716
+Number of clauses: 125117
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2_fixed__p26381_terminationG_0.smt2 : 578 ms.
+--------------------------------------------------
+Number of variables: 114470
+Number of clauses: 566567
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2_fixed__p26388_terminationG_0.smt2 : 25595 ms.
+--------------------------------------------------
+Number of variables: 29790
+Number of clauses: 130781
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2_fixed__p26393_terminationG_0.smt2 : 715 ms.
+--------------------------------------------------
+Number of variables: 115252
+Number of clauses: 571545
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2_fixed__p26400_terminationG_0.smt2 : 33462 ms.
+--------------------------------------------------
+Number of variables: 52156
+Number of clauses: 249144
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2_fixed__p26404_terminationG_0.smt2 : 834 ms.
+--------------------------------------------------
+Number of variables: 28716
+Number of clauses: 125117
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26414_terminationG_0.smt2 : 602 ms.
+--------------------------------------------------
+Number of variables: 30654
+Number of clauses: 138235
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26420_terminationG_0.smt2 : 902 ms.
+--------------------------------------------------
+Number of variables: 25245
+Number of clauses: 116186
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26438_safety_0.smt2 : 595 ms.
+--------------------------------------------------
+Number of variables: 24622
+Number of clauses: 116707
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26439_safety_0.smt2 : 2632 ms.
+--------------------------------------------------
+Number of variables: 24576
+Number of clauses: 116196
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26442_safety_0.smt2 : 894 ms.
+--------------------------------------------------
+Number of variables: 13799
+Number of clauses: 64230
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26448_safety_0.smt2 : 142 ms.
+--------------------------------------------------
+Number of variables: 33534
+Number of clauses: 153486
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26449_safety_0.smt2 : 387 ms.
+--------------------------------------------------
+Number of variables: 46962
+Number of clauses: 215448
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26450_safety_0.smt2 : 7280 ms.
+--------------------------------------------------
+Number of variables: 13587
+Number of clauses: 62445
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26456_safety_0.smt2 : 343 ms.
+--------------------------------------------------
+Number of variables: 33164
+Number of clauses: 150469
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26457_safety_0.smt2 : 28861 ms.
+--------------------------------------------------
+Number of variables: 46458
+Number of clauses: 211573
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26458_safety_0.smt2 : 4553 ms.
+--------------------------------------------------
+Number of variables: 14083
+Number of clauses: 65811
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26464_safety_0.smt2 : 1306 ms.
+--------------------------------------------------
+Number of variables: 33986
+Number of clauses: 156051
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26465_safety_0.smt2 : 5604 ms.
+--------------------------------------------------
+Number of variables: 47552
+Number of clauses: 218880
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26466_safety_0.smt2 : 67004 ms.
+--------------------------------------------------
+Number of variables: 16796
+Number of clauses: 78286
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26482_terminationG_0.smt2 : 1936 ms.
+--------------------------------------------------
+Number of variables: 31620
+Number of clauses: 143897
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26483_terminationG_0.smt2 : 8803 ms.
+--------------------------------------------------
+Number of variables: 40223
+Number of clauses: 182064
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26484_terminationG_0.smt2 : 10492 ms.
+--------------------------------------------------
+Number of variables: 27803
+Number of clauses: 133005
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26502_safety_0.smt2 : 611 ms.
+--------------------------------------------------
+Number of variables: 28231
+Number of clauses: 130343
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26504_safety_0.smt2 : 463 ms.
+--------------------------------------------------
+Number of variables: 27747
+Number of clauses: 132424
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26505_safety_0.smt2 : 659 ms.
+--------------------------------------------------
+Number of variables: 15020
+Number of clauses: 69113
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26511_safety_0.smt2 : 347 ms.
+--------------------------------------------------
+Number of variables: 27618
+Number of clauses: 123212
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26512_safety_0.smt2 : 3755 ms.
+--------------------------------------------------
+Number of variables: 26843
+Number of clauses: 123232
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26513_safety_0.smt2 : 2485 ms.
+--------------------------------------------------
+Number of variables: 15274
+Number of clauses: 70481
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26519_safety_0.smt2 : 255 ms.
+--------------------------------------------------
+Number of variables: 27962
+Number of clauses: 125071
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26520_safety_0.smt2 : 2845 ms.
+--------------------------------------------------
+Number of variables: 27219
+Number of clauses: 125292
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26521_safety_0.smt2 : 6041 ms.
+--------------------------------------------------
+Number of variables: 15541
+Number of clauses: 72075
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26531_safety_0.smt2 : 312 ms.
+--------------------------------------------------
+Number of variables: 28199
+Number of clauses: 126415
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26532_safety_0.smt2 : 2475 ms.
+--------------------------------------------------
+Number of variables: 27458
+Number of clauses: 126746
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26533_safety_0.smt2 : 11406 ms.
+--------------------------------------------------
+Number of variables: 15968
+Number of clauses: 74213
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26539_safety_0.smt2 : 1447 ms.
+--------------------------------------------------
+Number of variables: 28699
+Number of clauses: 129023
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26540_safety_0.smt2 : 699 ms.
+--------------------------------------------------
+Number of variables: 27935
+Number of clauses: 129374
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26541_safety_0.smt2 : 11936 ms.
+--------------------------------------------------
+Number of variables: 48726
+Number of clauses: 215378
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26554_edge_closing_0.smt2 : 4179 ms.
+--------------------------------------------------
+Number of variables: 62614
+Number of clauses: 268058
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26555_edge_closing_0.smt2 : 4612 ms.
+--------------------------------------------------
+Number of variables: 42281
+Number of clauses: 181000
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26556_edge_closing_0.smt2 : 12147 ms.
+--------------------------------------------------
+Number of variables: 48585
+Number of clauses: 214789
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26560_edge_closing_0.smt2 : 969 ms.
+--------------------------------------------------
+Number of variables: 61640
+Number of clauses: 264259
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26561_edge_closing_0.smt2 : 6014 ms.
+--------------------------------------------------
+Number of variables: 41645
+Number of clauses: 178551
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26562_edge_closing_0.smt2 : 6910 ms.
+--------------------------------------------------
+Number of variables: 48954
+Number of clauses: 217614
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26566_edge_closing_0.smt2 : 3223 ms.
+--------------------------------------------------
+Number of variables: 61515
+Number of clauses: 265307
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26567_edge_closing_0.smt2 : 12612 ms.
+--------------------------------------------------
+Number of variables: 41801
+Number of clauses: 180390
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32-BYFOUR.c.t2__p26568_edge_closing_0.smt2 : 4546 ms.
+--------------------------------------------------
+Number of variables: 21038
+Number of clauses: 98199
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26581_terminationG_0.smt2 : 396 ms.
+--------------------------------------------------
+Number of variables: 21719
+Number of clauses: 101859
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26591_terminationG_0.smt2 : 2120 ms.
+--------------------------------------------------
+Number of variables: 17068
+Number of clauses: 80975
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26600_terminationG_0.smt2 : 5681 ms.
+--------------------------------------------------
+Number of variables: 21796
+Number of clauses: 102604
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26601_terminationG_0.smt2 : 6530 ms.
+--------------------------------------------------
+Number of variables: 43013
+Number of clauses: 194329
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26615_edge_closing_0.smt2 : 3330 ms.
+--------------------------------------------------
+Number of variables: 44837
+Number of clauses: 198043
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26616_edge_closing_0.smt2 : 8687 ms.
+--------------------------------------------------
+Number of variables: 34886
+Number of clauses: 164509
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26620_edge_closing_0.smt2 : 3904 ms.
+--------------------------------------------------
+Number of variables: 43271
+Number of clauses: 197778
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26621_edge_closing_0.smt2 : 4447 ms.
+--------------------------------------------------
+Number of variables: 45047
+Number of clauses: 201423
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/ITS/From_T2__zlib-crc32.c.t2__p26622_edge_closing_0.smt2 : 3276 ms.
+--------------------------------------------------
+Number of variables: 902541
+Number of clauses: 6023284
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1000.smt2 : 798005 ms.
+--------------------------------------------------
+Number of variables: 912849
+Number of clauses: 6095524
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1001.smt2 : 1101423 ms.
+--------------------------------------------------
+Number of variables: 923353
+Number of clauses: 6169954
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1002.smt2 : 874415 ms.
+--------------------------------------------------
+Number of variables: 933574
+Number of clauses: 6242359
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1003.smt2 : 936444 ms.
+--------------------------------------------------
+Number of variables: 944223
+Number of clauses: 6317810
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1004.smt2 : 686072 ms.
+--------------------------------------------------
+Number of variables: 953765
+Number of clauses: 6385768
+command failed
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1005.smt2 : 1200131 ms.
+--------------------------------------------------
+Number of variables: 961812
+Number of clauses: 6443358
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1006.smt2 : 817931 ms.
+--------------------------------------------------
+Number of variables: 972240
+Number of clauses: 6517489
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1007.smt2 : 848024 ms.
+--------------------------------------------------
+Number of variables: 983320
+Number of clauses: 6595355
+command failed
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1008.smt2 : 1200109 ms.
+--------------------------------------------------
+Number of variables: 991883
+Number of clauses: 6656611
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1009.smt2 : 720511 ms.
+--------------------------------------------------
+Number of variables: 233259
+Number of clauses: 1498751
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/100.smt2 : 75399 ms.
+--------------------------------------------------
+Number of variables: 1003071
+Number of clauses: 6735263
+command failed
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1010.smt2 : 1200138 ms.
+--------------------------------------------------
+Number of variables: 1013727
+Number of clauses: 6811080
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1011.smt2 : 711602 ms.
+--------------------------------------------------
+Number of variables: 1022426
+Number of clauses: 6873332
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1012.smt2 : 618627 ms.
+--------------------------------------------------
+Number of variables: 1033814
+Number of clauses: 6953380
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1013.smt2 : 871380 ms.
+--------------------------------------------------
+Number of variables: 1044986
+Number of clauses: 7032943
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1014.smt2 : 843627 ms.
+--------------------------------------------------
+Number of variables: 1055512
+Number of clauses: 7107957
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1015.smt2 : 813344 ms.
+--------------------------------------------------
+Number of variables: 1066092
+Number of clauses: 7183368
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1016.smt2 : 797670 ms.
+--------------------------------------------------
+Number of variables: 1077117
+Number of clauses: 7261910
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1017.smt2 : 961108 ms.
+--------------------------------------------------
+Number of variables: 272644
+Number of clauses: 1628004
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1018.smt2 : 44713 ms.
+--------------------------------------------------
+Number of variables: 275664
+Number of clauses: 1649006
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1019.smt2 : 107744 ms.
+--------------------------------------------------
+Number of variables: 236228
+Number of clauses: 1519103
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/101.smt2 : 61396 ms.
+--------------------------------------------------
+Number of variables: 278987
+Number of clauses: 1671158
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1020.smt2 : 42987 ms.
+--------------------------------------------------
+Number of variables: 281984
+Number of clauses: 1691990
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1021.smt2 : 99063 ms.
+--------------------------------------------------
+Number of variables: 286127
+Number of clauses: 1720179
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1022.smt2 : 104193 ms.
+--------------------------------------------------
+Number of variables: 289520
+Number of clauses: 1742851
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1023.smt2 : 90819 ms.
+--------------------------------------------------
+Number of variables: 293845
+Number of clauses: 1772395
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1024.smt2 : 81871 ms.
+--------------------------------------------------
+Number of variables: 298448
+Number of clauses: 1803086
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1025.smt2 : 89147 ms.
+--------------------------------------------------
+Number of variables: 302612
+Number of clauses: 1832559
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1026.smt2 : 90721 ms.
+--------------------------------------------------
+Number of variables: 305988
+Number of clauses: 1855309
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1027.smt2 : 140918 ms.
+--------------------------------------------------
+Number of variables: 310877
+Number of clauses: 1888895
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1028.smt2 : 103134 ms.
+--------------------------------------------------
+Number of variables: 315412
+Number of clauses: 1920453
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1029.smt2 : 136830 ms.
+--------------------------------------------------
+Number of variables: 239055
+Number of clauses: 1538452
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/102.smt2 : 79982 ms.
+--------------------------------------------------
+Number of variables: 320699
+Number of clauses: 1955694
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1030.smt2 : 124058 ms.
+--------------------------------------------------
+Number of variables: 324657
+Number of clauses: 1983386
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/1031.smt2 : 128145 ms.
+--------------------------------------------------
+Number of variables: 242064
+Number of clauses: 1559072
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/103.smt2 : 44782 ms.
+--------------------------------------------------
+Number of variables: 2723
+Number of clauses: 11868
+sat
+check sat
+SAT_Split_100/103/QF_NIA_SAT/20170427-VeryMax/SAT14/10.smt2 : 31 ms.

@@ -1,0 +1,665 @@
+--------------------------------------------------
+Number of variables: 20896
+Number of clauses: 97127
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__UpAndDownIneq.c__p26247_edge_closing_0.smt2 : 35457 ms.
+--------------------------------------------------
+Number of variables: 64020
+Number of clauses: 316337
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Velroyen_false-termination.c__p26291_terminationG_0.smt2 : 8227 ms.
+--------------------------------------------------
+Number of variables: 41960
+Number of clauses: 212153
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__Velroyen_false-termination.c__p26301_terminationG_0.smt2 : 7450 ms.
+--------------------------------------------------
+Number of variables: 16159
+Number of clauses: 77479
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Stroeder_15__WhileSingle.c__p26489_edge_closing_0.smt2 : 13087 ms.
+--------------------------------------------------
+Number of variables: 11424
+Number of clauses: 52344
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__2Nested_false-termination.c__p26532_terminationG_0.smt2 : 1435 ms.
+--------------------------------------------------
+Number of variables: 8780
+Number of clauses: 40799
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__2Nested_false-termination.c__p26568_edge_closing_0.smt2 : 967 ms.
+--------------------------------------------------
+Number of variables: 9318
+Number of clauses: 43701
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Bangalore_v2_false-termination.c__p26620_edge_closing_0.smt2 : 1228 ms.
+--------------------------------------------------
+Number of variables: 8351
+Number of clauses: 37585
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Benghazi_nondet_true-termination.c__p26678_terminationG_0.smt2 : 490 ms.
+--------------------------------------------------
+Number of variables: 14323
+Number of clauses: 65728
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Benghazi_nondet_true-termination.c__p26679_terminationG_0.smt2 : 3779 ms.
+--------------------------------------------------
+Number of variables: 12938
+Number of clauses: 60522
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Benghazi_nondet_true-termination.c__p26690_terminationG_0.smt2 : 1702 ms.
+--------------------------------------------------
+Number of variables: 13850
+Number of clauses: 67060
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Cairo_step2_false-termination.c__p26739_edge_closing_0.smt2 : 2271 ms.
+--------------------------------------------------
+Number of variables: 17346
+Number of clauses: 81770
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26769_terminationG_0.smt2 : 2385 ms.
+--------------------------------------------------
+Number of variables: 22820
+Number of clauses: 106024
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26770_terminationG_0.smt2 : 2729 ms.
+--------------------------------------------------
+Number of variables: 17776
+Number of clauses: 84305
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26776_terminationG_0.smt2 : 2275 ms.
+--------------------------------------------------
+Number of variables: 17846
+Number of clauses: 84610
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26783_terminationG_0.smt2 : 293 ms.
+--------------------------------------------------
+Number of variables: 19858
+Number of clauses: 95678
+Number of variables: 58732
+Number of clauses: 308315
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26790_terminationG_0.smt2 : 8876 ms.
+--------------------------------------------------
+Number of variables: 26095
+Number of clauses: 123765
+Number of variables: 74283
+Number of clauses: 383493
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26799_terminationG_0.smt2 : 9948 ms.
+--------------------------------------------------
+Number of variables: 24194
+Number of clauses: 117353
+Number of variables: 70352
+Number of clauses: 370175
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26807_terminationG_0.smt2 : 9051 ms.
+--------------------------------------------------
+Number of variables: 32093
+Number of clauses: 153226
+Number of variables: 90317
+Number of clauses: 467613
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26808_terminationG_0.smt2 : 65292 ms.
+--------------------------------------------------
+Number of variables: 28204
+Number of clauses: 137605
+Number of variables: 81436
+Number of clauses: 429787
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26818_terminationG_0.smt2 : 51020 ms.
+--------------------------------------------------
+Number of variables: 37974
+Number of clauses: 182428
+Number of variables: 106157
+Number of clauses: 551480
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26819_terminationG_0.smt2 : 69903 ms.
+--------------------------------------------------
+Number of variables: 28466
+Number of clauses: 139223
+Number of variables: 81878
+Number of clauses: 432659
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26830_terminationG_0.smt2 : 70898 ms.
+--------------------------------------------------
+Number of variables: 38278
+Number of clauses: 184303
+Number of variables: 106683
+Number of clauses: 554919
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26831_terminationG_0.smt2 : 63738 ms.
+--------------------------------------------------
+Number of variables: 44101
+Number of clauses: 212878
+Number of variables: 122403
+Number of clauses: 637625
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26841_terminationG_0.smt2 : 1102318 ms.
+--------------------------------------------------
+Number of variables: 35887
+Number of clauses: 171115
+Number of variables: 88415
+Number of clauses: 450705
+Number of variables: 277655
+Number of clauses: 1514457
+command failed
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26846_terminationG_0.smt2 : 1200038 ms.
+--------------------------------------------------
+Number of variables: 33053
+Number of clauses: 156642
+Number of variables: 88067
+Number of clauses: 453439
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26849_edge_closing_0.smt2 : 20125 ms.
+--------------------------------------------------
+Number of variables: 41125
+Number of clauses: 191852
+Number of variables: 104285
+Number of clauses: 524778
+Number of variables: 333973
+Number of clauses: 1810612
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26850_edge_closing_0.smt2 : 694994 ms.
+--------------------------------------------------
+Number of variables: 28058
+Number of clauses: 137966
+Number of variables: 72350
+Number of clauses: 382768
+Number of variables: 233952
+Number of clauses: 1310692
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26853_edge_closing_0.smt2 : 61344 ms.
+--------------------------------------------------
+Number of variables: 33574
+Number of clauses: 162132
+Number of variables: 84730
+Number of clauses: 440345
+Number of variables: 270842
+Number of clauses: 1499238
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26854_edge_closing_0.smt2 : 148491 ms.
+--------------------------------------------------
+Number of variables: 21036
+Number of clauses: 104192
+Number of variables: 53814
+Number of clauses: 285772
+Number of variables: 172870
+Number of clauses: 969988
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26856_edge_closing_0.smt2 : 131691 ms.
+--------------------------------------------------
+Number of variables: 32406
+Number of clauses: 160559
+Number of variables: 87050
+Number of clauses: 462659
+Number of variables: 288166
+Number of clauses: 1617899
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26857_edge_closing_0.smt2 : 159566 ms.
+--------------------------------------------------
+Number of variables: 11013
+Number of clauses: 54080
+Number of variables: 28115
+Number of clauses: 148100
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26858_edge_closing_0.smt2 : 13559 ms.
+--------------------------------------------------
+Number of variables: 20161
+Number of clauses: 98513
+Number of variables: 56621
+Number of clauses: 298521
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26859_edge_closing_0.smt2 : 8819 ms.
+--------------------------------------------------
+Number of variables: 31411
+Number of clauses: 153751
+Number of variables: 91589
+Number of clauses: 483771
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26860_edge_closing_0.smt2 : 10051 ms.
+--------------------------------------------------
+Number of variables: 24137
+Number of clauses: 120039
+Number of variables: 61321
+Number of clauses: 325265
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26863_edge_closing_0.smt2 : 85932 ms.
+--------------------------------------------------
+Number of variables: 8968
+Number of clauses: 43845
+Number of variables: 22242
+Number of clauses: 116733
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26864_edge_closing_0.smt2 : 4371 ms.
+--------------------------------------------------
+Number of variables: 15577
+Number of clauses: 75829
+Number of variables: 42507
+Number of clauses: 223375
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26865_edge_closing_0.smt2 : 30755 ms.
+--------------------------------------------------
+Number of variables: 23258
+Number of clauses: 113373
+Number of variables: 66024
+Number of clauses: 347605
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26866_edge_closing_0.smt2 : 120496 ms.
+--------------------------------------------------
+Number of variables: 19310
+Number of clauses: 87646
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Gothenburg_v2_true-termination.c__p26874_terminationG_0.smt2 : 752 ms.
+--------------------------------------------------
+Number of variables: 25403
+Number of clauses: 114147
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Gothenburg_v2_true-termination.c__p26875_terminationG_0.smt2 : 3492 ms.
+--------------------------------------------------
+Number of variables: 14865
+Number of clauses: 68374
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Gothenburg_v2_true-termination.c__p26879_terminationG_0.smt2 : 1336 ms.
+--------------------------------------------------
+Number of variables: 26596
+Number of clauses: 124565
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Gothenburg_v2_true-termination.c__p26880_terminationG_0.smt2 : 350 ms.
+--------------------------------------------------
+Number of variables: 11753
+Number of clauses: 54587
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_2vars_false-termination.c__p26899_terminationG_0.smt2 : 3528 ms.
+--------------------------------------------------
+Number of variables: 9231
+Number of clauses: 43563
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_2vars_false-termination.c__p26936_edge_closing_0.smt2 : 1661 ms.
+--------------------------------------------------
+Number of variables: 8425
+Number of clauses: 38077
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26954_terminationG_0.smt2 : 464 ms.
+--------------------------------------------------
+Number of variables: 14449
+Number of clauses: 66563
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26955_terminationG_0.smt2 : 2085 ms.
+--------------------------------------------------
+Number of variables: 12870
+Number of clauses: 60120
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26961_terminationG_0.smt2 : 165 ms.
+--------------------------------------------------
+Number of variables: 22808
+Number of clauses: 108091
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26962_terminationG_0.smt2 : 3129 ms.
+--------------------------------------------------
+Number of variables: 8942
+Number of clauses: 41153
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26966_terminationG_0.smt2 : 4970 ms.
+--------------------------------------------------
+Number of variables: 15092
+Number of clauses: 70388
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26967_terminationG_0.smt2 : 61489 ms.
+--------------------------------------------------
+Number of variables: 10086
+Number of clauses: 47341
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26971_terminationG_0.smt2 : 7618 ms.
+--------------------------------------------------
+Number of variables: 16230
+Number of clauses: 76535
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26972_terminationG_0.smt2 : 50920 ms.
+--------------------------------------------------
+Number of variables: 11184
+Number of clauses: 53220
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26976_terminationG_0.smt2 : 8980 ms.
+--------------------------------------------------
+Number of variables: 17328
+Number of clauses: 82414
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26977_terminationG_0.smt2 : 56321 ms.
+--------------------------------------------------
+Number of variables: 12369
+Number of clauses: 59702
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26981_terminationG_0.smt2 : 11350 ms.
+--------------------------------------------------
+Number of variables: 18519
+Number of clauses: 88941
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26982_terminationG_0.smt2 : 43904 ms.
+--------------------------------------------------
+Number of variables: 13329
+Number of clauses: 64802
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26986_terminationG_0.smt2 : 5136 ms.
+--------------------------------------------------
+Number of variables: 19479
+Number of clauses: 94041
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26987_terminationG_0.smt2 : 51336 ms.
+--------------------------------------------------
+Number of variables: 14607
+Number of clauses: 71932
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26991_terminationG_0.smt2 : 14877 ms.
+--------------------------------------------------
+Number of variables: 20754
+Number of clauses: 101161
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26992_terminationG_0.smt2 : 19356 ms.
+--------------------------------------------------
+Number of variables: 15563
+Number of clauses: 76962
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26996_terminationG_0.smt2 : 5695 ms.
+--------------------------------------------------
+Number of variables: 21706
+Number of clauses: 106161
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p26997_terminationG_0.smt2 : 36559 ms.
+--------------------------------------------------
+Number of variables: 16797
+Number of clauses: 83809
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27001_terminationG_0.smt2 : 4227 ms.
+--------------------------------------------------
+Number of variables: 22939
+Number of clauses: 113003
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27002_terminationG_0.smt2 : 7100 ms.
+--------------------------------------------------
+Number of variables: 18044
+Number of clauses: 90751
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27006_terminationG_0.smt2 : 14210 ms.
+--------------------------------------------------
+Number of variables: 24183
+Number of clauses: 119930
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27007_terminationG_0.smt2 : 59562 ms.
+--------------------------------------------------
+Number of variables: 19314
+Number of clauses: 97863
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27011_terminationG_0.smt2 : 355 ms.
+--------------------------------------------------
+Number of variables: 25462
+Number of clauses: 127107
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27012_terminationG_0.smt2 : 12658 ms.
+--------------------------------------------------
+Number of variables: 20678
+Number of clauses: 105633
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27016_terminationG_0.smt2 : 5879 ms.
+--------------------------------------------------
+Number of variables: 26840
+Number of clauses: 134982
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27017_terminationG_0.smt2 : 65259 ms.
+--------------------------------------------------
+Number of variables: 22042
+Number of clauses: 113413
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27021_terminationG_0.smt2 : 5170 ms.
+--------------------------------------------------
+Number of variables: 28207
+Number of clauses: 142782
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27022_terminationG_0.smt2 : 45132 ms.
+--------------------------------------------------
+Number of variables: 23355
+Number of clauses: 120850
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27026_terminationG_0.smt2 : 4659 ms.
+--------------------------------------------------
+Number of variables: 29529
+Number of clauses: 150284
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27027_terminationG_0.smt2 : 27703 ms.
+--------------------------------------------------
+Number of variables: 24696
+Number of clauses: 128492
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27031_terminationG_0.smt2 : 6819 ms.
+--------------------------------------------------
+Number of variables: 30869
+Number of clauses: 157921
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27032_terminationG_0.smt2 : 46652 ms.
+--------------------------------------------------
+Number of variables: 314135
+Number of clauses: 1524535
+Number of variables: 378828
+Number of clauses: 1930030
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27038_edge_closing_0.smt2 : 26330 ms.
+--------------------------------------------------
+Number of variables: 337129
+Number of clauses: 1632651
+Number of variables: 420951
+Number of clauses: 2125849
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27039_edge_closing_0.smt2 : 38345 ms.
+--------------------------------------------------
+Number of variables: 361389
+Number of clauses: 1749349
+Number of variables: 464701
+Number of clauses: 2331973
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27040_edge_closing_0.smt2 : 148340 ms.
+--------------------------------------------------
+Number of variables: 8286
+Number of clauses: 37438
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27051_terminationG_0.smt2 : 156 ms.
+--------------------------------------------------
+Number of variables: 14257
+Number of clauses: 65647
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27052_terminationG_0.smt2 : 239 ms.
+--------------------------------------------------
+Number of variables: 8333
+Number of clauses: 37662
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27056_terminationG_0.smt2 : 241 ms.
+--------------------------------------------------
+Number of variables: 14327
+Number of clauses: 65982
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27057_terminationG_0.smt2 : 205 ms.
+--------------------------------------------------
+Number of variables: 8399
+Number of clauses: 37963
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27061_terminationG_0.smt2 : 418 ms.
+--------------------------------------------------
+Number of variables: 14418
+Number of clauses: 66409
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27062_terminationG_0.smt2 : 1999 ms.
+--------------------------------------------------
+Number of variables: 12780
+Number of clauses: 59577
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27068_terminationG_0.smt2 : 512 ms.
+--------------------------------------------------
+Number of variables: 22701
+Number of clauses: 107382
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27069_terminationG_0.smt2 : 7788 ms.
+--------------------------------------------------
+Number of variables: 23133
+Number of clauses: 110108
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27077_terminationG_0.smt2 : 3182 ms.
+--------------------------------------------------
+Number of variables: 17976
+Number of clauses: 86434
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27083_terminationG_0.smt2 : 6780 ms.
+--------------------------------------------------
+Number of variables: 24863
+Number of clauses: 118192
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27084_terminationG_0.smt2 : 3999 ms.
+--------------------------------------------------
+Number of variables: 29214
+Number of clauses: 143647
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27092_terminationG_0.smt2 : 3386 ms.
+--------------------------------------------------
+Number of variables: 39099
+Number of clauses: 189777
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27093_terminationG_0.smt2 : 9908 ms.
+--------------------------------------------------
+Number of variables: 20936
+Number of clauses: 104823
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27097_terminationG_0.smt2 : 15173 ms.
+--------------------------------------------------
+Number of variables: 28501
+Number of clauses: 141211
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27098_terminationG_0.smt2 : 87383 ms.
+--------------------------------------------------
+Number of variables: 31784
+Number of clauses: 158002
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27109_terminationG_0.smt2 : 31891 ms.
+--------------------------------------------------
+Number of variables: 43785
+Number of clauses: 216233
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27110_terminationG_0.smt2 : 34232 ms.
+--------------------------------------------------
+Number of variables: 36169
+Number of clauses: 180375
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27122_terminationG_0.smt2 : 10272 ms.
+--------------------------------------------------
+Number of variables: 49945
+Number of clauses: 247508
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27123_terminationG_0.smt2 : 32485 ms.
+--------------------------------------------------
+Number of variables: 39593
+Number of clauses: 199503
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27135_terminationG_0.smt2 : 11663 ms.
+--------------------------------------------------
+Number of variables: 40586
+Number of clauses: 210971
+Number of variables: 70007
+Number of clauses: 352478
+sat
+check sat
+SAT_Split_100/7/QF_NIA_SAT/20170427-VeryMax/CInteger/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27136_terminationG_0.smt2 : 54648 ms.

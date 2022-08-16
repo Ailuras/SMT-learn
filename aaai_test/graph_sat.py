@@ -84,13 +84,29 @@ def get_graph_sat(category='none', graph='none'):
         plt.xlabel('time (s)') # 纵坐标轴的标题
     plt.legend() # 显示图例, 图例中内容由 label 定义
     plt.yscale("log")
+    plt.axhline(y=0.1,ls=":",c="gray")
+    plt.axhline(y=1,ls=":",c="gray")
+    plt.axhline(y=10,ls=":",c="gray")
+    plt.axhline(y=100,ls=":",c="gray")
+    plt.axhline(y=1000,ls=":",c="gray")
+    plt.axhline(y=10000,ls=":",c="gray")
+    plt.axhline(y=100000,ls=":",c="gray")
+    plt.axhline(y=1000000,ls=":",c="gray")
+    
+    plt.axvline(x=1000,ls=":",c="gray")
+    plt.axvline(x=2000,ls=":",c="gray")
+    plt.axvline(x=3000,ls=":",c="gray")
+    plt.axvline(x=4000,ls=":",c="gray")
+    plt.axvline(x=5000,ls=":",c="gray")
+    # plt.axvline(x=3000,ls=":",c="gray")
+    
     # plt.xscale("log")
     if category == 'none':
         plt.savefig('result/experiments_sat.pdf')
     else:
         plt.savefig('result/experiments_sat_' + category + '.pdf')
-    # plt.show()
-    plt.close()
+    plt.show()
+    # plt.close()
 
 # get_sat()
 # get_sat(path='cvc5')

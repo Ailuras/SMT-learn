@@ -154,7 +154,7 @@ def get_sat(path='blan'):
                     else:
                         with open('error.log',"a") as f1:
                             f1.write(new_path, info)
-    print(len(sat_list))
+    print(path, 'sat: ', len(sat_list))
     # print(sat_list[0])
     select(path, sat_list)
 
@@ -203,7 +203,7 @@ def get_all_sat(path='blan', all_sat_list=[]):
                     else:
                         with open('error.log',"a") as f1:
                             f1.write(new_path, info)
-    print('count: ', len(all_sat_list))
+    print(path, 'all_sat: ', len(all_sat_list))
     return all_sat_list
     # print(sat_list[0])
 
