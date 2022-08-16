@@ -1,0 +1,690 @@
+--------------------------------------------------
+Number of variables: 69109
+Number of clauses: 407121
+Number of variables: 91236
+Number of clauses: 526791
+Number of variables: 156758
+Number of clauses: 890677
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8434_safety_0.smt2 : 18289 ms.
+--------------------------------------------------
+Number of variables: 215584
+Number of clauses: 1362552
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8435_safety_0.smt2 : 62640 ms.
+--------------------------------------------------
+Number of variables: 128125
+Number of clauses: 746640
+Number of variables: 181581
+Number of clauses: 1027846
+Number of variables: 336553
+Number of clauses: 1872888
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8436_safety_0.smt2 : 37125 ms.
+--------------------------------------------------
+Number of variables: 328794
+Number of clauses: 2055867
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8437_safety_0.smt2 : 84909 ms.
+--------------------------------------------------
+Number of variables: 203452
+Number of clauses: 1178570
+Number of variables: 297007
+Number of clauses: 1660814
+Number of variables: 571813
+Number of clauses: 3145748
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8438_safety_0.smt2 : 340584 ms.
+--------------------------------------------------
+Number of variables: 22983
+Number of clauses: 119983
+Number of variables: 35589
+Number of clauses: 179921
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8442_safety_0.smt2 : 29722 ms.
+--------------------------------------------------
+Number of variables: 35584
+Number of clauses: 185036
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8443_safety_0.smt2 : 1200016 ms.
+--------------------------------------------------
+Number of variables: 21518
+Number of clauses: 110038
+Number of variables: 33842
+Number of clauses: 168084
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8445_safety_0.smt2 : 36984 ms.
+--------------------------------------------------
+Number of variables: 33679
+Number of clauses: 172028
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8446_safety_0.smt2 : 1200019 ms.
+--------------------------------------------------
+Number of variables: 57934
+Number of clauses: 333653
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8452_safety_0.smt2 : 1200021 ms.
+--------------------------------------------------
+Number of variables: 38551
+Number of clauses: 222076
+Number of variables: 53157
+Number of clauses: 295206
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8454_safety_0.smt2 : 101574 ms.
+--------------------------------------------------
+Number of variables: 55415
+Number of clauses: 316425
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8456_safety_0.smt2 : 1200018 ms.
+--------------------------------------------------
+Number of variables: 39182
+Number of clauses: 207553
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8458_safety_0.smt2 : 1200016 ms.
+--------------------------------------------------
+Number of variables: 123592
+Number of clauses: 798357
+Number of variables: 152838
+Number of clauses: 968600
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8459_safety_0.smt2 : 30663 ms.
+--------------------------------------------------
+Number of variables: 220573
+Number of clauses: 1398635
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8460_safety_0.smt2 : 136397 ms.
+--------------------------------------------------
+Number of variables: 335820
+Number of clauses: 2106800
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8461_safety_0.smt2 : 38093 ms.
+--------------------------------------------------
+Number of variables: 106667
+Number of clauses: 679621
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8462_safety_0.smt2 : 4906 ms.
+--------------------------------------------------
+Number of variables: 23521
+Number of clauses: 122929
+Number of variables: 36465
+Number of clauses: 184835
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8464_safety_0.smt2 : 27652 ms.
+--------------------------------------------------
+Number of variables: 188481
+Number of clauses: 1179179
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8465_safety_0.smt2 : 4528 ms.
+--------------------------------------------------
+Number of variables: 287078
+Number of clauses: 1777774
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8466_safety_0.smt2 : 71646 ms.
+--------------------------------------------------
+Number of variables: 37112
+Number of clauses: 193195
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8467_safety_0.smt2 : 1200013 ms.
+--------------------------------------------------
+Number of variables: 24283
+Number of clauses: 127924
+Number of variables: 37353
+Number of clauses: 190684
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8469_safety_0.smt2 : 26074 ms.
+--------------------------------------------------
+Number of variables: 38192
+Number of clauses: 200318
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8470_safety_0.smt2 : 1200016 ms.
+--------------------------------------------------
+Number of variables: 45745
+Number of clauses: 271801
+Number of variables: 61667
+Number of clauses: 353442
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8472_safety_0.smt2 : 55889 ms.
+--------------------------------------------------
+Number of variables: 66934
+Number of clauses: 394056
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8473_safety_0.smt2 : 1200020 ms.
+--------------------------------------------------
+Number of variables: 25820
+Number of clauses: 138641
+Number of variables: 39178
+Number of clauses: 203302
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8475_safety_0.smt2 : 33352 ms.
+--------------------------------------------------
+Number of variables: 40229
+Number of clauses: 214584
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8476_safety_0.smt2 : 1200021 ms.
+--------------------------------------------------
+Number of variables: 27651
+Number of clauses: 170943
+Number of variables: 34245
+Number of clauses: 207813
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8477_safety_0.smt2 : 1531 ms.
+--------------------------------------------------
+Number of variables: 47937
+Number of clauses: 286963
+Number of variables: 64123
+Number of clauses: 370398
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8478_safety_0.smt2 : 79060 ms.
+--------------------------------------------------
+Number of variables: 69851
+Number of clauses: 414268
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8479_safety_0.smt2 : 1200018 ms.
+--------------------------------------------------
+Number of variables: 46819
+Number of clauses: 279313
+Number of variables: 62871
+Number of clauses: 361822
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8481_safety_0.smt2 : 83144 ms.
+--------------------------------------------------
+Number of variables: 68465
+Number of clauses: 404796
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8482_safety_0.smt2 : 1200020 ms.
+--------------------------------------------------
+Number of variables: 62921
+Number of clauses: 378302
+Number of variables: 83449
+Number of clauses: 487834
+Number of variables: 143207
+Number of clauses: 823862
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8483_safety_0.smt2 : 30838 ms.
+--------------------------------------------------
+Number of variables: 122151
+Number of clauses: 712627
+Number of variables: 173505
+Number of clauses: 976559
+Number of variables: 327171
+Number of clauses: 1818556
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8484_safety_0.smt2 : 190591 ms.
+--------------------------------------------------
+Number of variables: 27839
+Number of clauses: 172159
+Number of variables: 34449
+Number of clauses: 209129
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8485_safety_0.smt2 : 1011 ms.
+--------------------------------------------------
+Number of variables: 48275
+Number of clauses: 289213
+Number of variables: 64493
+Number of clauses: 372848
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8486_safety_0.smt2 : 59549 ms.
+--------------------------------------------------
+Number of variables: 70339
+Number of clauses: 417552
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8487_safety_0.smt2 : 1200021 ms.
+--------------------------------------------------
+Number of variables: 194900
+Number of clauses: 1120531
+Number of variables: 288624
+Number of clauses: 1600976
+Number of variables: 563598
+Number of clauses: 3090941
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8488_safety_0.smt2 : 272247 ms.
+--------------------------------------------------
+Number of variables: 112133
+Number of clauses: 718862
+Number of variables: 139461
+Number of clauses: 878790
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8489_safety_0.smt2 : 23107 ms.
+--------------------------------------------------
+Number of variables: 199951
+Number of clauses: 1257736
+Number of variables: 261998
+Number of clauses: 1606983
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8490_safety_0.smt2 : 883271 ms.
+--------------------------------------------------
+Number of variables: 304744
+Number of clauses: 1897052
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8491_safety_0.smt2 : 1200050 ms.
+--------------------------------------------------
+Number of variables: 115496
+Number of clauses: 742404
+Number of variables: 143322
+Number of clauses: 905865
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8494_safety_0.smt2 : 43560 ms.
+--------------------------------------------------
+Number of variables: 205755
+Number of clauses: 1298516
+Number of variables: 268664
+Number of clauses: 1653931
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8495_safety_0.smt2 : 1200041 ms.
+--------------------------------------------------
+Number of variables: 313171
+Number of clauses: 1956435
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8496_safety_0.smt2 : 1200046 ms.
+--------------------------------------------------
+Number of variables: 20808
+Number of clauses: 110162
+Number of variables: 31570
+Number of clauses: 161932
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8500_safety_0.smt2 : 23768 ms.
+--------------------------------------------------
+Number of variables: 31042
+Number of clauses: 161021
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8504_safety_0.smt2 : 1200017 ms.
+--------------------------------------------------
+Number of variables: 35484
+Number of clauses: 189138
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8507_safety_0.smt2 : 1200022 ms.
+--------------------------------------------------
+Number of variables: 36780
+Number of clauses: 197882
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8510_safety_0.smt2 : 1200012 ms.
+--------------------------------------------------
+Number of variables: 37159
+Number of clauses: 200384
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8513_safety_0.smt2 : 1200021 ms.
+--------------------------------------------------
+Number of variables: 22486
+Number of clauses: 120772
+Number of variables: 33778
+Number of clauses: 175804
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8515_safety_0.smt2 : 21869 ms.
+--------------------------------------------------
+Number of variables: 35869
+Number of clauses: 191685
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8516_safety_0.smt2 : 1200016 ms.
+--------------------------------------------------
+Number of variables: 76120
+Number of clauses: 458711
+Number of variables: 100259
+Number of clauses: 591348
+Number of variables: 167635
+Number of clauses: 971079
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8517_safety_0.smt2 : 51479 ms.
+--------------------------------------------------
+Number of variables: 145427
+Number of clauses: 863060
+Number of variables: 202937
+Number of clauses: 1170199
+Number of variables: 363839
+Number of clauses: 2056958
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8518_safety_0.smt2 : 272078 ms.
+--------------------------------------------------
+Number of variables: 231187
+Number of clauses: 1360885
+Number of variables: 330816
+Number of clauses: 1881863
+Number of variables: 615628
+Number of clauses: 3434386
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8519_safety_0.smt2 : 440655 ms.
+--------------------------------------------------
+Number of variables: 25378
+Number of clauses: 153101
+Number of variables: 31492
+Number of clauses: 186596
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8523_safety_0.smt2 : 1153 ms.
+--------------------------------------------------
+Number of variables: 56717
+Number of clauses: 325382
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8528_safety_0.smt2 : 1200019 ms.
+--------------------------------------------------
+Number of variables: 109644
+Number of clauses: 700497
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8529_safety_0.smt2 : 15161 ms.
+--------------------------------------------------
+Number of variables: 193323
+Number of clauses: 1213284
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8530_safety_0.smt2 : 3414 ms.
+--------------------------------------------------
+Number of variables: 293937
+Number of clauses: 1826213
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8531_safety_0.smt2 : 37786 ms.
+--------------------------------------------------
+Number of variables: 26450
+Number of clauses: 163196
+Number of variables: 32714
+Number of clauses: 198322
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8532_safety_0.smt2 : 982 ms.
+--------------------------------------------------
+Number of variables: 46327
+Number of clauses: 275789
+Number of variables: 62323
+Number of clauses: 357840
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8533_safety_0.smt2 : 73922 ms.
+--------------------------------------------------
+Number of variables: 49142
+Number of clauses: 295389
+Number of variables: 65460
+Number of clauses: 379615
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8535_safety_0.smt2 : 108103 ms.
+--------------------------------------------------
+Number of variables: 67670
+Number of clauses: 399121
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8536_safety_0.smt2 : 1200017 ms.
+--------------------------------------------------
+Number of variables: 71462
+Number of clauses: 425577
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8537_safety_0.smt2 : 1200018 ms.
+--------------------------------------------------
+Number of variables: 71544
+Number of clauses: 426003
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8540_safety_0.smt2 : 1200036 ms.
+--------------------------------------------------
+Number of variables: 26642
+Number of clauses: 164461
+Number of variables: 32928
+Number of clauses: 199721
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8541_safety_0.smt2 : 1817 ms.
+--------------------------------------------------
+Number of variables: 46677
+Number of clauses: 278151
+Number of variables: 62713
+Number of clauses: 360456
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8542_safety_0.smt2 : 68328 ms.
+--------------------------------------------------
+Number of variables: 68178
+Number of clauses: 402580
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8543_safety_0.smt2 : 1200020 ms.
+--------------------------------------------------
+Number of variables: 115323
+Number of clauses: 741041
+Number of variables: 143081
+Number of clauses: 903968
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8544_safety_0.smt2 : 43269 ms.
+--------------------------------------------------
+Number of variables: 205159
+Number of clauses: 1294057
+Number of variables: 267936
+Number of clauses: 1648463
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8545_safety_0.smt2 : 1046989 ms.
+--------------------------------------------------
+Number of variables: 312072
+Number of clauses: 1948280
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8546_safety_0.smt2 : 1200062 ms.
+--------------------------------------------------
+Number of variables: 118743
+Number of clauses: 764742
+Number of variables: 147005
+Number of clauses: 931268
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8547_safety_0.smt2 : 25501 ms.
+--------------------------------------------------
+Number of variables: 211008
+Number of clauses: 1334733
+Number of variables: 274663
+Number of clauses: 1695453
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8548_safety_0.smt2 : 1200044 ms.
+--------------------------------------------------
+Number of variables: 320492
+Number of clauses: 2006996
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8549_safety_0.smt2 : 1200047 ms.
+--------------------------------------------------
+Number of variables: 79092
+Number of clauses: 479156
+Number of variables: 103751
+Number of clauses: 615408
+Number of variables: 172211
+Number of clauses: 1002699
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8550_safety_0.smt2 : 17223 ms.
+--------------------------------------------------
+Number of variables: 150561
+Number of clauses: 898658
+Number of variables: 208957
+Number of clauses: 1212037
+Number of variables: 371631
+Number of clauses: 2111276
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8551_safety_0.smt2 : 166767 ms.
+--------------------------------------------------
+Number of variables: 238640
+Number of clauses: 1412776
+Number of variables: 339499
+Number of clauses: 1942454
+Number of variables: 626771
+Number of clauses: 3512377
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8552_safety_0.smt2 : 359892 ms.
+--------------------------------------------------
+Number of variables: 60556
+Number of clauses: 351792
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8560_safety_0.smt2 : 1200014 ms.
+--------------------------------------------------
+Number of variables: 57965
+Number of clauses: 334024
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8561_safety_0.smt2 : 1200018 ms.
+--------------------------------------------------
+Number of variables: 112434
+Number of clauses: 720134
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8562_safety_0.smt2 : 14800 ms.
+--------------------------------------------------
+Number of variables: 197796
+Number of clauses: 1244901
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8563_safety_0.smt2 : 19232 ms.
+--------------------------------------------------
+Number of variables: 300199
+Number of clauses: 1870605
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8564_safety_0.smt2 : 26621 ms.
+--------------------------------------------------
+Number of variables: 28885
+Number of clauses: 179476
+Number of variables: 35609
+Number of clauses: 217110
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8565_safety_0.smt2 : 1467 ms.
+--------------------------------------------------
+Number of variables: 49706
+Number of clauses: 299318
+Number of variables: 66062
+Number of clauses: 383767
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8566_safety_0.smt2 : 65832 ms.
+--------------------------------------------------
+Number of variables: 72165
+Number of clauses: 430513
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8567_safety_0.smt2 : 1200019 ms.
+--------------------------------------------------
+Number of variables: 48320
+Number of clauses: 289585
+Number of variables: 64558
+Number of clauses: 373297
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8569_safety_0.smt2 : 72991 ms.
+--------------------------------------------------
+Number of variables: 70393
+Number of clauses: 418029
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8570_safety_0.smt2 : 1200023 ms.
+--------------------------------------------------
+Number of variables: 29535
+Number of clauses: 184010
+Number of variables: 36341
+Number of clauses: 222183
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8573_safety_0.smt2 : 1412 ms.
+--------------------------------------------------
+Number of variables: 50826
+Number of clauses: 307181
+Number of variables: 67316
+Number of clauses: 392529
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8574_safety_0.smt2 : 56195 ms.
+--------------------------------------------------
+Number of variables: 73763
+Number of clauses: 441765
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8575_safety_0.smt2 : 1200012 ms.
+--------------------------------------------------
+Number of variables: 27921
+Number of clauses: 173265
+Number of variables: 34365
+Number of clauses: 209604
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8576_safety_0.smt2 : 1596 ms.
+--------------------------------------------------
+Number of variables: 48670
+Number of clauses: 291947
+Number of variables: 64948
+Number of clauses: 375913
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8577_safety_0.smt2 : 119747 ms.
+--------------------------------------------------
+Number of variables: 70901
+Number of clauses: 421488
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8578_safety_0.smt2 : 1200034 ms.
+--------------------------------------------------
+Number of variables: 117788
+Number of clauses: 758883
+Number of variables: 145582
+Number of clauses: 921895
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8579_safety_0.smt2 : 64294 ms.
+--------------------------------------------------
+Number of variables: 209099
+Number of clauses: 1322716
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8580_safety_0.smt2 : 1200036 ms.
+--------------------------------------------------
+Number of variables: 317553
+Number of clauses: 1988251
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8581_safety_0.smt2 : 1200050 ms.
+--------------------------------------------------
+Number of variables: 121035
+Number of clauses: 781410
+Number of variables: 149325
+Number of clauses: 947957
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8582_safety_0.smt2 : 73063 ms.
+--------------------------------------------------
+Number of variables: 214709
+Number of clauses: 1361808
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8583_safety_0.smt2 : 1200059 ms.
+--------------------------------------------------
+Number of variables: 325708
+Number of clauses: 2045273
+command failed
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8584_safety_0.smt2 : 1200080 ms.
+--------------------------------------------------
+Number of variables: 94262
+Number of clauses: 489097
+Number of variables: 139497
+Number of clauses: 706635
+Number of variables: 282981
+Number of clauses: 1445782
+sat
+check sat
+SAT_Split_100/45/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p8589_terminationG_0.smt2 : 38042 ms.

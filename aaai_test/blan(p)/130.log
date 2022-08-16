@@ -1,0 +1,587 @@
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0960.smt2 : 1203953 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0961.smt2 : 1203190 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0962.smt2 : 1203707 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0963.smt2 : 1203244 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0964.smt2 : 1203248 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0965.smt2 : 1203707 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0966.smt2 : 1204267 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0969.smt2 : 1202983 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0970.smt2 : 1203455 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0971.smt2 : 1204035 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0972.smt2 : 1203934 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0973.smt2 : 1203429 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0974.smt2 : 1202694 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0978.smt2 : 1202783 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0979.smt2 : 1203278 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0980.smt2 : 1203418 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0981.smt2 : 1202948 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0982.smt2 : 1203035 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0983.smt2 : 1202598 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0984.smt2 : 1203547 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0987.smt2 : 1205007 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0988.smt2 : 1203472 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0989.smt2 : 1203642 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0990.smt2 : 1204202 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0991.smt2 : 1203522 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0992.smt2 : 1203622 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0993.smt2 : 1205908 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0996.smt2 : 1203380 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0997.smt2 : 1204585 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0998.smt2 : 1203561 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_0999.smt2 : 1203288 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/STC_1000.smt2 : 1203670 ms.
+--------------------------------------------------
+Number of variables: 528
+Number of clauses: 2273
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_01.smt2 : 17 ms.
+--------------------------------------------------
+Number of variables: 1071
+Number of clauses: 4627
+Number of variables: 2528
+Number of clauses: 12211
+Number of variables: 7316
+Number of clauses: 38611
+Number of variables: 24380
+Number of clauses: 136339
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_02.smt2 : 992 ms.
+--------------------------------------------------
+Number of variables: 1634
+Number of clauses: 7065
+Number of variables: 3831
+Number of clauses: 18501
+Number of variables: 11035
+Number of clauses: 58221
+Number of variables: 36675
+Number of clauses: 205053
+Number of variables: 132883
+Number of clauses: 768285
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_03.smt2 : 1200017 ms.
+--------------------------------------------------
+Number of variables: 2217
+Number of clauses: 9587
+Number of variables: 5162
+Number of clauses: 24915
+Number of variables: 14798
+Number of clauses: 78035
+Number of variables: 49046
+Number of clauses: 274131
+Number of variables: 177446
+Number of clauses: 1025747
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_04.smt2 : 1200020 ms.
+--------------------------------------------------
+Number of variables: 2820
+Number of clauses: 12193
+Number of variables: 6521
+Number of clauses: 31453
+Number of variables: 18605
+Number of clauses: 98053
+Number of variables: 61493
+Number of clauses: 343573
+Number of variables: 222149
+Number of clauses: 1283893
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_05.smt2 : 1200022 ms.
+--------------------------------------------------
+Number of variables: 3443
+Number of clauses: 14883
+Number of variables: 7908
+Number of clauses: 38115
+Number of variables: 22456
+Number of clauses: 118275
+Number of variables: 74016
+Number of clauses: 413379
+Number of variables: 266992
+Number of clauses: 1542723
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_06.smt2 : 1200028 ms.
+--------------------------------------------------
+Number of variables: 4086
+Number of clauses: 17657
+Number of variables: 9323
+Number of clauses: 44901
+Number of variables: 26351
+Number of clauses: 138701
+Number of variables: 86615
+Number of clauses: 483549
+Number of variables: 311975
+Number of clauses: 1802237
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_07.smt2 : 1200027 ms.
+--------------------------------------------------
+Number of variables: 4749
+Number of clauses: 20515
+Number of variables: 10766
+Number of clauses: 51811
+Number of variables: 30290
+Number of clauses: 159331
+Number of variables: 99290
+Number of clauses: 554083
+Number of variables: 357098
+Number of clauses: 2062435
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_08.smt2 : 1200050 ms.
+--------------------------------------------------
+Number of variables: 5432
+Number of clauses: 23457
+Number of variables: 12237
+Number of clauses: 58845
+Number of variables: 34273
+Number of clauses: 180165
+Number of variables: 112041
+Number of clauses: 624981
+Number of variables: 402361
+Number of clauses: 2323317
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_09.smt2 : 1200047 ms.
+--------------------------------------------------
+Number of variables: 6135
+Number of clauses: 26483
+Number of variables: 13736
+Number of clauses: 66003
+Number of variables: 38300
+Number of clauses: 201203
+Number of variables: 124868
+Number of clauses: 696243
+Number of variables: 447764
+Number of clauses: 2584883
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_10.smt2 : 1200045 ms.
+--------------------------------------------------
+Number of variables: 6858
+Number of clauses: 29593
+Number of variables: 15263
+Number of clauses: 73285
+Number of variables: 42371
+Number of clauses: 222445
+Number of variables: 137771
+Number of clauses: 767869
+Number of variables: 493307
+Number of clauses: 2847133
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_11.smt2 : 1200041 ms.
+--------------------------------------------------
+Number of variables: 7601
+Number of clauses: 32787
+Number of variables: 16818
+Number of clauses: 80691
+Number of variables: 46486
+Number of clauses: 243891
+Number of variables: 150750
+Number of clauses: 839859
+Number of variables: 538990
+Number of clauses: 3110067
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_12.smt2 : 1200041 ms.
+--------------------------------------------------
+Number of variables: 4762
+Number of clauses: 18723
+Number of variables: 12668
+Number of clauses: 58399
+Number of variables: 40648
+Number of clauses: 210759
+Number of variables: 145280
+Number of clauses: 807511
+Number of variables: 549232
+Number of clauses: 3169143
+command failed
+SAT_Split_100/130/QF_NIA_SAT/20220315-MathProblems/TA_13.smt2 : 1200042 ms.
+--------------------------------------------------
+Number of variables: 53169
+Number of clauses: 229878
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1001700549504608195.smt2 : 1373 ms.
+--------------------------------------------------
+Number of variables: 258
+Number of clauses: 969
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1002369120799378097.smt2 : 11 ms.
+--------------------------------------------------
+Number of variables: 2380
+Number of clauses: 9872
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1002987040614633432.smt2 : 27 ms.
+--------------------------------------------------
+Number of variables: 1177
+Number of clauses: 4279
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1003079011540423379.smt2 : 19 ms.
+--------------------------------------------------
+Number of variables: 467
+Number of clauses: 1705
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1004548876139444098.smt2 : 13 ms.
+--------------------------------------------------
+Number of variables: 101
+Number of clauses: 389
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1006593265001882878.smt2 : 11 ms.
+--------------------------------------------------
+Number of variables: 7780
+Number of clauses: 32622
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1007445772889800596.smt2 : 152 ms.
+--------------------------------------------------
+Number of variables: 241
+Number of clauses: 863
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1008289700543544835.smt2 : 11 ms.
+--------------------------------------------------
+Number of variables: 3789
+Number of clauses: 15933
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1009548771014223017.smt2 : 54 ms.
+--------------------------------------------------
+Number of variables: 25622
+Number of clauses: 118566
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1010832203505577909.smt2 : 1457 ms.
+--------------------------------------------------
+Number of variables: 574
+Number of clauses: 2313
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1011702640639437570.smt2 : 15 ms.
+--------------------------------------------------
+Number of variables: 101
+Number of clauses: 389
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1016338376657137265.smt2 : 10 ms.
+--------------------------------------------------
+Number of variables: 354
+Number of clauses: 1284
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1017370803858160340.smt2 : 9 ms.
+--------------------------------------------------
+Number of variables: 810
+Number of clauses: 3027
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1017862898884660660.smt2 : 11 ms.
+--------------------------------------------------
+Number of variables: 354
+Number of clauses: 1284
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1021654105853853383.smt2 : 12 ms.
+--------------------------------------------------
+Number of variables: 31168
+Number of clauses: 126539
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT102176498393626587.smt2 : 459 ms.
+--------------------------------------------------
+Number of variables: 275
+Number of clauses: 1034
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1022543817592849705.smt2 : 12 ms.
+--------------------------------------------------
+Number of variables: 960
+Number of clauses: 3522
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1023437561463628372.smt2 : 17 ms.
+--------------------------------------------------
+Number of variables: 350
+Number of clauses: 1278
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1026916174897974995.smt2 : 12 ms.
+--------------------------------------------------
+Number of variables: 463
+Number of clauses: 1699
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1031134853756247882.smt2 : 12 ms.
+--------------------------------------------------
+Number of variables: 58526
+Number of clauses: 253526
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1033597413588659161.smt2 : 1476 ms.
+--------------------------------------------------
+Number of variables: 685
+Number of clauses: 2535
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1038244403212994346.smt2 : 15 ms.
+--------------------------------------------------
+Number of variables: 101
+Number of clauses: 389
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1044364220480225355.smt2 : 10 ms.
+--------------------------------------------------
+Number of variables: 101
+Number of clauses: 389
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1045293394610378205.smt2 : 9 ms.
+--------------------------------------------------
+Number of variables: 188
+Number of clauses: 745
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1052446639564253740.smt2 : 8 ms.
+--------------------------------------------------
+Number of variables: 275
+Number of clauses: 1101
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1061498247469120548.smt2 : 9 ms.
+--------------------------------------------------
+Number of variables: 101
+Number of clauses: 389
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT106352422603502658.smt2 : 11 ms.
+--------------------------------------------------
+Number of variables: 138575
+Number of clauses: 586249
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1067132971625049215.smt2 : 13416 ms.
+--------------------------------------------------
+Number of variables: 144912
+Number of clauses: 631645
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1067631316961394932.smt2 : 12544 ms.
+--------------------------------------------------
+Number of variables: 1515
+Number of clauses: 6250
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1071993156819731935.smt2 : 16 ms.
+--------------------------------------------------
+Number of variables: 22844
+Number of clauses: 91255
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1074794681419974085.smt2 : 266 ms.
+--------------------------------------------------
+Number of variables: 98033
+Number of clauses: 421535
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1074996860240419241.smt2 : 5181 ms.
+--------------------------------------------------
+Number of variables: 621
+Number of clauses: 2601
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1076852626867582761.smt2 : 15 ms.
+--------------------------------------------------
+Number of variables: 237
+Number of clauses: 857
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1079747557447732919.smt2 : 12 ms.
+--------------------------------------------------
+Number of variables: 1893
+Number of clauses: 7503
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1090306236237454748.smt2 : 18 ms.
+--------------------------------------------------
+Number of variables: 251437
+Number of clauses: 1060286
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1090696552017880877.smt2 : 21771 ms.
+--------------------------------------------------
+Number of variables: 127397
+Number of clauses: 545124
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1091600435177837637.smt2 : 3603 ms.
+--------------------------------------------------
+Number of variables: 127371
+Number of clauses: 551204
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT109680382490054156.smt2 : 2376 ms.
+--------------------------------------------------
+Number of variables: 3366
+Number of clauses: 13671
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1097886040970681958.smt2 : 38 ms.
+--------------------------------------------------
+Number of variables: 2758
+Number of clauses: 11485
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1100514060021376770.smt2 : 45 ms.
+--------------------------------------------------
+Number of variables: 101
+Number of clauses: 389
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT110406245392905194.smt2 : 10 ms.
+--------------------------------------------------
+Number of variables: 2947
+Number of clauses: 13244
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT11071903920252280.smt2 : 37 ms.
+--------------------------------------------------
+Number of variables: 1144
+Number of clauses: 4211
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1111950584443484839.smt2 : 20 ms.
+--------------------------------------------------
+Number of variables: 1037
+Number of clauses: 3941
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1129263638860365935.smt2 : 18 ms.
+--------------------------------------------------
+Number of variables: 140332
+Number of clauses: 611549
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1131084632749157593.smt2 : 12323 ms.
+--------------------------------------------------
+Number of variables: 3444
+Number of clauses: 14445
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1133405555645861684.smt2 : 56 ms.
+--------------------------------------------------
+Number of variables: 931
+Number of clauses: 3590
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1136728765063211050.smt2 : 17 ms.
+--------------------------------------------------
+Number of variables: 266
+Number of clauses: 981
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1137981959460799878.smt2 : 11 ms.
+--------------------------------------------------
+Number of variables: 53986
+Number of clauses: 233081
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1140677938224943908.smt2 : 2132 ms.
+--------------------------------------------------
+Number of variables: 960
+Number of clauses: 3522
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1143797630444483755.smt2 : 19 ms.
+--------------------------------------------------
+Number of variables: 1735
+Number of clauses: 7337
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1149677724843175347.smt2 : 26 ms.
+--------------------------------------------------
+Number of variables: 771
+Number of clauses: 2949
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT115126613286344877.smt2 : 30 ms.
+--------------------------------------------------
+Number of variables: 74185
+Number of clauses: 317067
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1151853695059846557.smt2 : 1177 ms.
+--------------------------------------------------
+Number of variables: 1077
+Number of clauses: 3949
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1153589067579791073.smt2 : 14 ms.
+--------------------------------------------------
+Number of variables: 1275
+Number of clauses: 4917
+sat
+check sat
+SAT_Split_100/130/QF_NIA_SAT/AProVE/aproveSMT1154766035975480809.smt2 : 13 ms.

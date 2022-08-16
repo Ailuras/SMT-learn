@@ -77,8 +77,8 @@ def get_graph_sat(category='none', graph='none'):
     plt.plot(instances_ours, time_ours, 'r', label='BLAN')
 
     if graph == 'none':
-        plt.ylabel('time (s)') # 横坐标轴的标题
-        plt.xlabel('instances') # 纵坐标轴的标题
+        plt.ylabel('TIME (S)') # 横坐标轴的标题
+        plt.xlabel('INSTANCES') # 纵坐标轴的标题
     else:
         plt.ylabel('cumulative score') # 横坐标轴的标题
         plt.xlabel('time (s)') # 纵坐标轴的标题
@@ -117,16 +117,16 @@ def get_graph_sat(category='none', graph='none'):
 # classify('mathsat_sat', 'none', 'none')
 
 get_graph_sat()
-get_graph_sat('AProVE')
-get_graph_sat('calypto')
-get_graph_sat('Dartagnan')
-get_graph_sat('LassoRanker')
-get_graph_sat('leipzig')
-get_graph_sat('mcm')
-get_graph_sat('CInteger')
-get_graph_sat('ITS')
-get_graph_sat('SAT14')
-get_graph_sat('MathProblems')
+# get_graph_sat('AProVE')
+# get_graph_sat('calypto')
+# get_graph_sat('Dartagnan')
+# get_graph_sat('LassoRanker')
+# get_graph_sat('leipzig')
+# get_graph_sat('mcm')
+# get_graph_sat('CInteger')
+# get_graph_sat('ITS')
+# get_graph_sat('SAT14')
+# get_graph_sat('MathProblems')
 
 # get_graph_sat(graph='new')
 # get_graph_sat('AProVE')

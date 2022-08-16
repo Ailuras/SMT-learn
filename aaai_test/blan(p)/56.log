@@ -1,0 +1,706 @@
+--------------------------------------------------
+Number of variables: 6621
+Number of clauses: 30582
+Number of variables: 9897
+Number of clauses: 46606
+Number of variables: 19357
+Number of clauses: 96236
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__upAndDown_rec.jar-obl-8__p13165_edge_closing_0.smt2 : 7518 ms.
+--------------------------------------------------
+Number of variables: 16675
+Number of clauses: 78668
+Number of variables: 25185
+Number of clauses: 121266
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__upAndDown_rec.jar-obl-8__p13166_edge_closing_0.smt2 : 1200014 ms.
+--------------------------------------------------
+Number of variables: 30797
+Number of clauses: 147362
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__upAndDown_rec.jar-obl-8__p13167_edge_closing_0.smt2 : 1200013 ms.
+--------------------------------------------------
+Number of variables: 9016
+Number of clauses: 39573
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWide.jar-obl-8__p13217_terminationG_0.smt2 : 217 ms.
+--------------------------------------------------
+Number of variables: 8191
+Number of clauses: 37088
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWidening.jar-obl-8__p13230_terminationG_0.smt2 : 88 ms.
+--------------------------------------------------
+Number of variables: 13527
+Number of clauses: 62493
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWidening.jar-obl-8__p13231_terminationG_0.smt2 : 295 ms.
+--------------------------------------------------
+Number of variables: 9292
+Number of clauses: 44415
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWidening.jar-obl-8__p13236_terminationG_0.smt2 : 146 ms.
+--------------------------------------------------
+Number of variables: 11434
+Number of clauses: 55025
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWidening.jar-obl-8__p13241_terminationG_0.smt2 : 191 ms.
+--------------------------------------------------
+Number of variables: 6020
+Number of clauses: 28069
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWidening.jar-obl-8__p13255_edge_closing_0.smt2 : 149 ms.
+--------------------------------------------------
+Number of variables: 10651
+Number of clauses: 51080
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWidening.jar-obl-8__p13256_edge_closing_0.smt2 : 1358 ms.
+--------------------------------------------------
+Number of variables: 6295
+Number of clauses: 30183
+Number of variables: 9991
+Number of clauses: 47998
+Number of variables: 21995
+Number of clauses: 111290
+Number of variables: 64461
+Number of clauses: 348650
+Number of variables: 224345
+Number of clauses: 1273836
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWidening.jar-obl-8__p13265_edge_closing_0.smt2 : 572177 ms.
+--------------------------------------------------
+Number of variables: 9840
+Number of clauses: 47739
+Number of variables: 16122
+Number of clauses: 77970
+Number of variables: 36898
+Number of clauses: 187694
+Number of variables: 111430
+Number of clauses: 605144
+Number of variables: 393378
+Number of clauses: 2238330
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-alternDivWidening.jar-obl-8__p13266_edge_closing_0.smt2 : 373954 ms.
+--------------------------------------------------
+Number of variables: 3721
+Number of clauses: 16136
+Number of variables: 7486
+Number of clauses: 33646
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-complInterv.jar-obl-8__p13400_terminationG_0.smt2 : 1057 ms.
+--------------------------------------------------
+Number of variables: 5916
+Number of clauses: 27551
+Number of variables: 9968
+Number of clauses: 47625
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-complxStruc.jar-obl-8__p13418_terminationG_0.smt2 : 772 ms.
+--------------------------------------------------
+Number of variables: 19678
+Number of clauses: 92613
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-complxStruc.jar-obl-8__p13420_terminationG_0.smt2 : 469 ms.
+--------------------------------------------------
+Number of variables: 6675
+Number of clauses: 32318
+Number of variables: 11023
+Number of clauses: 54334
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-complxStruc.jar-obl-8__p13423_terminationG_0.smt2 : 4644 ms.
+--------------------------------------------------
+Number of variables: 13028
+Number of clauses: 62557
+Number of variables: 21942
+Number of clauses: 107239
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-complxStruc.jar-obl-8__p13424_terminationG_0.smt2 : 5658 ms.
+--------------------------------------------------
+Number of variables: 21103
+Number of clauses: 101876
+Number of variables: 35652
+Number of clauses: 174539
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-complxStruc.jar-obl-8__p13425_terminationG_0.smt2 : 108071 ms.
+--------------------------------------------------
+Number of variables: 10738
+Number of clauses: 50110
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-convLower.jar-obl-8__p13452_terminationG_0.smt2 : 78 ms.
+--------------------------------------------------
+Number of variables: 2688
+Number of clauses: 12270
+Number of variables: 4221
+Number of clauses: 19636
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-convLower.jar-obl-8__p13455_terminationG_0.smt2 : 63 ms.
+--------------------------------------------------
+Number of variables: 6166
+Number of clauses: 28455
+Number of variables: 10014
+Number of clauses: 47236
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-convLower.jar-obl-8__p13456_terminationG_0.smt2 : 122 ms.
+--------------------------------------------------
+Number of variables: 10842
+Number of clauses: 50660
+Number of variables: 17925
+Number of clauses: 85600
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-convLower.jar-obl-8__p13457_terminationG_0.smt2 : 607 ms.
+--------------------------------------------------
+Number of variables: 4786
+Number of clauses: 22010
+Number of variables: 7640
+Number of clauses: 35834
+Number of variables: 17480
+Number of clauses: 88204
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-convLower.jar-obl-8__p13461_terminationG_0.smt2 : 7295 ms.
+--------------------------------------------------
+Number of variables: 8191
+Number of clauses: 38107
+Number of variables: 13321
+Number of clauses: 63197
+Number of variables: 30785
+Number of clauses: 156486
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-convLower.jar-obl-8__p13462_terminationG_0.smt2 : 28764 ms.
+--------------------------------------------------
+Number of variables: 7045
+Number of clauses: 32876
+Number of variables: 11149
+Number of clauses: 53100
+Number of variables: 25045
+Number of clauses: 127521
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-convLower.jar-obl-8__p13471_edge_closing_0.smt2 : 4768 ms.
+--------------------------------------------------
+Number of variables: 5034
+Number of clauses: 22703
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex02.jar-obl-8__p13589_terminationG_0.smt2 : 64 ms.
+--------------------------------------------------
+Number of variables: 2200
+Number of clauses: 9784
+Number of variables: 3701
+Number of clauses: 16922
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex02.jar-obl-8__p13593_terminationG_0.smt2 : 56 ms.
+--------------------------------------------------
+Number of variables: 5070
+Number of clauses: 22847
+Number of variables: 8842
+Number of clauses: 41117
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex02.jar-obl-8__p13594_terminationG_0.smt2 : 769 ms.
+--------------------------------------------------
+Number of variables: 8992
+Number of clauses: 41206
+Number of variables: 15897
+Number of clauses: 74986
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex02.jar-obl-8__p13595_terminationG_0.smt2 : 2640 ms.
+--------------------------------------------------
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex04.jar-obl-8__p13663_edge_closing_0.smt2 : 1202420 ms.
+--------------------------------------------------
+Number of variables: 2568
+Number of clauses: 10973
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex07.jar-obl-9__p13721_edge_closing_0.smt2 : 34 ms.
+--------------------------------------------------
+Number of variables: 12559
+Number of clauses: 57828
+Number of variables: 19972
+Number of clauses: 94352
+Number of variables: 42778
+Number of clauses: 215638
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex08.jar-obl-8__p13740_terminationG_0.smt2 : 12991 ms.
+--------------------------------------------------
+Number of variables: 28567
+Number of clauses: 132144
+Number of variables: 45883
+Number of clauses: 218048
+Number of variables: 99339
+Number of clauses: 503395
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex08.jar-obl-8__p13741_terminationG_0.smt2 : 492477 ms.
+--------------------------------------------------
+Number of variables: 48289
+Number of clauses: 226030
+Number of variables: 77750
+Number of clauses: 373008
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex08.jar-obl-8__p13742_terminationG_0.smt2 : 1200018 ms.
+--------------------------------------------------
+Number of variables: 6282
+Number of clauses: 29098
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-ex09half.jar-obl-8__p13764_terminationG_0.smt2 : 560 ms.
+--------------------------------------------------
+Number of variables: 7722
+Number of clauses: 34961
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13784_terminationG_0.smt2 : 923 ms.
+--------------------------------------------------
+Number of variables: 12891
+Number of clauses: 59580
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13785_terminationG_0.smt2 : 911 ms.
+--------------------------------------------------
+Number of variables: 7191
+Number of clauses: 33948
+Number of variables: 13698
+Number of clauses: 64385
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13790_terminationG_0.smt2 : 13568 ms.
+--------------------------------------------------
+Number of variables: 13306
+Number of clauses: 63962
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13793_terminationG_0.smt2 : 158 ms.
+--------------------------------------------------
+Number of variables: 26484
+Number of clauses: 127193
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13794_terminationG_0.smt2 : 774 ms.
+--------------------------------------------------
+Number of variables: 44255
+Number of clauses: 215359
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13795_terminationG_0.smt2 : 8356 ms.
+--------------------------------------------------
+Number of variables: 11047
+Number of clauses: 52907
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13798_terminationG_0.smt2 : 141 ms.
+--------------------------------------------------
+Number of variables: 22158
+Number of clauses: 106267
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13799_terminationG_0.smt2 : 1366 ms.
+--------------------------------------------------
+Number of variables: 37194
+Number of clauses: 180900
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-factorial.jar-obl-8__p13800_terminationG_0.smt2 : 4262 ms.
+--------------------------------------------------
+Number of variables: 10540
+Number of clauses: 47787
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13845_terminationG_0.smt2 : 468 ms.
+--------------------------------------------------
+Number of variables: 5161
+Number of clauses: 23821
+Number of variables: 10145
+Number of clauses: 47269
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13849_terminationG_0.smt2 : 1338 ms.
+--------------------------------------------------
+Number of variables: 8920
+Number of clauses: 42030
+Number of variables: 17472
+Number of clauses: 82290
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13850_terminationG_0.smt2 : 18664 ms.
+--------------------------------------------------
+Number of variables: 7931
+Number of clauses: 38523
+Number of variables: 14943
+Number of clauses: 72406
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13856_terminationG_0.smt2 : 7872 ms.
+--------------------------------------------------
+Number of variables: 13703
+Number of clauses: 67512
+Number of variables: 25845
+Number of clauses: 126001
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13857_terminationG_0.smt2 : 4901 ms.
+--------------------------------------------------
+Number of variables: 7002
+Number of clauses: 35423
+Number of variables: 12384
+Number of clauses: 62432
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13863_terminationG_0.smt2 : 1340 ms.
+--------------------------------------------------
+Number of variables: 13522
+Number of clauses: 68083
+Number of variables: 24684
+Number of clauses: 123098
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13864_terminationG_0.smt2 : 5426 ms.
+--------------------------------------------------
+Number of variables: 22251
+Number of clauses: 112790
+Number of variables: 40889
+Number of clauses: 203891
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13865_terminationG_0.smt2 : 22824 ms.
+--------------------------------------------------
+Number of variables: 15619
+Number of clauses: 79295
+Number of variables: 28477
+Number of clauses: 142507
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13870_terminationG_0.smt2 : 1200016 ms.
+--------------------------------------------------
+Number of variables: 19069
+Number of clauses: 101314
+Number of variables: 32431
+Number of clauses: 167982
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13876_terminationG_0.smt2 : 1200018 ms.
+--------------------------------------------------
+Number of variables: 21193
+Number of clauses: 113719
+Number of variables: 35071
+Number of clauses: 183909
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13881_terminationG_0.smt2 : 1200018 ms.
+--------------------------------------------------
+Number of variables: 23923
+Number of clauses: 130602
+Number of variables: 38377
+Number of clauses: 204764
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13886_terminationG_0.smt2 : 1200016 ms.
+--------------------------------------------------
+Number of variables: 25171
+Number of clauses: 137396
+Number of variables: 39833
+Number of clauses: 213010
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13891_terminationG_0.smt2 : 1200017 ms.
+--------------------------------------------------
+Number of variables: 26449
+Number of clauses: 144405
+Number of variables: 41319
+Number of clauses: 221471
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13896_terminationG_0.smt2 : 1200024 ms.
+--------------------------------------------------
+Number of variables: 27653
+Number of clauses: 151077
+Number of variables: 42691
+Number of clauses: 229343
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13901_terminationG_0.smt2 : 1200020 ms.
+--------------------------------------------------
+Number of variables: 28819
+Number of clauses: 157477
+Number of variables: 44025
+Number of clauses: 236943
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13906_terminationG_0.smt2 : 1200019 ms.
+--------------------------------------------------
+Number of variables: 30103
+Number of clauses: 164615
+Number of variables: 45501
+Number of clauses: 245413
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13911_terminationG_0.smt2 : 1200023 ms.
+--------------------------------------------------
+Number of variables: 31425
+Number of clauses: 171996
+Number of variables: 47015
+Number of clauses: 254126
+command failed
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13916_terminationG_0.smt2 : 1200017 ms.
+--------------------------------------------------
+Number of variables: 27954
+Number of clauses: 134410
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13918_edge_closing_0.smt2 : 2240 ms.
+--------------------------------------------------
+Number of variables: 44824
+Number of clauses: 213893
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13919_edge_closing_0.smt2 : 5861 ms.
+--------------------------------------------------
+Number of variables: 64648
+Number of clauses: 310960
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13920_edge_closing_0.smt2 : 5915 ms.
+--------------------------------------------------
+Number of variables: 10666
+Number of clauses: 49735
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13922_edge_closing_0.smt2 : 224 ms.
+--------------------------------------------------
+Number of variables: 18214
+Number of clauses: 85308
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13923_edge_closing_0.smt2 : 450 ms.
+--------------------------------------------------
+Number of variables: 27180
+Number of clauses: 129243
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13924_edge_closing_0.smt2 : 2241 ms.
+--------------------------------------------------
+Number of variables: 8318
+Number of clauses: 39347
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13925_edge_closing_0.smt2 : 105 ms.
+--------------------------------------------------
+Number of variables: 14332
+Number of clauses: 68298
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13926_edge_closing_0.smt2 : 1245 ms.
+--------------------------------------------------
+Number of variables: 21661
+Number of clauses: 104846
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13927_edge_closing_0.smt2 : 11271 ms.
+--------------------------------------------------
+Number of variables: 12866
+Number of clauses: 61944
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13929_edge_closing_0.smt2 : 1029 ms.
+--------------------------------------------------
+Number of variables: 19562
+Number of clauses: 95645
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13930_edge_closing_0.smt2 : 2202 ms.
+--------------------------------------------------
+Number of variables: 7455
+Number of clauses: 36520
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13931_edge_closing_0.smt2 : 135 ms.
+--------------------------------------------------
+Number of variables: 12736
+Number of clauses: 62764
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13932_edge_closing_0.smt2 : 1190 ms.
+--------------------------------------------------
+Number of variables: 19281
+Number of clauses: 96240
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13933_edge_closing_0.smt2 : 2074 ms.
+--------------------------------------------------
+Number of variables: 18155
+Number of clauses: 88549
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13934_edge_closing_0.smt2 : 321 ms.
+--------------------------------------------------
+Number of variables: 30140
+Number of clauses: 147032
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13935_edge_closing_0.smt2 : 2371 ms.
+--------------------------------------------------
+Number of variables: 44784
+Number of clauses: 220904
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-fib.jar-obl-8__p13936_edge_closing_0.smt2 : 11721 ms.
+--------------------------------------------------
+Number of variables: 5928
+Number of clauses: 26465
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-flip2.jar-obl-8__p13949_terminationG_0.smt2 : 83 ms.
+--------------------------------------------------
+Number of variables: 9942
+Number of clauses: 45425
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-flip2.jar-obl-8__p13950_terminationG_0.smt2 : 146 ms.
+--------------------------------------------------
+Number of variables: 4839
+Number of clauses: 22145
+Number of variables: 9813
+Number of clauses: 45795
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-flip2.jar-obl-8__p13963_edge_closing_0.smt2 : 361 ms.
+--------------------------------------------------
+Number of variables: 8443
+Number of clauses: 39715
+Number of variables: 17081
+Number of clauses: 80883
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-flip2.jar-obl-8__p13964_edge_closing_0.smt2 : 4254 ms.
+--------------------------------------------------
+Number of variables: 4196
+Number of clauses: 19442
+Number of variables: 8322
+Number of clauses: 39318
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-flip2.jar-obl-8__p13970_edge_closing_0.smt2 : 3803 ms.
+--------------------------------------------------
+Number of variables: 7527
+Number of clauses: 35791
+Number of variables: 14939
+Number of clauses: 71523
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-flip2.jar-obl-8__p13971_edge_closing_0.smt2 : 21843 ms.
+--------------------------------------------------
+Number of variables: 3115
+Number of clauses: 13407
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-flip.jar-obl-8__p13989_terminationG_0.smt2 : 34 ms.
+--------------------------------------------------
+Number of variables: 15245
+Number of clauses: 68635
+Number of variables: 29781
+Number of clauses: 134253
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14051_terminationG_0.smt2 : 2911 ms.
+--------------------------------------------------
+Number of variables: 9485
+Number of clauses: 43905
+Number of variables: 17757
+Number of clauses: 81643
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14056_terminationG_0.smt2 : 422 ms.
+--------------------------------------------------
+Number of variables: 23846
+Number of clauses: 110599
+Number of variables: 45754
+Number of clauses: 211381
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14073_terminationG_0.smt2 : 5062 ms.
+--------------------------------------------------
+Number of variables: 11790
+Number of clauses: 57902
+Number of variables: 20918
+Number of clauses: 101188
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14078_terminationG_0.smt2 : 3110 ms.
+--------------------------------------------------
+Number of variables: 25427
+Number of clauses: 120589
+Number of variables: 47975
+Number of clauses: 225707
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14095_terminationG_0.smt2 : 1845 ms.
+--------------------------------------------------
+Number of variables: 21230
+Number of clauses: 95897
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14102_edge_closing_0.smt2 : 259 ms.
+--------------------------------------------------
+Number of variables: 39920
+Number of clauses: 176127
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14103_edge_closing_0.smt2 : 1142 ms.
+--------------------------------------------------
+Number of variables: 60398
+Number of clauses: 270395
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14104_edge_closing_0.smt2 : 1463 ms.
+--------------------------------------------------
+Number of variables: 19454
+Number of clauses: 88208
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14110_edge_closing_0.smt2 : 219 ms.
+--------------------------------------------------
+Number of variables: 20969
+Number of clauses: 98160
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14117_edge_closing_0.smt2 : 384 ms.
+--------------------------------------------------
+Number of variables: 7360
+Number of clauses: 35117
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14125_edge_closing_0.smt2 : 97 ms.
+--------------------------------------------------
+Number of variables: 11440
+Number of clauses: 55167
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14126_edge_closing_0.smt2 : 813 ms.
+--------------------------------------------------
+Number of variables: 8637
+Number of clauses: 42681
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-lcm.jar-obl-10__p14129_edge_closing_0.smt2 : 697 ms.
+--------------------------------------------------
+Number of variables: 12818
+Number of clauses: 61227
+Number of variables: 19864
+Number of clauses: 94921
+sat
+check sat
+SAT_Split_100/56/QF_NIA_SAT/20170427-VeryMax/ITS/From_AProVE_2014__Velroyen08-marbie2.jar-obl-8__p14187_edge_closing_0.smt2 : 409 ms.
