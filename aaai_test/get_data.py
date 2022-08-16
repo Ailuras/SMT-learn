@@ -72,16 +72,69 @@ def get_data(dir, label):
     instances.append(0)
     times.append(0)
     for item in data:
-        # if(len(item) == 0):
-        #     continue
-        # if item[1] == 'sat':
-        #     instances.append(instances[-1] + 1)
-        # else:
-            # instances.append(instances[-1])
-        # times.append(times[-1]+int(item[-1])/1000)
-        instances.append(instances[-1]+1)
-        times.append(times[-1]+int(item[-1]))
+        if(len(item) == 0):
+            continue
+        if item[1] == 'sat':
+            instances.append(instances[-1] + 1)
+        else:
+            instances.append(instances[-1])
+        times.append(times[-1]+int(item[-1])/1000)
+        # instances.append(instances[-1]+1)
+        # times.append(times[-1]+int(item[-1]))
 
     return instances, times
         
+def get_data_new(dir, label):
+    times = []
+    nums = []
+    num = 0
+    
+    if os.path.isfile(dir):
+        file = dir.split('/')[-1]
+        file_list = [file]
+        dir = './' + dir.split('/')[1] + '/'
+    else:
+        file_list = os.listdir(dir)
+    
+    file_list = os.listdir(dir)
+    for file in file_list:
+        new_path = os.path.join(dir, file)
+        if not os.path.isdir(new_path):
+            with open(new_path) as f:
+                lines = f.readlines()
+                for line in lines:
+                    if 'SAT_Split_100' in line:
+                        run_time = int(line.split(' : ')[1][:-4])
+                        times.append(run_time)
+                        num += 1
+                        nums.append(num)
+    times.sort()
+    
+    # for i in range(0, 1200, 10):
+    #     min_time = i
+    #     max_time = (i+10)
+    #     if os.path.isfile(dir):
+    #         file = dir.split('/')[-1]
+    #         file_list = [file]
+    #         dir = './' + dir.split('/')[1] + '/'
+    #     else:
+    #         file_list = os.listdir(dir)
+        
+    #     file_list = os.listdir(dir)
+    #     for file in file_list:
+    #         new_path = os.path.join(dir, file)
+    #         if not os.path.isdir(new_path):
+    #             with open(new_path) as f:
+    #                 lines = f.readlines()
+    #                 for line in lines:
+    #                     if 'SAT_Split_100' in line:
+    #                         run_time = int(line.split(' : ')[1][:-4])
+    #                         if run_time <= max_time*1000 and run_time >= min_time*1000:
+    #                             num += 1
+        # times.append(max_time)
+        # nums.append(num)
+        
             
+
+    return times, nums
+    # return nums, times

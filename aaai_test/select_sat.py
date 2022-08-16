@@ -6,7 +6,7 @@ import shutil
 def classify(path='', max_time='none', min_time='none'):
     if max_time == 'none':
         target_path = path
-        max_time = 10000000
+        max_time = 1250000
     else:
         target_path = path + '_max' + max_time
         max_time = int(max_time)*1000
@@ -110,12 +110,14 @@ def classify(path='', max_time='none', min_time='none'):
                         info.clear()
 
 # 获取全都解出来的例子
-def get_sat(path='hhh'):
+
+def get_sat(path='blan'):
+    sat_list = []
     if os.path.exists('error.log'):
         os.remove('error.log')
     
     file_list = os.listdir(path)
-    if path == 'hhh':
+    if path == 'blan':
         for file in file_list:
             new_path = os.path.join(path, file)
             with open(new_path) as f:
@@ -145,19 +147,71 @@ def get_sat(path='hhh'):
                         if info[:3] == 'sat':
                             result = 'sat'
                         info = f.readline()
-                    if result == 'timeout':
-                        if info.split(' : ')[0] in sat_list:
-                            sat_list.remove(info.split(' : ')[0])
-                    elif result == 'sat':
+                    if result == 'sat':
+                        sat_list.append(info.split(' : ')[0])
+                    elif result == 'timeout':
                         continue
                     else:
                         with open('error.log',"a") as f1:
                             f1.write(new_path, info)
-    print('count: ', len(sat_list))
+    print(len(sat_list))
+    # print(sat_list[0])
+    select(path, sat_list)
+
+def get_all_sat(path='blan', all_sat_list=[]):
+    if os.path.exists('error.log'):
+        os.remove('error.log')
+    
+    file_list = os.listdir(path)
+    if path == 'blan':
+        for file in file_list:
+            new_path = os.path.join(path, file)
+            with open(new_path) as f:
+                while f.readline():
+                    info = f.readline()
+                    result = 'timeout'
+                    while info[:3] != 'SAT' and info:
+                        result = info[:-1]
+                        info = f.readline()
+                    if result[:3] == 'che':
+                        all_sat_list.append(info.split(' : ')[0])
+                    elif result[:3] == 'com':
+                        continue
+                    else:
+                        with open('error.log',"a") as f1:
+                            f1.write(info)
+    else:
+        for file in file_list:
+            new_path = os.path.join(path, file)
+            with open(new_path) as f:
+                while f.readline():
+                    info = f.readline()
+                    result = 'timeout'
+                    while info[:3] != 'SAT' and info:
+                        if info[:3] == 'com' or info[:3] == 'unk' or info[:3] == 'tim':
+                            result = 'timeout'
+                        if info[:3] == 'sat':
+                            result = 'sat'
+                        info = f.readline()
+                    if result == 'timeout':
+                        if info.split(' : ')[0] in all_sat_list:
+                            all_sat_list.remove(info.split(' : ')[0])
+                    elif result == 'sat':
+                        if info.split(' : ')[0] in all_sat_list:
+                            if int(info.split(' : ')[1][:-4]) > 1250000:
+                                all_sat_list.remove(info.split(' : ')[0])
+                    else:
+                        with open('error.log',"a") as f1:
+                            f1.write(new_path, info)
+    print('count: ', len(all_sat_list))
+    return all_sat_list
     # print(sat_list[0])
 
-def select(path='hhh'):
-    target_path = path + '_sat'
+def select(path='blan', sat_list=[], flag=True):
+    if flag == True:
+        target_path = path + '_sat'
+    else:
+        target_path = path + '_all_sat'
     if not os.path.exists(target_path):
         os.makedirs(target_path)
     elif os.path.exists(target_path):
@@ -185,31 +239,42 @@ def select(path='hhh'):
                                     f.write(i)
                         info.clear()
 
-    
-sat_list = []
+# all_sat_list = []
 
-# get_sat()
-# get_sat(path='cvc5')
-# get_sat(path='z3')
-# get_sat(path='mathsat')
-# get_sat(path='z3(b)')
-# get_sat(path='yices2')
-# get_sat(path='aprove')
+# get_all_sat()
+# get_all_sat(path='cvc5')
+# get_all_sat(path='z3')
+# get_all_sat(path='mathsat')
+# get_all_sat(path='z3(b)')
+# get_all_sat(path='yices2')
+# get_all_sat(path='aprove')
 
-# select()
-# select(path='cvc5')
-# select(path='z3')
-# select(path='mathsat')
-# select(path='z3(b)')
-# select(path='yices2')
-# select(path='aprove')
+# # with open('allsat.log',"w") as f:
+# #     for i in all_sat_list:
+# #         f.write(i+'\n')
+
+# select(sat_list=all_sat_list, flag=False)
+# select(path='cvc5', sat_list=all_sat_list, flag=False)
+# select(path='z3', sat_list=all_sat_list, flag=False)
+# select(path='mathsat', sat_list=all_sat_list, flag=False)
+# select(path='z3(b)', sat_list=all_sat_list, flag=False)
+# select(path='yices2', sat_list=all_sat_list, flag=False)
+# select(path='aprove', sat_list=all_sat_list, flag=False)
+
+# classify('blan_all_sat', 'none', 'none')
+# classify('z3_all_sat', 'none', 'none')
+# classify('z3(b)_all_sat', 'none', 'none')
+# classify('cvc5_all_sat', 'none', 'none')
+# classify('aprove_all_sat', 'none', 'none')
+# classify('yices2_all_sat', 'none', 'none')
+# classify('mathsat_all_sat', 'none', 'none')
+
 
 # get_sat(path='diffc/4')
 # get_sat(path='diffc/8')
 # get_sat(path='diffc/16')
 # get_sat(path='diffc/24')
 # get_sat(path='diffc/32')
-
 # select(path='diffc/4')
 # select(path='diffc/8')
 # select(path='diffc/16')
