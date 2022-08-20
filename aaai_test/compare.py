@@ -14,7 +14,7 @@ def get_compare(a, b, category='none', type='log'):
         times, times2= get_data('./'+a+'/'+category+'.log', './'+b+'/'+category+'.log', 'SAT_Split_100')
 
     # 生成图形
-    plt.figure(figsize=(10, 10))
+    plt.figure(figsize=(8, 8))
     
     plt.scatter(times[0], times[1], s=1, c='purple', marker="x", linewidth=5, alpha=0.25)
     plt.scatter(times2[0], times2[1], s=1, c='peru', marker="x", linewidth=5, alpha=0.25)

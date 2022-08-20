@@ -77,7 +77,7 @@ def get_graph_sat(category='none', graph='none'):
     plt.plot(instances_ours, time_ours, 'r', label='BLAN')
 
     if graph == 'none':
-        plt.ylabel('TIME (S)') # 横坐标轴的标题
+        plt.ylabel('Cum Time (s)') # 横坐标轴的标题
         plt.xlabel('INSTANCES') # 纵坐标轴的标题
     else:
         plt.ylabel('cumulative score') # 横坐标轴的标题
