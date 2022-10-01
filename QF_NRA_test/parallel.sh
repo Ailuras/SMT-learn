@@ -1,6 +1,8 @@
 #！/bin/bash
+# ./parallel.sh QF_NRA 1800 mathsat5 mathsat5_1
 time_t=$2
 solver=$3
+result=$4
 
 index=1
 function parallel() {
@@ -18,7 +20,8 @@ function parallel() {
             fi
         done
         if [ $state -eq 0 ];then
-            nohup bash run.sh $folder $time_t $solver > result_$solver/result_$index.log 2>&1 &
+            # echo hh
+            nohup bash run.sh $folder $time_t $solver > results/result_$result/result_$index.log 2>&1 &
             index=$[ $index + 1 ]
         fi
         if [ $state -eq 1 ];then
@@ -26,5 +29,9 @@ function parallel() {
         fi
     done
 }
+
+if [ ! -d results/result_$result ];then
+  mkdir results/result_$result
+fi
 
 parallel $1

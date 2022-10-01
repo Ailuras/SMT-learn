@@ -1,0 +1,282 @@
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_2-lexTemplate.smt2 : 973519 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_2-nestedTemplate.smt2 : 581178 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_2-phaseTemplate.smt2 : 598940 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 : 1800048 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_3-lexTemplate.smt2 : 1800040 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 : 854630 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_3-phaseTemplate.smt2 : 882667 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 1800044 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 : 1800041 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_4-nestedTemplate.smt2 : 1346692 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_4-phaseTemplate.smt2 : 1800035 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_5-nestedTemplate.smt2 : 1800047 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 : 1800046 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_6-nestedTemplate.smt2 : 1800049 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 : 1800050 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_7-nestedTemplate.smt2 : 1800039 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 : 1800043 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/aviad_true-termination.c_Iteration1_Loop_affineTemplate.smt2 : 202279 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800259 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800184 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 : 14804 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 21556693 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 : 6916 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 : 7191 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 22251 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 : 501854 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 1800035 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 : 17644 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1800072 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 : 2923 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 : 6491 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 : 17701 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 460359 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800024 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800035 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800030 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800116 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_3-phaseTemplate.smt2 : 2948 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800027 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_4-phaseTemplate.smt2 : 31412 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800073 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 : 1800100 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_6-nestedTemplate.smt2 : 2806 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 : 1800100 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BradleyMannaSipma-2005ICALP-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800074 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BrockschmidtCookFuhs-2013CAV-Fig1_true-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 : 1800325 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/BrockschmidtCookFuhs-2013CAV-Introduction_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 29713 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/BrockschmidtCookFuhs-2013CAV-Introduction_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1800106 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/ChenFlurMukhopadhyay-2012SAS-Fig1_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 1800104 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/ChenFlurMukhopadhyay-2012SAS-Fig1_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1800073 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 : 59479 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 714341 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_4-phaseTemplate.smt2 : 8031 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1800035 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 : 11419 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 : 18155 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig3_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 : 33413 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_2-pieceTemplate.smt2 : 171902 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_3-lexTemplate.smt2 : 21062 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_3-phaseTemplate.smt2 : 9882 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_3-pieceTemplate.smt2 : 1800085 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_4-lexTemplate.smt2 : 35055 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_4-phaseTemplate.smt2 : 11245 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_4-pieceTemplate.smt2 : 1800034 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_5-phaseTemplate.smt2 : 12587 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_6-phaseTemplate.smt2 : 12168 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7a_true-termination.c_Iteration1_Loop_7-phaseTemplate.smt2 : 14253 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7b_true-termination.c_Iteration1_Loop_2-nestedTemplate.smt2 : 1800070 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/CookSeeZuleger-2013TACAS-Fig7b_true-termination.c_Iteration1_Loop_3-nestedTemplate.smt2 : 1800081 ms.
+--------------------------------------------------
+sat
+QF_NRA/LassoRanker/SV-COMP_1/gcd1_true-termination.c_Iteration3_Loop_4-pieceTemplate.smt2 : 4477 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_2-lexTemplate.smt2 : 11281 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_2-nestedTemplate.smt2 : 3489 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_2-phaseTemplate.smt2 : 25291 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 1800072 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-lexTemplate.smt2 : 1800077 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-nestedTemplate.smt2 : 10890 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-phaseTemplate.smt2 : 112547 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800041 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 : 125240 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-nestedTemplate.smt2 : 49066 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-phaseTemplate.smt2 : 337885 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800031 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-nestedTemplate.smt2 : 31347 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_5-phaseTemplate.smt2 : 57438 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-nestedTemplate.smt2 : 29486 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_6-phaseTemplate.smt2 : 293807 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-nestedTemplate.smt2 : 100237 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate.smt2 : 1800120 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_affineTemplate.smt2 : 2895 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/HarrisLalNoriRajamani-2010SAS-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800106 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/HarrisLalNoriRajamani-2010SAS-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800038 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/joey_false-termination.c_Iteration2_Loop_3-pieceTemplate.smt2 : 1800080 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/joey_false-termination.c_Iteration2_Loop_4-pieceTemplate.smt2 : 1800033 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/joey_false-termination.c_Iteration2_Loop_5-phaseTemplate.smt2 : 2585 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/joey_false-termination.c_Iteration2_Loop_6-phaseTemplate.smt2 : 1800175 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/joey_false-termination.c_Iteration2_Loop_7-phaseTemplate.smt2 : 31113 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_2-lexTemplate.smt2 : 39741 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_2-nestedTemplate.smt2 : 17799 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_2-phaseTemplate.smt2 : 39599 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_2-pieceTemplate.smt2 : 254668 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-lexTemplate.smt2 : 146080 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-nestedTemplate.smt2 : 19552 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-phaseTemplate.smt2 : 72258 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate.smt2 : 1800054 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-lexTemplate.smt2 : 283038 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-nestedTemplate.smt2 : 119554 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-phaseTemplate.smt2 : 135060 ms.
+--------------------------------------------------
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2 : 1800079 ms.
+--------------------------------------------------
+unsat
+QF_NRA/LassoRanker/SV-COMP_1/KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_5-nestedTemplate.smt2 : 84654 ms.
+--------------------------------------------------

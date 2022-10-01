@@ -1,4 +1,6 @@
 #！/bin/bash
+# ./split.sh QF_NRA_part_new 10
+
 number=$2
 
 function split() {
@@ -35,11 +37,12 @@ function splitAll() {
             fi
         done
         if [ $state -eq 0 ];then
+            # ----- modifiy here -----
             echo $folder
             echo `ls -lR $folder | grep "^-"| wc -l`
-            # if [[ `ls -lR $folder | grep "^-"| wc -l` -gt $number ]];then
-            #     split $folder
-            # fi
+            if [[ `ls -lR $folder | grep "^-"| wc -l` -gt $number ]];then
+                split $folder
+            fi
         fi
         if [ $state -eq 1 ];then
             splitAll $folder

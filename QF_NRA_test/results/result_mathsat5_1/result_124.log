@@ -1,0 +1,100 @@
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_2001TACAS-BallPodelskiRajamani.c_Iteration2_0.smt2 : 1800032 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_agroce_minmax.c_Iteration1_0.smt2 : 136 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_agroce_minmax.c_Iteration2_0.smt2 : 602 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_agroce_minmax.c_Iteration2_1.smt2 : 1800029 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_BeyerHenzingerMajumdarRybalchenko-PLDI2007-Figure4.bpl_Iteration2_0.smt2 : 647 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_BoolVsInt.c_Iteration3_0.smt2 : 1800033 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_BugFreshConstantInSSA.bpl_Iteration2_0.smt2 : 205 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_BugHoareAnnotationWithMinimiation.bpl_Iteration1_0.smt2 : 1800023 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_BugIntegerDivision01.c_Iteration2_0.smt2 : 1800057 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_BugIsInductiveReturnGlobalVarRenaming.bpl_Iteration1_0.smt2 : 1800037 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_BugSubstitution.bpl_Iteration3_0.smt2 : 83 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_bugtest1.bpl_Iteration2_0.smt2 : 1800070 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_bugtest1.bpl_Iteration2_1.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ConditionalExpression-SideEffects-Safe.c_Iteration1_0.smt2 : 3034 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_ConditionalExpression-SideEffects-Safe.c_Iteration1_1.smt2 : 1189 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_ConditionalExpression-SideEffects-Safe.c_Iteration1_2.smt2 : 505 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_DivisibilityInterpolantRequired02-ForwardSuccess.bpl_Iteration1_0.smt2 : 1800074 ms.
+--------------------------------------------------
+unsat
+QF_NRA/UltimateAutomizer/InVarSynth_doubleLoopUniformIterations.bpl_Iteration2_0.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_Elevator.bpl_Iteration1_0.smt2 : 2723 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_EuclideanIntegerDivision.bpl_Iteration4_0.smt2 : 345 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_GateControllerIncorrect1.bpl_Iteration1_0.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_GoannaDoubleFreeWithoutPointers.bpl_Iteration1_0.smt2 : 36297 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_GoannaDoubleFreeWithoutPointers.bpl_Iteration1_1.smt2 : 1800094 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_GoannaDoubleFreeWithoutPointers.c_Iteration2_0.smt2 : 1800048 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_GopanReps-CAV2006-Fig1.c_Iteration2_0.smt2 : 1529 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_ImpulseTest.bpl_Iteration2_0.smt2 : 1800040 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_InvariantSynthesis_Disjunctive02.bpl_Iteration1_0.smt2 : 2145 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_LabelEncodingWithUnrolling.bpl_Iteration2_0.smt2 : 120 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_LexIndexValue-Pointer-Reduced.bpl_Iteration1_0.smt2 : 63 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ManyFactsAboutX.bpl_Iteration1_0.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_ManyFactsAboutX.bpl_Iteration1_1.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_MonadicInvariant01.bpl_Iteration1_0.smt2 : 64 ms.
+--------------------------------------------------
+QF_NRA/UltimateAutomizer/InVarSynth_NutzTransformation05.c_Iteration1_0.smt2 : 1800035 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_OrderDependentEquality.c_Iteration2_0.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_pcatest0.bpl_Iteration1_0.smt2 : 81 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_pcatest1.bpl_Iteration1_0.smt2 : 410 ms.
+--------------------------------------------------
+sat
+QF_NRA/UltimateAutomizer/InVarSynth_pcatest1.bpl_Iteration1_1.smt2 : 161 ms.
+--------------------------------------------------

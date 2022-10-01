@@ -1,0 +1,413 @@
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.qfree_global_2.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.qfree_global_3.smt2 : 125 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.qfree_global_4.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.qfree_global_5.smt2 : 393 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.qfree_global_6.smt2 : 100 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.qfree_global_7.smt2 : 1750 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.qfree_global_8.smt2 : 178 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.qfree_global_9.smt2 : 314 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_0.smt2 : 14 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_10.smt2 : 228 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_11.smt2 : 959 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_12.smt2 : 397 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_13.smt2 : 1831 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_14.smt2 : 782 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_15.smt2 : 1854 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_1.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_2.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_3.smt2 : 605 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_4.smt2 : 125 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_5.smt2 : 191 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_6.smt2 : 150 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_7.smt2 : 1800098 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_8.smt2 : 214 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.redlog_global_9.smt2 : 1800067 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_0.smt2 : 17 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_10.smt2 : 203 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_11.smt2 : 7310 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_12.smt2 : 455 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_13.smt2 : 1800063 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_14.smt2 : 854 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_15.smt2 : 1800059 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_1.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_2.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_3.smt2 : 100 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_4.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_5.smt2 : 120 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_6.smt2 : 130 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_7.smt2 : 785 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_8.smt2 : 177 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_global_9.smt2 : 1800087 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_0.smt2 : 13 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_10.smt2 : 281 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_11.smt2 : 473 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_12.smt2 : 481 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_13.smt2 : 842 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_14.smt2 : 810 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_15.smt2 : 20358 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_1.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_2.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_3.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_4.smt2 : 78 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_5.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_6.smt2 : 121 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_7.smt2 : 1800077 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_8.smt2 : 152 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_lemmas_global_9.smt2 : 355 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_0.smt2 : 13 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_10.smt2 : 186 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_11.smt2 : 695 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_12.smt2 : 139 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_13.smt2 : 1800046 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_14.smt2 : 3130 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_15.smt2 : 1800068 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_1.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_2.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_3.smt2 : 76 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_4.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_5.smt2 : 125 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_6.smt2 : 97 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_7.smt2 : 1800335 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_8.smt2 : 105 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_global_9.smt2 : 272 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_0.smt2 : 15 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_10.smt2 : 233 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_11.smt2 : 1800015 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_12.smt2 : 554 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_13.smt2 : 1800282 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_14.smt2 : 1401 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_15.smt2 : 1800159 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_1.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_2.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_3.smt2 : 157 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_4.smt2 : 100 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_5.smt2 : 103 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_6.smt2 : 131 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_7.smt2 : 1800070 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_8.smt2 : 289 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/etcs_braking_2.01.seq_lazy_linear_enc_lemmas_global_9.smt2 : 464 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_0.smt2 : 13 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_10.smt2 : 23 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_11.smt2 : 1800080 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_12.smt2 : 31 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_13.smt2 : 1800072 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_14.smt2 : 28 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_15.smt2 : 1800011 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_1.smt2 : 282 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_2.smt2 : 20 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_3.smt2 : 1800018 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_4.smt2 : 23 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_5.smt2 : 1800013 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_6.smt2 : 20 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_7.smt2 : 1800014 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_8.smt2 : 26 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_global_9.smt2 : 1800034 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_0.smt2 : 13 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_10.smt2 : 28 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_11.smt2 : 1800055 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_12.smt2 : 48 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_13.smt2 : 1800016 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_14.smt2 : 35 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_15.smt2 : 1800147 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_1.smt2 : 1800029 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_2.smt2 : 23 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_3.smt2 : 1800044 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_4.smt2 : 27 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_5.smt2 : 1800026 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_6.smt2 : 30 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_7.smt2 : 1800022 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_8.smt2 : 35 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_lemmas_global_9.smt2 : 1800026 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_0.smt2 : 15 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_10.smt2 : 23 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_11.smt2 : 1800020 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_12.smt2 : 30 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_13.smt2 : 1800067 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_14.smt2 : 36 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_15.smt2 : 1800011 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_1.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_2.smt2 : 15 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_3.smt2 : 1800046 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_4.smt2 : 16 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_5.smt2 : 1800009 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_6.smt2 : 23 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_7.smt2 : 1800071 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_8.smt2 : 21 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_global_9.smt2 : 1800010 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_0.smt2 : 13 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_10.smt2 : 28 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_11.smt2 : 1800011 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_12.smt2 : 28 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_13.smt2 : 1800010 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_14.smt2 : 32 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_15.smt2 : 1800010 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_1.smt2 : 1800027 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_2.smt2 : 22 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_3.smt2 : 1800012 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_4.smt2 : 23 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_5.smt2 : 1800009 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_6.smt2 : 21 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_7.smt2 : 1800042 ms.
+--------------------------------------------------
+unsat
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_8.smt2 : 30 ms.
+--------------------------------------------------
+QF_NRA/hycomp_14/simple_ballistics_reach.01.seq_lazy_linear_enc_lemmas_global_9.smt2 : 1800016 ms.

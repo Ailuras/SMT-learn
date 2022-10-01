@@ -1,4 +1,5 @@
 #！/bin/bash
+# ./pre.sh QF_NRA
 
 function pre() {
     if test -d $@;then
