@@ -2,23 +2,25 @@
 # ./run.sh test.smt2 1800 mathsat5
 time_t=$2
 solver=$3
-yices2=solvers/yices2/yices-smt2
-mathsat5=solvers/mathsat-5.6.8-linux-x86_64/bin/mathsat
+
 function testAll() {
     if test -f $@;then
         echo --------------------------------------------------
         start=$[$(date +%s%N)/1000000]
-        if [ "$solver"x = "cvc5"x ]; then
-            timeout $time_t bash run_cvc5.sh $@
-        fi
         if [ "$solver"x = "z3"x ]; then
-            z3 $@ -T:$time_t
+            ./solvers/z3/run.sh $@ $time_t
+        fi
+        if [ "$solver"x = "cvc5"x ]; then
+            ./solvers/cvc5/run.sh $@ $time_t
         fi
         if [ "$solver"x = "yices2"x ]; then
-            timeout $time_t $yices2 $@
+            ./solvers/yices2/run.sh $@ $time_t
         fi
         if [ "$solver"x = "mathsat5"x ]; then
-            timeout $time_t $mathsat5 $@
+            ./solvers/mathsat/run.sh $@ $time_t
+        fi
+        if [ "$solver"x = "smtrat"x ]; then
+            ./solvers/smtrat/run.sh $@ $time_t
         fi
         end=$[$(date +%s%N)/1000000]
         take=$(( end - start ))
@@ -28,17 +30,20 @@ function testAll() {
     for file in $@/*;do 
         echo --------------------------------------------------
         start=$[$(date +%s%N)/1000000]
-        if [ "$solver"x = "cvc5"x ]; then
-            timeout $time_t bash run_cvc5.sh $file
-        fi
         if [ "$solver"x = "z3"x ]; then
-            z3 $file -T:$time_t
+            ./solvers/z3/run.sh $file $time_t
+        fi
+        if [ "$solver"x = "cvc5"x ]; then
+            ./solvers/cvc5/run.sh $file $time_t
         fi
         if [ "$solver"x = "yices2"x ]; then
-            timeout $time_t $yices2 $file
+            ./solvers/yices2/run.sh $file $time_t
         fi
         if [ "$solver"x = "mathsat5"x ]; then
-            timeout $time_t $mathsat5 $file
+            ./solvers/mathsat/run.sh $file $time_t
+        fi
+        if [ "$solver"x = "smtrat"x ]; then
+            ./solvers/smtrat/run.sh $file $time_t
         fi
         end=$[$(date +%s%N)/1000000]
         take=$(( end - start ))
