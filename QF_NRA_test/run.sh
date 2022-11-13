@@ -22,6 +22,9 @@ function testAll() {
         if [ "$solver"x = "smtrat"x ]; then
             ./solvers/smtrat/run.sh $@ $time_t
         fi
+        if [ "$solver"x = "z3_UD"x ]; then
+            ./solvers/z3_UD/run.sh $@ $time_t
+        fi
         end=$[$(date +%s%N)/1000000]
         take=$(( end - start ))
         echo $@ : ${take} ms.
@@ -44,6 +47,9 @@ function testAll() {
         fi
         if [ "$solver"x = "smtrat"x ]; then
             ./solvers/smtrat/run.sh $file $time_t
+        fi
+        if [ "$solver"x = "z3_UD"x ]; then
+            ./solvers/z3_UD/run.sh $file $time_t
         fi
         end=$[$(date +%s%N)/1000000]
         take=$(( end - start ))

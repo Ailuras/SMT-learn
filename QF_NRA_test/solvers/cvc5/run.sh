@@ -1,8 +1,5 @@
 #！/bin/bash
-#  ulimit -S -t "1200"; bin/cvc5 -L smt2.6 --no-incremental --no-type-checking --no-interactive "600" test.smt2
-# bin/cvc5 -L smt2.6 --no-incremental --no-type-checking --no-interactive $bench
-
-cvc5=bin/cvc5
+cvc5=solvers/cvc5/bin/cvc5
 bench=$1
 ulimit -t $2
 
